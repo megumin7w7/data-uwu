@@ -1,0 +1,4070 @@
+{
+  "meta": {
+    "fecha_generacion": "2026-08-28T23:18:02.981156",
+    "total_registros": 470,
+    "rango_fechas": "2025-11-15 a N/A"
+  },
+  "kpis": {
+    "total": 470,
+    "activas": 0,
+    "contratadas": 0,
+    "rechazadas": 0,
+    "en_proceso": 0,
+    "otros": 0
+  },
+  "postulaciones": [
+    {
+      "puesto": "Sin dato",
+      "empresa": "Sin dato",
+      "modalidad": "Sin dato",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-11-15",
+      "semana_label": "2025-W45"
+    },
+    {
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-11-27",
+      "semana_label": "2025-W47"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-11-27",
+      "semana_label": "2025-W47"
+    },
+    {
+      "puesto": "Asesor Comercial B2B de Software | Part Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-11-28",
+      "semana_label": "2025-W47"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-11-29",
+      "semana_label": "2025-W47"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-03",
+      "semana_label": "2025-W48"
+    },
+    {
+      "puesto": "Asesor Comercial B2B de Software | Part Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-03",
+      "semana_label": "2025-W48"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-03",
+      "semana_label": "2025-W48"
+    },
+    {
+      "puesto": "Trafficker Digital | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-03",
+      "semana_label": "2025-W48"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-03",
+      "semana_label": "2025-W48"
+    },
+    {
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-03",
+      "semana_label": "2025-W48"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-04",
+      "semana_label": "2025-W48"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-04",
+      "semana_label": "2025-W48"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-04",
+      "semana_label": "2025-W48"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-04",
+      "semana_label": "2025-W48"
+    },
+    {
+      "puesto": "Asesor Comercial B2B de Software | Part Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-04",
+      "semana_label": "2025-W48"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-04",
+      "semana_label": "2025-W48"
+    },
+    {
+      "puesto": "Trafficker Digital | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-04",
+      "semana_label": "2025-W48"
+    },
+    {
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-05",
+      "semana_label": "2025-W48"
+    },
+    {
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-05",
+      "semana_label": "2025-W48"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-07",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "Barranco, Lima",
+      "fecha_postulacion": "2025-12-07",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-07",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-08",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-08",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-08",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-08",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-08",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-09",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-09",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "Barranco, Lima",
+      "fecha_postulacion": "2025-12-09",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-09",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-09",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-10",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-10",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-10",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Asesor Comercial B2B de Software | Part Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-10",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-10",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-10",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-11",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-11",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-12",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Asesor Comercial B2B de Software | Part Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-12",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-12",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-13",
+      "semana_label": "2025-W49"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-17",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-17",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-18",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-18",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "Barranco, Lima",
+      "fecha_postulacion": "2025-12-19",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "Barranco, Lima",
+      "fecha_postulacion": "2025-12-19",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "Barranco, Lima",
+      "fecha_postulacion": "2025-12-19",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-19",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-19",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Desarrollador/a Frontend Jr",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-19",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Desarrollador/a Frontend Jr",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-19",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Desarrollador Web Junior",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-19",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "Barranco, Lima",
+      "fecha_postulacion": "2025-12-19",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Auxiliar Administrativo (Prueba)",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-19",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Desarrollador web",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-19",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Desarrollador Web Junior",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-19",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Desarrollador web",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-19",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Desarrollador web",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-20",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Desarrollador Junior de Software",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-20",
+      "semana_label": "2025-W50"
+    },
+    {
+      "puesto": "Asesor Comercial B2B de Software | Part Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-23",
+      "semana_label": "2025-W51"
+    },
+    {
+      "puesto": "Asesor Comercial B2B de Software | Part Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-24",
+      "semana_label": "2025-W51"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "Barranco, Lima",
+      "fecha_postulacion": "2025-12-28",
+      "semana_label": "2025-W52"
+    },
+    {
+      "puesto": "Analista de Marketing Digital Senior",
+      "empresa": "Sin dato",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-28",
+      "semana_label": "2025-W52"
+    },
+    {
+      "puesto": "Practicante Comercial Ecommerce",
+      "empresa": "Laboralin",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2025-12-29",
+      "semana_label": "2025-W52"
+    },
+    {
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "presencial",
+      "region": "Lima, Lima",
+      "fecha_postulacion": "2026-01-02",
+      "semana_label": "2026-W00"
+    },
+    {
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "presencial",
+      "region": "Lima, Lima",
+      "fecha_postulacion": "2026-01-02",
+      "semana_label": "2026-W00"
+    },
+    {
+      "puesto": "Auxiliar de Digitalización y Organización de Datos",
+      "empresa": "Sin dato",
+      "modalidad": "hibrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2026-01-02",
+      "semana_label": "2026-W00"
+    },
+    {
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "presencial",
+      "region": "Lima, Lima",
+      "fecha_postulacion": "2026-01-02",
+      "semana_label": "2026-W00"
+    },
+    {
+      "puesto": "Desarrollador Web Junior",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2026-01-06",
+      "semana_label": "2026-W01"
+    },
+    {
+      "puesto": "Desarrollador Web Junior",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2026-01-06",
+      "semana_label": "2026-W01"
+    },
+    {
+      "puesto": "Desarrollador Web Junior",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2026-01-06",
+      "semana_label": "2026-W01"
+    },
+    {
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "presencial",
+      "region": "Lima, Lima",
+      "fecha_postulacion": "2026-01-06",
+      "semana_label": "2026-W01"
+    },
+    {
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "presencial",
+      "region": "Lima, Lima",
+      "fecha_postulacion": "2026-01-06",
+      "semana_label": "2026-W01"
+    },
+    {
+      "puesto": "Desarrollador Web Junior",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2026-01-06",
+      "semana_label": "2026-W01"
+    },
+    {
+      "puesto": "Desarrollador web",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2026-01-07",
+      "semana_label": "2026-W01"
+    },
+    {
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "presencial",
+      "region": "Lima, Lima",
+      "fecha_postulacion": "2026-01-08",
+      "semana_label": "2026-W01"
+    },
+    {
+      "puesto": "Test",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2026-01-12",
+      "semana_label": "2026-W02"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "Barranco, Lima",
+      "fecha_postulacion": "2026-01-14",
+      "semana_label": "2026-W02"
+    },
+    {
+      "puesto": "Sin dato",
+      "empresa": "Sin dato",
+      "modalidad": "Sin dato",
+      "region": "Sin dato",
+      "fecha_postulacion": "2026-01-16",
+      "semana_label": "2026-W02"
+    },
+    {
+      "puesto": "Sin dato",
+      "empresa": "Sin dato",
+      "modalidad": "Sin dato",
+      "region": "Sin dato",
+      "fecha_postulacion": "2026-01-16",
+      "semana_label": "2026-W02"
+    },
+    {
+      "puesto": "Sin dato",
+      "empresa": "Sin dato",
+      "modalidad": "Sin dato",
+      "region": "Sin dato",
+      "fecha_postulacion": "2026-01-16",
+      "semana_label": "2026-W02"
+    },
+    {
+      "puesto": "Business Development & Talent Success Manager",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-01-17",
+      "semana_label": "2026-W02"
+    },
+    {
+      "puesto": "Business Development & Talent Success Manager",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-01-17",
+      "semana_label": "2026-W02"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "Barranco, Lima",
+      "fecha_postulacion": "2026-01-18",
+      "semana_label": "2026-W03"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "Barranco, Lima",
+      "fecha_postulacion": "2026-01-20",
+      "semana_label": "2026-W03"
+    },
+    {
+      "puesto": "Business Development & Talent Success Manager",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-01-21",
+      "semana_label": "2026-W03"
+    },
+    {
+      "puesto": "Business Development & Talent Success Manager",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-01-25",
+      "semana_label": "2026-W04"
+    },
+    {
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-01-26",
+      "semana_label": "2026-W04"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "Barranco, Lima",
+      "fecha_postulacion": "2026-01-26",
+      "semana_label": "2026-W04"
+    },
+    {
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-01-26",
+      "semana_label": "2026-W04"
+    },
+    {
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-01-27",
+      "semana_label": "2026-W04"
+    },
+    {
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-01-27",
+      "semana_label": "2026-W04"
+    },
+    {
+      "puesto": "Desarrollador Web Junior",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2026-01-27",
+      "semana_label": "2026-W04"
+    },
+    {
+      "puesto": "Business Development & Talent Success Manager",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-01-27",
+      "semana_label": "2026-W04"
+    },
+    {
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-01-27",
+      "semana_label": "2026-W04"
+    },
+    {
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-01-27",
+      "semana_label": "2026-W04"
+    },
+    {
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-01-27",
+      "semana_label": "2026-W04"
+    },
+    {
+      "puesto": "Desarrollador Web Junior",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2026-01-27",
+      "semana_label": "2026-W04"
+    },
+    {
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-01-29",
+      "semana_label": "2026-W04"
+    },
+    {
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-01-29",
+      "semana_label": "2026-W04"
+    },
+    {
+      "puesto": "Business Development & Talent Success Manager",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-01-29",
+      "semana_label": "2026-W04"
+    },
+    {
+      "puesto": "Especialista DATA SCIENCE",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Ate, Lima",
+      "fecha_postulacion": "2026-01-29",
+      "semana_label": "2026-W04"
+    },
+    {
+      "puesto": "Practicante pre profesional programación",
+      "empresa": "Laboral",
+      "modalidad": "hibrido",
+      "region": "Independencia, Áncash",
+      "fecha_postulacion": "2026-02-07",
+      "semana_label": "2026-W05"
+    },
+    {
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-02-10",
+      "semana_label": "2026-W06"
+    },
+    {
+      "puesto": "Test",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-11",
+      "semana_label": "2026-W06"
+    },
+    {
+      "puesto": "Especialista DATA SCIENCE",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Ate, Lima",
+      "fecha_postulacion": "2026-02-12",
+      "semana_label": "2026-W06"
+    },
+    {
+      "puesto": "Test",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-12",
+      "semana_label": "2026-W06"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "Barranco, Lima",
+      "fecha_postulacion": "2026-02-12",
+      "semana_label": "2026-W06"
+    },
+    {
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "presencial",
+      "region": "Lima, Lima",
+      "fecha_postulacion": "2026-02-12",
+      "semana_label": "2026-W06"
+    },
+    {
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "presencial",
+      "region": "Lima, Lima",
+      "fecha_postulacion": "2026-02-12",
+      "semana_label": "2026-W06"
+    },
+    {
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "presencial",
+      "region": "Lima, Lima",
+      "fecha_postulacion": "2026-02-12",
+      "semana_label": "2026-W06"
+    },
+    {
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "presencial",
+      "region": "Lima, Lima",
+      "fecha_postulacion": "2026-02-12",
+      "semana_label": "2026-W06"
+    },
+    {
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "presencial",
+      "region": "Lima, Lima",
+      "fecha_postulacion": "2026-02-12",
+      "semana_label": "2026-W06"
+    },
+    {
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "presencial",
+      "region": "Lima, Lima",
+      "fecha_postulacion": "2026-02-12",
+      "semana_label": "2026-W06"
+    },
+    {
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "presencial",
+      "region": "Lima, Lima",
+      "fecha_postulacion": "2026-02-13",
+      "semana_label": "2026-W06"
+    },
+    {
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "presencial",
+      "region": "Lima, Lima",
+      "fecha_postulacion": "2026-02-13",
+      "semana_label": "2026-W06"
+    },
+    {
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "presencial",
+      "region": "Lima, Lima",
+      "fecha_postulacion": "2026-02-13",
+      "semana_label": "2026-W06"
+    },
+    {
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-02-17",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Practicante pre profesional programación",
+      "empresa": "Laboral",
+      "modalidad": "hibrido",
+      "region": "Independencia, Áncash",
+      "fecha_postulacion": "2026-02-17",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Sin dato",
+      "empresa": "Sin dato",
+      "modalidad": "Sin dato",
+      "region": "Sin dato",
+      "fecha_postulacion": "N/A",
+      "semana_label": NaN
+    },
+    {
+      "puesto": "Counter para Veterinaria en Miraflores",
+      "empresa": "Clínica Veterinaria Wawow",
+      "modalidad": "presencial",
+      "region": "Miraflores, Lima",
+      "fecha_postulacion": "2026-02-19",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Test",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-21",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-02-21",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-02-21",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-02-21",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-02-21",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-02-21",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-02-21",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-02-21",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-02-21",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-02-21",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-02-21",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-02-21",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-02-21",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-02-21",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-02-21",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-02-21",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-02-21",
+      "semana_label": "2026-W07"
+    },
+    {
+      "puesto": "Prueba",
+      "empresa": "Soft_apt",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-24",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-02-25",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-02-25",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-25",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-25",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-25",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-25",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-25",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-25",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-25",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-25",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-25",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-25",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-25",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-25",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-02-25",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-02-26",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-02-26",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-02-26",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-02-26",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-02-26",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-02-26",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Test",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-27",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-02-27",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Test",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-27",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Counter para Veterinaria en Miraflores",
+      "empresa": "Clínica Veterinaria Wawow",
+      "modalidad": "presencial",
+      "region": "Miraflores, Lima",
+      "fecha_postulacion": "2026-02-27",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "Barranco, Lima",
+      "fecha_postulacion": "2026-02-27",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-02-27",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-02-27",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-02-27",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-02-27",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Counter para Veterinaria en Miraflores",
+      "empresa": "Clínica Veterinaria Wawow",
+      "modalidad": "presencial",
+      "region": "Miraflores, Lima",
+      "fecha_postulacion": "2026-02-28",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "Barranco, Lima",
+      "fecha_postulacion": "2026-02-28",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-02-28",
+      "semana_label": "2026-W08"
+    },
+    {
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "presencial",
+      "region": "Lima, Lima",
+      "fecha_postulacion": "2026-03-01",
+      "semana_label": "2026-W09"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-03-02",
+      "semana_label": "2026-W09"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "Barranco, Lima",
+      "fecha_postulacion": "2026-03-03",
+      "semana_label": "2026-W09"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-03-03",
+      "semana_label": "2026-W09"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-03-03",
+      "semana_label": "2026-W09"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-03-03",
+      "semana_label": "2026-W09"
+    },
+    {
+      "puesto": "FORMULADOR DE NEGOCIOS SOSTENIBLES",
+      "empresa": "GREMIO NACIONAL DE EMPRENDEDORES SOSTENIBLES DEL PERU",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-03-06",
+      "semana_label": "2026-W09"
+    },
+    {
+      "puesto": "Operario de Investigación y Desarrollo",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-06",
+      "semana_label": "2026-W09"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-03-07",
+      "semana_label": "2026-W09"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "Barranco, Lima",
+      "fecha_postulacion": "2026-03-07",
+      "semana_label": "2026-W09"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-03-07",
+      "semana_label": "2026-W09"
+    },
+    {
+      "puesto": "FORMULADOR DE NEGOCIOS SOSTENIBLES",
+      "empresa": "GREMIO NACIONAL DE EMPRENDEDORES SOSTENIBLES DEL PERU",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-03-12",
+      "semana_label": "2026-W10"
+    },
+    {
+      "puesto": "FORMULADOR DE NEGOCIOS SOSTENIBLES",
+      "empresa": "GREMIO NACIONAL DE EMPRENDEDORES SOSTENIBLES DEL PERU",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-03-14",
+      "semana_label": "2026-W10"
+    },
+    {
+      "puesto": "FORMULADOR DE NEGOCIOS SOSTENIBLES",
+      "empresa": "GREMIO NACIONAL DE EMPRENDEDORES SOSTENIBLES DEL PERU",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-03-15",
+      "semana_label": "2026-W11"
+    },
+    {
+      "puesto": "Asistente comercial",
+      "empresa": "SIBI",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-03-17",
+      "semana_label": "2026-W11"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-18",
+      "semana_label": "2026-W11"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-19",
+      "semana_label": "2026-W11"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-19",
+      "semana_label": "2026-W11"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-19",
+      "semana_label": "2026-W11"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-20",
+      "semana_label": "2026-W11"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-20",
+      "semana_label": "2026-W11"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-20",
+      "semana_label": "2026-W11"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "Barranco, Lima",
+      "fecha_postulacion": "2026-03-20",
+      "semana_label": "2026-W11"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-20",
+      "semana_label": "2026-W11"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-21",
+      "semana_label": "2026-W11"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-21",
+      "semana_label": "2026-W11"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-23",
+      "semana_label": "2026-W12"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-23",
+      "semana_label": "2026-W12"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-23",
+      "semana_label": "2026-W12"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-23",
+      "semana_label": "2026-W12"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-23",
+      "semana_label": "2026-W12"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-24",
+      "semana_label": "2026-W12"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-25",
+      "semana_label": "2026-W12"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-25",
+      "semana_label": "2026-W12"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-25",
+      "semana_label": "2026-W12"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-26",
+      "semana_label": "2026-W12"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-26",
+      "semana_label": "2026-W12"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-26",
+      "semana_label": "2026-W12"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-26",
+      "semana_label": "2026-W12"
+    },
+    {
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "presencial",
+      "region": "Lima, Lima",
+      "fecha_postulacion": "2026-03-26",
+      "semana_label": "2026-W12"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-27",
+      "semana_label": "2026-W12"
+    },
+    {
+      "puesto": "Test",
+      "empresa": "TestLabCorp",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-30",
+      "semana_label": "2026-W13"
+    },
+    {
+      "puesto": "Test",
+      "empresa": "TestLabCorp",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-30",
+      "semana_label": "2026-W13"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-03-31",
+      "semana_label": "2026-W13"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-04-01",
+      "semana_label": "2026-W13"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-04-02",
+      "semana_label": "2026-W13"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-04-07",
+      "semana_label": "2026-W14"
+    },
+    {
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-04-10",
+      "semana_label": "2026-W14"
+    },
+    {
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-04-11",
+      "semana_label": "2026-W14"
+    },
+    {
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-04-14",
+      "semana_label": "2026-W15"
+    },
+    {
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-04-16",
+      "semana_label": "2026-W15"
+    },
+    {
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-04-16",
+      "semana_label": "2026-W15"
+    },
+    {
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-04-17",
+      "semana_label": "2026-W15"
+    },
+    {
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-04-19",
+      "semana_label": "2026-W16"
+    },
+    {
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-04-20",
+      "semana_label": "2026-W16"
+    },
+    {
+      "puesto": "Asesor (a) comercial de seguros de Vida",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-04-21",
+      "semana_label": "2026-W16"
+    },
+    {
+      "puesto": "Asesor (a) comercial de seguros de Vida",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-04-21",
+      "semana_label": "2026-W16"
+    },
+    {
+      "puesto": "EJECUTIVO DE VENTAS/BBVACREDITOS HIPOTECARIO",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-04-23",
+      "semana_label": "2026-W16"
+    },
+    {
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-04-23",
+      "semana_label": "2026-W16"
+    },
+    {
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-04-24",
+      "semana_label": "2026-W16"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-04-27",
+      "semana_label": "2026-W17"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-04-29",
+      "semana_label": "2026-W17"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-04-30",
+      "semana_label": "2026-W17"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-04-30",
+      "semana_label": "2026-W17"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-01",
+      "semana_label": "2026-W17"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-04",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Asistente de Marketing",
+      "empresa": "lati2viajeros",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-05-05",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Asistente de Marketing",
+      "empresa": "lati2viajeros",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-05-05",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Asistente de Marketing",
+      "empresa": "lati2viajeros",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-05-05",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Asistente de Marketing",
+      "empresa": "lati2viajeros",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-05-05",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Asistente de Marketing",
+      "empresa": "lati2viajeros",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-05-05",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Asistente de Marketing",
+      "empresa": "lati2viajeros",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-05-05",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Asistente de Marketing",
+      "empresa": "lati2viajeros",
+      "modalidad": "remoto",
+      "region": "",
+      "fecha_postulacion": "2026-05-09",
+      "semana_label": "2026-W18"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-12",
+      "semana_label": "2026-W19"
+    },
+    {
+      "puesto": "Desarrollador Junior — Visión Computacional e IA",
+      "empresa": "MirA.I.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-17",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Desarrollador Junior — Visión Computacional e IA",
+      "empresa": "MirA.I.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-18",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-19",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-19",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Desarrollador Junior — Visión Computacional e IA",
+      "empresa": "MirA.I.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-19",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Desarrollador Junior — Visión Computacional e IA",
+      "empresa": "MirA.I.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-21",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-22",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-22",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-22",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-22",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-22",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-22",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-22",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-22",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-22",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-22",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-22",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-22",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-22",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-22",
+      "semana_label": "2026-W20"
+    },
+    {
+      "puesto": "Desarrollador Junior — Visión Computacional e IA",
+      "empresa": "MirA.I.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-25",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-26",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-26",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-26",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-26",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-27",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-27",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-27",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-27",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-27",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-27",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-27",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "hibrido",
+      "region": "Barranco, Lima",
+      "fecha_postulacion": "2026-05-27",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-27",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-27",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-27",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-27",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-28",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-05-30",
+      "semana_label": "2026-W21"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-01",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-01",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-01",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-01",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-01",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "hibrido",
+      "region": "",
+      "fecha_postulacion": "2026-06-01",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-03",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-03",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-03",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-03",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-03",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-03",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-03",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-03",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-04",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-04",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-04",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-04",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-04",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-04",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-04",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-04",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-04",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-04",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-04",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-05",
+      "semana_label": "2026-W22"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-08",
+      "semana_label": "2026-W23"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-08",
+      "semana_label": "2026-W23"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-08",
+      "semana_label": "2026-W23"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-08",
+      "semana_label": "2026-W23"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-08",
+      "semana_label": "2026-W23"
+    },
+    {
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-08",
+      "semana_label": "2026-W23"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-10",
+      "semana_label": "2026-W23"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-10",
+      "semana_label": "2026-W23"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-10",
+      "semana_label": "2026-W23"
+    },
+    {
+      "puesto": "test",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-10",
+      "semana_label": "2026-W23"
+    },
+    {
+      "puesto": "test",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-10",
+      "semana_label": "2026-W23"
+    },
+    {
+      "puesto": "test",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-10",
+      "semana_label": "2026-W23"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-10",
+      "semana_label": "2026-W23"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-11",
+      "semana_label": "2026-W23"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-15",
+      "semana_label": "2026-W24"
+    },
+    {
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-15",
+      "semana_label": "2026-W24"
+    },
+    {
+      "puesto": "Desarrollador Junior — Visión Computacional e IA",
+      "empresa": "MirA.I.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-16",
+      "semana_label": "2026-W24"
+    },
+    {
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-17",
+      "semana_label": "2026-W24"
+    },
+    {
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-17",
+      "semana_label": "2026-W24"
+    },
+    {
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-18",
+      "semana_label": "2026-W24"
+    },
+    {
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-06-23",
+      "semana_label": "2026-W25"
+    },
+    {
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-07-07",
+      "semana_label": "2026-W27"
+    },
+    {
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-07-07",
+      "semana_label": "2026-W27"
+    },
+    {
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-07-07",
+      "semana_label": "2026-W27"
+    },
+    {
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-07-07",
+      "semana_label": "2026-W27"
+    },
+    {
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-07-09",
+      "semana_label": "2026-W27"
+    },
+    {
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-07-10",
+      "semana_label": "2026-W27"
+    },
+    {
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-07-10",
+      "semana_label": "2026-W27"
+    },
+    {
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-07-10",
+      "semana_label": "2026-W27"
+    },
+    {
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-07-10",
+      "semana_label": "2026-W27"
+    },
+    {
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-07-10",
+      "semana_label": "2026-W27"
+    },
+    {
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-07-10",
+      "semana_label": "2026-W27"
+    },
+    {
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-07-10",
+      "semana_label": "2026-W27"
+    },
+    {
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-07-10",
+      "semana_label": "2026-W27"
+    },
+    {
+      "puesto": "Auxiliar Creativo",
+      "empresa": "Bamboo Balance",
+      "modalidad": "presencial",
+      "region": "",
+      "fecha_postulacion": "2026-07-15",
+      "semana_label": "2026-W28"
+    },
+    {
+      "puesto": "Programa Trainee Banca de Corporaciones y Empresas",
+      "empresa": "Sin dato",
+      "modalidad": "híbrido",
+      "region": "Sin dato",
+      "fecha_postulacion": "2026-08-11",
+      "semana_label": "2026-W32"
+    },
+    {
+      "puesto": "DESARROLLADOR JUNIOR DE SOFTWARE ",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2026-08-17",
+      "semana_label": "2026-W33"
+    },
+    {
+      "puesto": "Practicante Pro /Auxiliar de Marketing",
+      "empresa": "Sin dato",
+      "modalidad": "presencial",
+      "region": "Sin dato",
+      "fecha_postulacion": "2026-08-24",
+      "semana_label": "2026-W34"
+    }
+  ],
+  "agregados": {
+    "por_estado": [],
+    "por_semana": [
+      {
+        "semana_label": "2025-W45",
+        "postulaciones": 1
+      },
+      {
+        "semana_label": "2025-W47",
+        "postulaciones": 4
+      },
+      {
+        "semana_label": "2025-W48",
+        "postulaciones": 15
+      },
+      {
+        "semana_label": "2025-W49",
+        "postulaciones": 25
+      },
+      {
+        "semana_label": "2025-W50",
+        "postulaciones": 19
+      },
+      {
+        "semana_label": "2025-W51",
+        "postulaciones": 2
+      },
+      {
+        "semana_label": "2025-W52",
+        "postulaciones": 3
+      },
+      {
+        "semana_label": "2026-W00",
+        "postulaciones": 4
+      },
+      {
+        "semana_label": "2026-W01",
+        "postulaciones": 8
+      },
+      {
+        "semana_label": "2026-W02",
+        "postulaciones": 7
+      },
+      {
+        "semana_label": "2026-W03",
+        "postulaciones": 3
+      },
+      {
+        "semana_label": "2026-W04",
+        "postulaciones": 16
+      },
+      {
+        "semana_label": "2026-W05",
+        "postulaciones": 1
+      },
+      {
+        "semana_label": "2026-W06",
+        "postulaciones": 14
+      },
+      {
+        "semana_label": "2026-W07",
+        "postulaciones": 20
+      },
+      {
+        "semana_label": "2026-W08",
+        "postulaciones": 34
+      },
+      {
+        "semana_label": "2026-W09",
+        "postulaciones": 11
+      },
+      {
+        "semana_label": "2026-W10",
+        "postulaciones": 2
+      },
+      {
+        "semana_label": "2026-W11",
+        "postulaciones": 13
+      },
+      {
+        "semana_label": "2026-W12",
+        "postulaciones": 15
+      },
+      {
+        "semana_label": "2026-W13",
+        "postulaciones": 5
+      },
+      {
+        "semana_label": "2026-W14",
+        "postulaciones": 3
+      },
+      {
+        "semana_label": "2026-W15",
+        "postulaciones": 4
+      },
+      {
+        "semana_label": "2026-W16",
+        "postulaciones": 7
+      },
+      {
+        "semana_label": "2026-W17",
+        "postulaciones": 5
+      },
+      {
+        "semana_label": "2026-W18",
+        "postulaciones": 70
+      },
+      {
+        "semana_label": "2026-W19",
+        "postulaciones": 26
+      },
+      {
+        "semana_label": "2026-W20",
+        "postulaciones": 20
+      },
+      {
+        "semana_label": "2026-W21",
+        "postulaciones": 48
+      },
+      {
+        "semana_label": "2026-W22",
+        "postulaciones": 26
+      },
+      {
+        "semana_label": "2026-W23",
+        "postulaciones": 14
+      },
+      {
+        "semana_label": "2026-W24",
+        "postulaciones": 6
+      },
+      {
+        "semana_label": "2026-W25",
+        "postulaciones": 1
+      },
+      {
+        "semana_label": "2026-W27",
+        "postulaciones": 13
+      },
+      {
+        "semana_label": "2026-W28",
+        "postulaciones": 1
+      },
+      {
+        "semana_label": "2026-W32",
+        "postulaciones": 1
+      },
+      {
+        "semana_label": "2026-W33",
+        "postulaciones": 1
+      },
+      {
+        "semana_label": "2026-W34",
+        "postulaciones": 1
+      }
+    ],
+    "top_puestos": [
+      {
+        "valor": "Creador(a) de Contenido Audiovisual ",
+        "count": 151
+      },
+      {
+        "valor": "Ejecutivo Comercial Junior (Outbound)",
+        "count": 37
+      },
+      {
+        "valor": "Practicante Comercial y Marketing Digital",
+        "count": 29
+      },
+      {
+        "valor": "Practicante de Marketing y Contenido Orgánico | Full Time",
+        "count": 28
+      },
+      {
+        "valor": "Asistente de Ventas - INTEX",
+        "count": 21
+      },
+      {
+        "valor": "Asesor Comercial | Impulso León",
+        "count": 21
+      },
+      {
+        "valor": "Asistente comercial",
+        "count": 19
+      },
+      {
+        "valor": "Diseñador(a) industrial",
+        "count": 17
+      },
+      {
+        "valor": "Full Stack de Contenido Digital Intex + Media Ads",
+        "count": 17
+      },
+      {
+        "valor": "Practicante de Growth & Experimentos de Producto | Full Time",
+        "count": 13
+      }
+    ],
+    "top_empresas": [
+      {
+        "valor": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+        "count": 189
+      },
+      {
+        "valor": "FirmEasy Legal",
+        "count": 50
+      },
+      {
+        "valor": "Sin dato",
+        "count": 39
+      },
+      {
+        "valor": "SACSMYPE LEGAL",
+        "count": 29
+      },
+      {
+        "valor": "Laboral.AI",
+        "count": 24
+      },
+      {
+        "valor": "Impulso Leon",
+        "count": 21
+      },
+      {
+        "valor": "SIBI",
+        "count": 19
+      },
+      {
+        "valor": "Laboral",
+        "count": 19
+      },
+      {
+        "valor": "LaboralAI",
+        "count": 19
+      },
+      {
+        "valor": "Nova Maquinarias",
+        "count": 14
+      }
+    ],
+    "por_modalidad": [
+      {
+        "cantidad": "presencial",
+        "count": 316
+      },
+      {
+        "cantidad": "hibrido",
+        "count": 101
+      },
+      {
+        "cantidad": "remoto",
+        "count": 47
+      },
+      {
+        "cantidad": "Sin dato",
+        "count": 5
+      },
+      {
+        "cantidad": "híbrido",
+        "count": 1
+      }
+    ],
+    "por_region": [
+      {
+        "cantidad": "",
+        "count": 350
+      },
+      {
+        "cantidad": "Sin dato",
+        "count": 78
+      },
+      {
+        "cantidad": "Barranco, Lima",
+        "count": 18
+      },
+      {
+        "cantidad": "Lima, Lima",
+        "count": 17
+      },
+      {
+        "cantidad": "Miraflores, Lima",
+        "count": 3
+      },
+      {
+        "cantidad": "Ate, Lima",
+        "count": 2
+      },
+      {
+        "cantidad": "Independencia, Áncash",
+        "count": 2
+      }
+    ]
+  }
+}
