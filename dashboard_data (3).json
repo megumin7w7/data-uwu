@@ -1,0 +1,5487 @@
+{
+  "meta": {
+    "fecha_generacion": "2026-08-28T23:55:54.931054",
+    "total_registros": 468,
+    "rango_fechas": "2025-11-15 00:48 a Sin fecha"
+  },
+  "kpis": {
+    "total": 468,
+    "seleccionados": 25,
+    "enviados": 209,
+    "en_revision": 65,
+    "descartados": 16,
+    "sin_dato": 152
+  },
+  "postulaciones": [
+    {
+      "fecha_postulacion": "2025-11-15 00:48",
+      "nombre": "Rafael Alonso Garcia Castillejo",
+      "email": "Sin email",
+      "puesto": "Puesto no especificado",
+      "empresa": "Sin especificar",
+      "modalidad": "Sin Especificar",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W46"
+    },
+    {
+      "fecha_postulacion": "2025-11-27 15:00",
+      "nombre": "Leandro Ledesma",
+      "email": "Sin email",
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W48"
+    },
+    {
+      "fecha_postulacion": "2025-11-27 19:50",
+      "nombre": "Claudia Fasabi de la Puente",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W48"
+    },
+    {
+      "fecha_postulacion": "2025-11-28 23:07",
+      "nombre": "Rodrigo Salvador Apaza Díaz",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial B2B de Software | Part Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W48"
+    },
+    {
+      "fecha_postulacion": "2025-11-29 02:37",
+      "nombre": "Jeniffer Paniora Sulca",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W48"
+    },
+    {
+      "fecha_postulacion": "2025-12-03 19:23",
+      "nombre": "Jenni Gomez",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W49"
+    },
+    {
+      "fecha_postulacion": "2025-12-03 19:24",
+      "nombre": "Jenni Gomez",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial B2B de Software | Part Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W49"
+    },
+    {
+      "fecha_postulacion": "2025-12-03 19:33",
+      "nombre": "Suzett Ramirez",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W49"
+    },
+    {
+      "fecha_postulacion": "2025-12-03 19:35",
+      "nombre": "Suzett Ramirez",
+      "email": "Sin email",
+      "puesto": "Trafficker Digital | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W49"
+    },
+    {
+      "fecha_postulacion": "2025-12-03 20:03",
+      "nombre": "Danitza Huasupoma",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W49"
+    },
+    {
+      "fecha_postulacion": "2025-12-03 20:03",
+      "nombre": "María Fe Zakimi Murakami",
+      "email": "Sin email",
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W49"
+    },
+    {
+      "fecha_postulacion": "2025-12-04 17:20",
+      "nombre": "Camila Cárdenas Pariona",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W49"
+    },
+    {
+      "fecha_postulacion": "2025-12-04 17:23",
+      "nombre": "Crisea Liseth Quispe Flores",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W49"
+    },
+    {
+      "fecha_postulacion": "2025-12-04 17:26",
+      "nombre": "Crisea Liseth Quispe Flores",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W49"
+    },
+    {
+      "fecha_postulacion": "2025-12-04 18:38",
+      "nombre": "Esther Rey sanchez",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W49"
+    },
+    {
+      "fecha_postulacion": "2025-12-04 19:08",
+      "nombre": "adrian ramos",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial B2B de Software | Part Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W49"
+    },
+    {
+      "fecha_postulacion": "2025-12-04 19:26",
+      "nombre": "adrian ramos",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W49"
+    },
+    {
+      "fecha_postulacion": "2025-12-04 20:01",
+      "nombre": "Walter Vicente Picoy Ponte",
+      "email": "Sin email",
+      "puesto": "Trafficker Digital | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W49"
+    },
+    {
+      "fecha_postulacion": "2025-12-05 03:37",
+      "nombre": "Claudia Fasabi",
+      "email": "Sin email",
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W49"
+    },
+    {
+      "fecha_postulacion": "2025-12-05 17:22",
+      "nombre": "Valerie Mendoza García ",
+      "email": "Sin email",
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W49"
+    },
+    {
+      "fecha_postulacion": "2025-12-07 02:23",
+      "nombre": "SAUL SANTIAGO URRUTIA ARIAS",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W49"
+    },
+    {
+      "fecha_postulacion": "2025-12-07 02:24",
+      "nombre": "SAUL SANTIAGO URRUTIA ARIAS",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "Barranco, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W49"
+    },
+    {
+      "fecha_postulacion": "2025-12-07 02:24",
+      "nombre": "SAUL SANTIAGO URRUTIA ARIAS",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W49"
+    },
+    {
+      "fecha_postulacion": "2025-12-08 07:17",
+      "nombre": "Paola Oviaga Toscano",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-08 07:19",
+      "nombre": "Paola Oviaga Toscano",
+      "email": "Sin email",
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-08 18:18",
+      "nombre": "Klever Quispe Caballero",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-08 18:20",
+      "nombre": "Klever Quispe Caballero",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-08 20:14",
+      "nombre": "Sarita Milagros Colonia Guzman",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-09 00:06",
+      "nombre": "Cynthia Gallegos",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-09 22:32",
+      "nombre": "Luis Angel Garcia",
+      "email": "Sin email",
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-09 22:33",
+      "nombre": "Luis Angel Garcia",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "Barranco, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-09 22:34",
+      "nombre": "Luis Angel Garcia",
+      "email": "Sin email",
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-09 22:34",
+      "nombre": "Luis Angel Garcia",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-10 15:58",
+      "nombre": "aracely nicole bravo rosales",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-10 16:00",
+      "nombre": "aracely nicole bravo rosales",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-10 16:01",
+      "nombre": "aracely nicole bravo rosales",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-10 16:19",
+      "nombre": "Giuliana Chicoma",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial B2B de Software | Part Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-10 19:08",
+      "nombre": "Bryan Farfan Llaulle",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-10 19:09",
+      "nombre": "Bryan Farfan Llaulle",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-11 03:15",
+      "nombre": "CARLOS SANCHEZ",
+      "email": "Sin email",
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-11 20:24",
+      "nombre": "Yasumi Judith Guevara Quispe",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-12 20:36",
+      "nombre": "Pablo Salcedo",
+      "email": "Sin email",
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-12 20:36",
+      "nombre": "Pablo Salcedo",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial B2B de Software | Part Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-12 20:36",
+      "nombre": "Pablo Salcedo",
+      "email": "Sin email",
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-13 03:29",
+      "nombre": "jorge libon",
+      "email": "Sin email",
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W50"
+    },
+    {
+      "fecha_postulacion": "2025-12-17 02:56",
+      "nombre": "Dayana Mercedes Huamán Ostos",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-17 02:57",
+      "nombre": "Dayana Mercedes Huamán Ostos",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-18 01:03",
+      "nombre": "Bayolet Jimena Sánchez Poma",
+      "email": "Sin email",
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-18 01:05",
+      "nombre": "Bayolet Jimena Sánchez Poma",
+      "email": "Sin email",
+      "puesto": "Practicante de Growth & Experimentos de Producto | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-19 14:00",
+      "nombre": "Xayle Ticona Belsuzarri",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "Barranco, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-19 14:01",
+      "nombre": "Xayle Ticona Belsuzarri",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "Barranco, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-19 14:01",
+      "nombre": "Xayle Ticona Belsuzarri",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "Barranco, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-19 14:02",
+      "nombre": "Xayle Ticona Belsuzarri",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-19 14:02",
+      "nombre": "Xayle Ticona Belsuzarri",
+      "email": "Sin email",
+      "puesto": "Practicante de Marketing y Contenido Orgánico | Full Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-19 15:23",
+      "nombre": "Ailyn Madeley Medina Mallqui",
+      "email": "Sin email",
+      "puesto": "Desarrollador/a Frontend Jr",
+      "empresa": "Ailyn Medina",
+      "modalidad": "Presencial",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-19 15:47",
+      "nombre": "Ailyn Madeley Medina Mallqui",
+      "email": "Sin email",
+      "puesto": "Desarrollador/a Frontend Jr",
+      "empresa": "Ailyn Medina",
+      "modalidad": "Presencial",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-19 17:31",
+      "nombre": "Luis Miguel Tlf",
+      "email": "Sin email",
+      "puesto": "Desarrollador Web Junior",
+      "empresa": "Luis Miguel Tlf",
+      "modalidad": "Presencial",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-19 17:32",
+      "nombre": "Ronaldo Meza",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "Barranco, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-19 18:05",
+      "nombre": "Ronaldo Meza",
+      "email": "Sin email",
+      "puesto": "Auxiliar Administrativo (Prueba)",
+      "empresa": "Ronaldo Meza",
+      "modalidad": "Presencial",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-19 20:41",
+      "nombre": "Maria Fernanda Moya Condori",
+      "email": "Sin email",
+      "puesto": "Desarrollador web",
+      "empresa": "mafer m",
+      "modalidad": "Presencial",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-19 21:18",
+      "nombre": "Maria Fernanda Moya Condori",
+      "email": "Sin email",
+      "puesto": "Desarrollador Web Junior",
+      "empresa": "Luis Miguel Tlf",
+      "modalidad": "Presencial",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-19 21:19",
+      "nombre": "Maria Fernanda Moya Condori",
+      "email": "Sin email",
+      "puesto": "Desarrollador web",
+      "empresa": "mafer m",
+      "modalidad": "Presencial",
+      "region": "Sin especificar",
+      "estado": "Retirado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-20 19:56",
+      "nombre": "Ailyn Madeley Medina Mallqui",
+      "email": "Sin email",
+      "puesto": "Desarrollador web",
+      "empresa": "mafer m",
+      "modalidad": "Presencial",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-20 20:01",
+      "nombre": "Ailyn Madeley Medina Mallqui",
+      "email": "Sin email",
+      "puesto": "Desarrollador Junior de Software",
+      "empresa": "Ailyn Madeley Medina Mallqui",
+      "modalidad": "Presencial",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W51"
+    },
+    {
+      "fecha_postulacion": "2025-12-23 15:39",
+      "nombre": "Stefano Vásquez",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial B2B de Software | Part Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W52"
+    },
+    {
+      "fecha_postulacion": "2025-12-24 04:16",
+      "nombre": "Walter Vicente Picoy Ponte",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial B2B de Software | Part Time",
+      "empresa": "FirmEasy Legal",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W52"
+    },
+    {
+      "fecha_postulacion": "2025-12-28 13:37",
+      "nombre": "test test",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "Barranco, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W52"
+    },
+    {
+      "fecha_postulacion": "2025-12-28 21:18",
+      "nombre": "Johanna Mullisaca",
+      "email": "Sin email",
+      "puesto": "Analista de Marketing Digital Senior",
+      "empresa": "Gyanella Agreda Villacorta",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2025-W52"
+    },
+    {
+      "fecha_postulacion": "2025-12-29 06:32",
+      "nombre": "nayeli azabache",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial Ecommerce",
+      "empresa": "Laboralin",
+      "modalidad": "Presencial",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W01"
+    },
+    {
+      "fecha_postulacion": "2026-01-02 04:01",
+      "nombre": "Johanna Mullisaca",
+      "email": "Sin email",
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "Presencial",
+      "region": "Lima, Lima",
+      "estado": "Retirado",
+      "semana_label": "2026-W01"
+    },
+    {
+      "fecha_postulacion": "2026-01-02 04:51",
+      "nombre": "Johanna Mullisaca",
+      "email": "Sin email",
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "Presencial",
+      "region": "Lima, Lima",
+      "estado": "Descartado",
+      "semana_label": "2026-W01"
+    },
+    {
+      "fecha_postulacion": "2026-01-02 09:22",
+      "nombre": "Bryan Jean Pierre Villasante Lopez",
+      "email": "Sin email",
+      "puesto": "Auxiliar de Digitalización y Organización de Datos",
+      "empresa": "Bryan Jean Pierre Villasante Lopez",
+      "modalidad": "Hibrido",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W01"
+    },
+    {
+      "fecha_postulacion": "2026-01-02 20:58",
+      "nombre": "Alan Oswaldo Huaman Quispe",
+      "email": "Sin email",
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "Presencial",
+      "region": "Lima, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W01"
+    },
+    {
+      "fecha_postulacion": "2026-01-06 21:24",
+      "nombre": "Ronaldo Meza",
+      "email": "Sin email",
+      "puesto": "Desarrollador Web Junior",
+      "empresa": "Luis Miguel Tlf",
+      "modalidad": "Presencial",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W02"
+    },
+    {
+      "fecha_postulacion": "2026-01-06 21:25",
+      "nombre": "Ronaldo Meza",
+      "email": "Sin email",
+      "puesto": "Desarrollador Web Junior",
+      "empresa": "Luis Miguel Tlf",
+      "modalidad": "Presencial",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W02"
+    },
+    {
+      "fecha_postulacion": "2026-01-06 21:40",
+      "nombre": "Ailyn Medina",
+      "email": "Sin email",
+      "puesto": "Desarrollador Web Junior",
+      "empresa": "Luis Miguel Tlf",
+      "modalidad": "Presencial",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W02"
+    },
+    {
+      "fecha_postulacion": "2026-01-06 21:40",
+      "nombre": "Ronaldo Meza",
+      "email": "Sin email",
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "Presencial",
+      "region": "Lima, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W02"
+    },
+    {
+      "fecha_postulacion": "2026-01-06 21:41",
+      "nombre": "Ailyn Medina",
+      "email": "Sin email",
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "Presencial",
+      "region": "Lima, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W02"
+    },
+    {
+      "fecha_postulacion": "2026-01-06 21:43",
+      "nombre": "Rafael Alonso Garcia Castillejo",
+      "email": "Sin email",
+      "puesto": "Desarrollador Web Junior",
+      "empresa": "Luis Miguel Tlf",
+      "modalidad": "Presencial",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W02"
+    },
+    {
+      "fecha_postulacion": "2026-01-07 00:32",
+      "nombre": "Alonso Rafael Garcia Castillejo",
+      "email": "Sin email",
+      "puesto": "Desarrollador web",
+      "empresa": "mafer m",
+      "modalidad": "Presencial",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W02"
+    },
+    {
+      "fecha_postulacion": "2026-01-08 16:29",
+      "nombre": "Johanna Mullisaca",
+      "email": "Sin email",
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "Presencial",
+      "region": "Lima, Lima",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W02"
+    },
+    {
+      "fecha_postulacion": "2026-01-12 02:19",
+      "nombre": "Juan Daniel Rodriguez Ordonez",
+      "email": "Sin email",
+      "puesto": "Test",
+      "empresa": "Juan Daniel Rodriguez Ordonez",
+      "modalidad": "Presencial",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W03"
+    },
+    {
+      "fecha_postulacion": "2026-01-14 00:52",
+      "nombre": "Sofia Esther Custodio Chapoñan",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "Barranco, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W03"
+    },
+    {
+      "fecha_postulacion": "2026-01-16 02:15",
+      "nombre": "Juan Daniel Rodriguez Ordonez",
+      "email": "Sin email",
+      "puesto": "Puesto no especificado",
+      "empresa": "Sin especificar",
+      "modalidad": "Sin Especificar",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W03"
+    },
+    {
+      "fecha_postulacion": "2026-01-16 02:15",
+      "nombre": "Juan Daniel Rodriguez Ordonez",
+      "email": "Sin email",
+      "puesto": "Puesto no especificado",
+      "empresa": "Sin especificar",
+      "modalidad": "Sin Especificar",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W03"
+    },
+    {
+      "fecha_postulacion": "2026-01-16 02:17",
+      "nombre": "Rafael Alonso Garcia Castillejo",
+      "email": "Sin email",
+      "puesto": "Puesto no especificado",
+      "empresa": "Sin especificar",
+      "modalidad": "Sin Especificar",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W03"
+    },
+    {
+      "fecha_postulacion": "2026-01-17 15:06",
+      "nombre": "Brayhan Gamarra",
+      "email": "Sin email",
+      "puesto": "Business Development & Talent Success Manager",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W03"
+    },
+    {
+      "fecha_postulacion": "2026-01-17 16:22",
+      "nombre": "Angeline Yoilim  Beltrán Ramos ",
+      "email": "Sin email",
+      "puesto": "Business Development & Talent Success Manager",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W03"
+    },
+    {
+      "fecha_postulacion": "2026-01-18 18:55",
+      "nombre": "Marcelo Mendoza Cervantes",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "Barranco, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W03"
+    },
+    {
+      "fecha_postulacion": "2026-01-20 18:53",
+      "nombre": "Kathia Reyes",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "Barranco, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W04"
+    },
+    {
+      "fecha_postulacion": "2026-01-21 01:31",
+      "nombre": "Ailyn Madeley Medina Mallqui",
+      "email": "Sin email",
+      "puesto": "Business Development & Talent Success Manager",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W04"
+    },
+    {
+      "fecha_postulacion": "2026-01-25 00:30",
+      "nombre": "Karen Crhistel  Soplopuco Vilchez",
+      "email": "Sin email",
+      "puesto": "Business Development & Talent Success Manager",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W04"
+    },
+    {
+      "fecha_postulacion": "2026-01-26 18:11",
+      "nombre": "Alfredo Soto Nolazco",
+      "email": "Sin email",
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W05"
+    },
+    {
+      "fecha_postulacion": "2026-01-26 19:52",
+      "nombre": "Ailyn Madeley Medina Mallqui",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "Barranco, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W05"
+    },
+    {
+      "fecha_postulacion": "2026-01-26 21:04",
+      "nombre": "Alexandra Aguilar",
+      "email": "Sin email",
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W05"
+    },
+    {
+      "fecha_postulacion": "2026-01-27 01:08",
+      "nombre": "Jean Huaman",
+      "email": "Sin email",
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W05"
+    },
+    {
+      "fecha_postulacion": "2026-01-27 01:10",
+      "nombre": "Jean Dev",
+      "email": "Sin email",
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W05"
+    },
+    {
+      "fecha_postulacion": "2026-01-27 01:12",
+      "nombre": "Jean Huaman",
+      "email": "Sin email",
+      "puesto": "Desarrollador Web Junior",
+      "empresa": "Luis Miguel Tlf",
+      "modalidad": "Presencial",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W05"
+    },
+    {
+      "fecha_postulacion": "2026-01-27 17:33",
+      "nombre": "Ingrit Anhelina  Bautista Requejo ",
+      "email": "Sin email",
+      "puesto": "Business Development & Talent Success Manager",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W05"
+    },
+    {
+      "fecha_postulacion": "2026-01-27 17:33",
+      "nombre": "Klever Quispe Caballero",
+      "email": "Sin email",
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W05"
+    },
+    {
+      "fecha_postulacion": "2026-01-27 17:52",
+      "nombre": "Stefany Palomino Peñaloza",
+      "email": "Sin email",
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W05"
+    },
+    {
+      "fecha_postulacion": "2026-01-27 20:36",
+      "nombre": "leni rojas esteban",
+      "email": "Sin email",
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W05"
+    },
+    {
+      "fecha_postulacion": "2026-01-27 21:00",
+      "nombre": "Jeremy QR",
+      "email": "Sin email",
+      "puesto": "Desarrollador Web Junior",
+      "empresa": "Luis Miguel Tlf",
+      "modalidad": "Presencial",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W05"
+    },
+    {
+      "fecha_postulacion": "2026-01-29 00:00",
+      "nombre": "Ronaldo Meza",
+      "email": "Sin email",
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W05"
+    },
+    {
+      "fecha_postulacion": "2026-01-29 18:46",
+      "nombre": "Chelsea Rebeca Saavedra Zambrano",
+      "email": "Sin email",
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W05"
+    },
+    {
+      "fecha_postulacion": "2026-01-29 18:48",
+      "nombre": "Chelsea Rebeca Saavedra Zambrano",
+      "email": "Sin email",
+      "puesto": "Business Development & Talent Success Manager",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W05"
+    },
+    {
+      "fecha_postulacion": "2026-01-29 23:33",
+      "nombre": "Brant Coral",
+      "email": "Sin email",
+      "puesto": "Especialista DATA SCIENCE",
+      "empresa": "RESEMIN",
+      "modalidad": "Presencial",
+      "region": "Ate, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W05"
+    },
+    {
+      "fecha_postulacion": "2026-02-07 05:04",
+      "nombre": "Johanna Mullisaca",
+      "email": "Sin email",
+      "puesto": "Practicante pre profesional programación",
+      "empresa": "Laboral",
+      "modalidad": "Hibrido",
+      "region": "Independencia, Áncash",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W06"
+    },
+    {
+      "fecha_postulacion": "2026-02-10 04:08",
+      "nombre": "Frida Letizia",
+      "email": "Sin email",
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W07"
+    },
+    {
+      "fecha_postulacion": "2026-02-11 15:09",
+      "nombre": "Juan Daniel Rodriguez Ordonez",
+      "email": "Sin email",
+      "puesto": "Test",
+      "empresa": "Juan Daniel Rodriguez Ordonez",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W07"
+    },
+    {
+      "fecha_postulacion": "2026-02-12 03:23",
+      "nombre": "Rafael Alonso Garcia Castillejo",
+      "email": "Sin email",
+      "puesto": "Especialista DATA SCIENCE",
+      "empresa": "RESEMIN",
+      "modalidad": "Presencial",
+      "region": "Ate, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W07"
+    },
+    {
+      "fecha_postulacion": "2026-02-12 03:26",
+      "nombre": "Juan Daniel Rodriguez Ordonez",
+      "email": "Sin email",
+      "puesto": "Test",
+      "empresa": "Juan Daniel Rodriguez Ordonez",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W07"
+    },
+    {
+      "fecha_postulacion": "2026-02-12 07:04",
+      "nombre": "Mateo Alonso Antonio Díaz Navarro",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "Barranco, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W07"
+    },
+    {
+      "fecha_postulacion": "2026-02-12 12:44",
+      "nombre": "Ayrton Krickst Nieves Acosta",
+      "email": "Sin email",
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "Presencial",
+      "region": "Lima, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W07"
+    },
+    {
+      "fecha_postulacion": "2026-02-12 14:02",
+      "nombre": "Juan Pablo Segundo Sinarahua Terrones",
+      "email": "Sin email",
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "Presencial",
+      "region": "Lima, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W07"
+    },
+    {
+      "fecha_postulacion": "2026-02-12 14:11",
+      "nombre": "Gyanella Agreda Villacorta",
+      "email": "Sin email",
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "Presencial",
+      "region": "Lima, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W07"
+    },
+    {
+      "fecha_postulacion": "2026-02-12 14:21",
+      "nombre": "Alejandra García",
+      "email": "Sin email",
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "Presencial",
+      "region": "Lima, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W07"
+    },
+    {
+      "fecha_postulacion": "2026-02-12 14:31",
+      "nombre": "Sebas Feitoza",
+      "email": "Sin email",
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "Presencial",
+      "region": "Lima, Lima",
+      "estado": "Descartado",
+      "semana_label": "2026-W07"
+    },
+    {
+      "fecha_postulacion": "2026-02-12 15:07",
+      "nombre": "Juan Daniel Rodriguez Ordonez",
+      "email": "Sin email",
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "Presencial",
+      "region": "Lima, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W07"
+    },
+    {
+      "fecha_postulacion": "2026-02-13 03:35",
+      "nombre": "Alejandra Belen Helguero Ordinola ",
+      "email": "Sin email",
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "Presencial",
+      "region": "Lima, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W07"
+    },
+    {
+      "fecha_postulacion": "2026-02-13 04:30",
+      "nombre": "Mariafé Vargas Ordoñez",
+      "email": "Sin email",
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "Presencial",
+      "region": "Lima, Lima",
+      "estado": "En Revision",
+      "semana_label": "2026-W07"
+    },
+    {
+      "fecha_postulacion": "2026-02-13 12:26",
+      "nombre": "Anggela Huapaya Nacimento",
+      "email": "Sin email",
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "Presencial",
+      "region": "Lima, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W07"
+    },
+    {
+      "fecha_postulacion": "2026-02-17 05:39",
+      "nombre": "Karen Crhistel  Soplopuco Vilchez",
+      "email": "Sin email",
+      "puesto": "Asistente de Implementación Digital – Rubro Inmobiliario (AD HONOREM)",
+      "empresa": "Estate Business",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-17 05:41",
+      "nombre": "Karen Crhistel  Soplopuco Vilchez",
+      "email": "Sin email",
+      "puesto": "Practicante pre profesional programación",
+      "empresa": "Laboral",
+      "modalidad": "Hibrido",
+      "region": "Independencia, Áncash",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "Sin fecha",
+      "nombre": "Gabriela Yamile Aguirre Velarde",
+      "email": "Sin email",
+      "puesto": "Puesto no especificado",
+      "empresa": "Sin especificar",
+      "modalidad": "Sin Especificar",
+      "region": "Sin especificar",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "<NA>-W<NA>"
+    },
+    {
+      "fecha_postulacion": "2026-02-19 21:36",
+      "nombre": "Luis Miguel Tlf",
+      "email": "Sin email",
+      "puesto": "Counter para Veterinaria en Miraflores",
+      "empresa": "Clínica Veterinaria Wawow",
+      "modalidad": "Presencial",
+      "region": "Miraflores, Lima",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-21 01:57",
+      "nombre": "Juan Daniel Rodriguez Ordonez",
+      "email": "Sin email",
+      "puesto": "Test",
+      "empresa": "Juan Daniel Rodriguez Ordonez",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-21 14:40",
+      "nombre": "Carlos Alexis APONTE FERNANDEZ",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-21 14:41",
+      "nombre": "CAROLIN QUIROZ",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Descartado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-21 14:41",
+      "nombre": "Dulce Espinoza",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-21 14:43",
+      "nombre": "Ericka Deyaneira Farías Chunga",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-21 14:44",
+      "nombre": "Estefanny Aracely Huayascache Castañeda",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-21 14:44",
+      "nombre": "JEAN PIEER VARGAS SALINAS",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-21 14:44",
+      "nombre": "Joyce Ventocilla Rios",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-21 14:44",
+      "nombre": "Leandro Salazar Lizeth",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-21 14:44",
+      "nombre": "MISHELL ALELISSE RODRIGO HERNÁNDEZ",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-21 14:45",
+      "nombre": "NAYELI ESPINOZA MENDOZA",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-21 14:45",
+      "nombre": "Yesenia RODRIGUEZ VARGAS",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-21 14:46",
+      "nombre": "GABRIELA YAMILÉ AGUIRRE VELARDE",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-21 14:46",
+      "nombre": "LESLIE ALEXANDRA GARCIA LOPEZ",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-21 14:46",
+      "nombre": "MATTHEW JAIR OSTOS JULCA",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-21 14:46",
+      "nombre": "PEDRO PERCY LAVI LOBATON",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-21 14:46",
+      "nombre": "SEBASTIAN ARBULU ESTUPIÑAN",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W08"
+    },
+    {
+      "fecha_postulacion": "2026-02-24 05:00",
+      "nombre": "Luis Miguel Tlf",
+      "email": "Sin email",
+      "puesto": "Prueba",
+      "empresa": "Soft_apt",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-25 16:55",
+      "nombre": "Carlos Augusto Aguilar",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-25 17:35",
+      "nombre": "Sofia Esther Custodio Chapoñan",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-25 21:33",
+      "nombre": "ALEJANDRO DARÍO ROJAS ALVAREZ",
+      "email": "Sin email",
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-25 21:33",
+      "nombre": "ARTHUR ESTHEVIN ANDERSON DIAZ TARAZONA",
+      "email": "Sin email",
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-25 21:33",
+      "nombre": "CHRISTIAN ALFIERI PEÑALOZA FLORES",
+      "email": "Sin email",
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-25 21:33",
+      "nombre": "DANIEL ASAF AVILES BOBADILLA",
+      "email": "Sin email",
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-25 21:34",
+      "nombre": "DIEGO RAÚL CHÁVEZ MARRESE",
+      "email": "Sin email",
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-25 21:34",
+      "nombre": "FLAVIA SOFIA DIAZ FOLLEGATTI",
+      "email": "Sin email",
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-25 21:34",
+      "nombre": "GIANNI FRANCESCO VACCARO ORTIZ",
+      "email": "Sin email",
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-25 21:34",
+      "nombre": "JULIO ENRIQUE VARONA HURTADO",
+      "email": "Sin email",
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-25 21:34",
+      "nombre": "MIGUEL ANGEL VITANCIO HUAMAN",
+      "email": "Sin email",
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-25 21:34",
+      "nombre": "PERCY SEBASTIAN URIARTE QUIJANDRIA",
+      "email": "Sin email",
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-25 21:34",
+      "nombre": "WILLIAM SIME COSTILLA",
+      "email": "Sin email",
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-25 21:35",
+      "nombre": "YARILENKA GERALDINE BENITES MOZO",
+      "email": "Sin email",
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-25 23:41",
+      "nombre": "Juan Ulloa",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-26 01:02",
+      "nombre": "Bryan Carlos Velasco",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-26 02:07",
+      "nombre": "JORGE ALBERTO SUELDO ESPINOZA",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-26 04:50",
+      "nombre": "Anelisse Ariana Quispe Antonio",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-26 15:00",
+      "nombre": "Andrea del Rosario Zegarra Vargas",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-26 17:54",
+      "nombre": "Mabel Andrea Ramírez Soto",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Sin Estado Registrado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-26 23:17",
+      "nombre": "Omar Sánchez",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-27 09:12",
+      "nombre": "Juan Carlos",
+      "email": "Sin email",
+      "puesto": "Test",
+      "empresa": "Juan Daniel Rodriguez Ordonez",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Entrevista",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-27 14:05",
+      "nombre": "Frankyn Juber Chavez Vilca ",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-27 14:09",
+      "nombre": "Juan Daniel Rodríguez",
+      "email": "Sin email",
+      "puesto": "Test",
+      "empresa": "Juan Daniel Rodriguez Ordonez",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Retirado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-27 14:20",
+      "nombre": "Maritere Mercedes Chaponan Castro",
+      "email": "Sin email",
+      "puesto": "Counter para Veterinaria en Miraflores",
+      "empresa": "Clínica Veterinaria Wawow",
+      "modalidad": "Presencial",
+      "region": "Miraflores, Lima",
+      "estado": "Enviado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-27 15:32",
+      "nombre": "Jennifer Alva Moya",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "Barranco, Lima",
+      "estado": "Enviado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-27 16:57",
+      "nombre": "Fernanda Leon Valle",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-27 17:12",
+      "nombre": "Luis Fernando Rojas Achuy",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Retirado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-27 18:13",
+      "nombre": "Fabrizzio Obregón",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-27 19:06",
+      "nombre": "GABRIEL ALEJANDRO FRANCISCO GALLARDO TINEO",
+      "email": "Sin email",
+      "puesto": "Operario de Investigación y Desarrollo (I + D)",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-28 18:02",
+      "nombre": "alejandra Summers",
+      "email": "Sin email",
+      "puesto": "Counter para Veterinaria en Miraflores",
+      "empresa": "Clínica Veterinaria Wawow",
+      "modalidad": "Presencial",
+      "region": "Miraflores, Lima",
+      "estado": "Enviado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-28 18:04",
+      "nombre": "alejandra Summers",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "Barranco, Lima",
+      "estado": "Enviado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-02-28 19:56",
+      "nombre": "Jorge Giraldo",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-03-01 04:49",
+      "nombre": "Johanna Mullisaca",
+      "email": "Sin email",
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "Presencial",
+      "region": "Lima, Lima",
+      "estado": "Enviado",
+      "semana_label": "2026-W09"
+    },
+    {
+      "fecha_postulacion": "2026-03-02 13:50",
+      "nombre": "Mayer Steeven",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W10"
+    },
+    {
+      "fecha_postulacion": "2026-03-03 00:06",
+      "nombre": "Josué David Uceda",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "Barranco, Lima",
+      "estado": "Enviado",
+      "semana_label": "2026-W10"
+    },
+    {
+      "fecha_postulacion": "2026-03-03 00:13",
+      "nombre": "Josué David Uceda",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W10"
+    },
+    {
+      "fecha_postulacion": "2026-03-03 16:16",
+      "nombre": "Vianca Villegas",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W10"
+    },
+    {
+      "fecha_postulacion": "2026-03-03 17:36",
+      "nombre": "Norma Alejandra García Castillejo",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Descartado",
+      "semana_label": "2026-W10"
+    },
+    {
+      "fecha_postulacion": "2026-03-06 04:27",
+      "nombre": "ANA CECILIA MONSEFU ESTACIO",
+      "email": "Sin email",
+      "puesto": "FORMULADOR DE NEGOCIOS SOSTENIBLES",
+      "empresa": "GREMIO NACIONAL DE EMPRENDEDORES SOSTENIBLES DEL PERU",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W10"
+    },
+    {
+      "fecha_postulacion": "2026-03-06 16:24",
+      "nombre": "Cbristofer Falconi",
+      "email": "Sin email",
+      "puesto": "Operario de Investigación y Desarrollo",
+      "empresa": "Nova Maquinarias",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W10"
+    },
+    {
+      "fecha_postulacion": "2026-03-07 05:41",
+      "nombre": "Christian Piedra",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W10"
+    },
+    {
+      "fecha_postulacion": "2026-03-07 05:42",
+      "nombre": "Christian Piedra",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "Barranco, Lima",
+      "estado": "Enviado",
+      "semana_label": "2026-W10"
+    },
+    {
+      "fecha_postulacion": "2026-03-07 08:05",
+      "nombre": "Mateo Alonso Antonio Díaz Navarro",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W10"
+    },
+    {
+      "fecha_postulacion": "2026-03-12 06:38",
+      "nombre": "Dayana Sumee Castro Galarza",
+      "email": "Sin email",
+      "puesto": "FORMULADOR DE NEGOCIOS SOSTENIBLES",
+      "empresa": "GREMIO NACIONAL DE EMPRENDEDORES SOSTENIBLES DEL PERU",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W11"
+    },
+    {
+      "fecha_postulacion": "2026-03-14 20:46",
+      "nombre": "Francesca Belen  Onetto Mayuri ",
+      "email": "Sin email",
+      "puesto": "FORMULADOR DE NEGOCIOS SOSTENIBLES",
+      "empresa": "GREMIO NACIONAL DE EMPRENDEDORES SOSTENIBLES DEL PERU",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W11"
+    },
+    {
+      "fecha_postulacion": "2026-03-15 21:14",
+      "nombre": "Alvaro Huaman",
+      "email": "Sin email",
+      "puesto": "FORMULADOR DE NEGOCIOS SOSTENIBLES",
+      "empresa": "GREMIO NACIONAL DE EMPRENDEDORES SOSTENIBLES DEL PERU",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W11"
+    },
+    {
+      "fecha_postulacion": "2026-03-17 21:47",
+      "nombre": "Valerie Mendoza García ",
+      "email": "Sin email",
+      "puesto": "Asistente comercial",
+      "empresa": "Elef Rosales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W12"
+    },
+    {
+      "fecha_postulacion": "2026-03-18 21:13",
+      "nombre": "Fiorella Yamileth  Sánchez Arana ",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Descartado",
+      "semana_label": "2026-W12"
+    },
+    {
+      "fecha_postulacion": "2026-03-19 04:21",
+      "nombre": "Mateo Alonso Antonio Díaz Navarro",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W12"
+    },
+    {
+      "fecha_postulacion": "2026-03-19 19:57",
+      "nombre": "Daleska yadhira  Duire mejia",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Descartado",
+      "semana_label": "2026-W12"
+    },
+    {
+      "fecha_postulacion": "2026-03-19 22:10",
+      "nombre": "ADRIANA GABRIELA CASTILLO OCHOA",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W12"
+    },
+    {
+      "fecha_postulacion": "2026-03-20 16:35",
+      "nombre": "Miguel Angel Urbina Zamudio",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W12"
+    },
+    {
+      "fecha_postulacion": "2026-03-20 17:36",
+      "nombre": "Nicolle Sandoval Torres",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W12"
+    },
+    {
+      "fecha_postulacion": "2026-03-20 18:00",
+      "nombre": "Lyon Robert Quisoe Aliaga",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W12"
+    },
+    {
+      "fecha_postulacion": "2026-03-20 19:43",
+      "nombre": "Reyna Milagros Huanca Collanqui",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "Barranco, Lima",
+      "estado": "Enviado",
+      "semana_label": "2026-W12"
+    },
+    {
+      "fecha_postulacion": "2026-03-20 19:46",
+      "nombre": "Reyna Milagros Huanca Collanqui",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W12"
+    },
+    {
+      "fecha_postulacion": "2026-03-21 01:38",
+      "nombre": "Saul Vilchez",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W12"
+    },
+    {
+      "fecha_postulacion": "2026-03-21 18:24",
+      "nombre": "Grecia Carminna Tello Bobadilla",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W12"
+    },
+    {
+      "fecha_postulacion": "2026-03-23 04:15",
+      "nombre": "ANGIE ANTUANE POMA JIMENEZ",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W13"
+    },
+    {
+      "fecha_postulacion": "2026-03-23 04:53",
+      "nombre": "VICTOR FRANCISCO VIVES LEON",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W13"
+    },
+    {
+      "fecha_postulacion": "2026-03-23 19:43",
+      "nombre": "Cciara Alva Macheri",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W13"
+    },
+    {
+      "fecha_postulacion": "2026-03-23 19:53",
+      "nombre": "Valery Olivares",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W13"
+    },
+    {
+      "fecha_postulacion": "2026-03-23 20:47",
+      "nombre": "Mirella Salas Marquez",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W13"
+    },
+    {
+      "fecha_postulacion": "2026-03-24 23:06",
+      "nombre": "Joaquin Pino Gutierrez",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W13"
+    },
+    {
+      "fecha_postulacion": "2026-03-25 03:59",
+      "nombre": "Ruby Yauri",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W13"
+    },
+    {
+      "fecha_postulacion": "2026-03-25 05:42",
+      "nombre": "Diego Alejandro Hinostroza Gonzales",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W13"
+    },
+    {
+      "fecha_postulacion": "2026-03-25 14:10",
+      "nombre": "joaquin garcia",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W13"
+    },
+    {
+      "fecha_postulacion": "2026-03-26 15:27",
+      "nombre": "Orlando Hinostroza",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W13"
+    },
+    {
+      "fecha_postulacion": "2026-03-26 16:14",
+      "nombre": "Cristal Sicos",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W13"
+    },
+    {
+      "fecha_postulacion": "2026-03-26 16:44",
+      "nombre": "Omar Francia Gómez",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W13"
+    },
+    {
+      "fecha_postulacion": "2026-03-26 20:21",
+      "nombre": "Jenny Crisbel  Rivera Ramirez ",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W13"
+    },
+    {
+      "fecha_postulacion": "2026-03-26 23:08",
+      "nombre": "Andrés Alonso Valdiviezo Winchonlong",
+      "email": "Sin email",
+      "puesto": "Diseñador(a) industrial",
+      "empresa": "Laboral",
+      "modalidad": "Presencial",
+      "region": "Lima, Lima",
+      "estado": "Enviado",
+      "semana_label": "2026-W13"
+    },
+    {
+      "fecha_postulacion": "2026-03-27 00:34",
+      "nombre": "Frida Hinostroza",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W13"
+    },
+    {
+      "fecha_postulacion": "2026-03-30 01:01",
+      "nombre": "Juan Daniel Rodriguez Ordonez",
+      "email": "Sin email",
+      "puesto": "Test",
+      "empresa": "TestLabCorp",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W14"
+    },
+    {
+      "fecha_postulacion": "2026-03-30 01:20",
+      "nombre": "Valentin Solis",
+      "email": "Sin email",
+      "puesto": "Test",
+      "empresa": "TestLabCorp",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W14"
+    },
+    {
+      "fecha_postulacion": "2026-03-31 01:23",
+      "nombre": "Alejandro Alarcón",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W14"
+    },
+    {
+      "fecha_postulacion": "2026-04-01 05:54",
+      "nombre": "tuki Galvez",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W14"
+    },
+    {
+      "fecha_postulacion": "2026-04-02 21:09",
+      "nombre": "Henry Alejandro Vasquez Castro",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W14"
+    },
+    {
+      "fecha_postulacion": "2026-04-07 20:41",
+      "nombre": "Gianella Alexandra Rios Fernandez",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W15"
+    },
+    {
+      "fecha_postulacion": "2026-04-10 20:55",
+      "nombre": "Carol Deysi  Berrospi Cancho",
+      "email": "Sin email",
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W15"
+    },
+    {
+      "fecha_postulacion": "2026-04-11 01:17",
+      "nombre": "Sherida Florcita Chipana Apolinario",
+      "email": "Sin email",
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W15"
+    },
+    {
+      "fecha_postulacion": "2026-04-14 19:41",
+      "nombre": "Rosa Sofia Mercado Ruiz",
+      "email": "Sin email",
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W16"
+    },
+    {
+      "fecha_postulacion": "2026-04-16 17:54",
+      "nombre": "Lucas Flores Martinez",
+      "email": "Sin email",
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W16"
+    },
+    {
+      "fecha_postulacion": "2026-04-16 18:11",
+      "nombre": "Evelyn Merlino",
+      "email": "Sin email",
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W16"
+    },
+    {
+      "fecha_postulacion": "2026-04-17 03:12",
+      "nombre": "Luz Sarita Chamaya Correa",
+      "email": "Sin email",
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W16"
+    },
+    {
+      "fecha_postulacion": "2026-04-19 00:53",
+      "nombre": "Alejandro Zelada",
+      "email": "Sin email",
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W16"
+    },
+    {
+      "fecha_postulacion": "2026-04-20 15:56",
+      "nombre": "SANDY CANGANA",
+      "email": "Sin email",
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W17"
+    },
+    {
+      "fecha_postulacion": "2026-04-21 16:17",
+      "nombre": "Marcelo Felix Lopez Principe",
+      "email": "Sin email",
+      "puesto": "Asesor (a) comercial de seguros de Vida",
+      "empresa": "Mapfre",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W17"
+    },
+    {
+      "fecha_postulacion": "2026-04-21 23:37",
+      "nombre": "Astrid  Roncal",
+      "email": "Sin email",
+      "puesto": "Asesor (a) comercial de seguros de Vida",
+      "empresa": "Mapfre",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W17"
+    },
+    {
+      "fecha_postulacion": "2026-04-23 03:24",
+      "nombre": "Adriano Sebastian  Chiroque Arias ",
+      "email": "Sin email",
+      "puesto": "EJECUTIVO DE VENTAS/BBVACREDITOS HIPOTECARIO",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W17"
+    },
+    {
+      "fecha_postulacion": "2026-04-23 04:51",
+      "nombre": "Rebeca Hirose Castro",
+      "email": "Sin email",
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W17"
+    },
+    {
+      "fecha_postulacion": "2026-04-24 15:21",
+      "nombre": "chaska noriega barrientos",
+      "email": "Sin email",
+      "puesto": "Practicante pre profesional de Reclutamiento y Selección ",
+      "empresa": "OyM Servicios Comerciales",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W17"
+    },
+    {
+      "fecha_postulacion": "2026-04-27 23:49",
+      "nombre": "Valerie Mendoza García ",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W18"
+    },
+    {
+      "fecha_postulacion": "2026-04-29 00:36",
+      "nombre": "Ashly More Rosales",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W18"
+    },
+    {
+      "fecha_postulacion": "2026-04-30 01:15",
+      "nombre": "Amador Ramírez",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W18"
+    },
+    {
+      "fecha_postulacion": "2026-04-30 04:26",
+      "nombre": "Melanie Elizabeth  Libón Arista",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W18"
+    },
+    {
+      "fecha_postulacion": "2026-05-01 00:04",
+      "nombre": "Wuesly Aguero Vasquez",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W18"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 16:53",
+      "nombre": "ENZO BADINHO VELAZCO PERALTA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:23",
+      "nombre": "ANGELO BRISSOLESI",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:23",
+      "nombre": "KEVIN FABRIZIO ATALAYA TANANTA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:24",
+      "nombre": "JUAN MARINO RAMIREZ SANTIAGO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:26",
+      "nombre": "EDUARDO PIERO JHONATAN REYES CORNEJO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:26",
+      "nombre": "Antonino Frank Bertinetti Muro",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:27",
+      "nombre": "Adriel Ruiz",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:27",
+      "nombre": "Francisco Espinoza",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:27",
+      "nombre": "Litzi Zaragoza",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:28",
+      "nombre": "Evany Perez",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:29",
+      "nombre": "Antonio Yopla",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:29",
+      "nombre": "MEILY HEARED ANDIA ALVAREZ",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:30",
+      "nombre": "Adrian Ortiz Pilloca",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:31",
+      "nombre": "Milagros Villegas",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:32",
+      "nombre": "JORGE BONILLA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:32",
+      "nombre": "CESAR JUNIOR AQUINO PALACIOS",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:33",
+      "nombre": "Amed Jr. Valdivia Chalco",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:33",
+      "nombre": "Carla Castillo",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:34",
+      "nombre": "LUIS PINTO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:34",
+      "nombre": "CHRISTIAN MIRANDA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:35",
+      "nombre": "JOSE DANIEL LOZANO ANGULO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:35",
+      "nombre": "Luis Angel Coronel Tello",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:35",
+      "nombre": "KAREN LLERENA RODRIGUEZ",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:39",
+      "nombre": "BRYAN HEYSEN",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:40",
+      "nombre": "LUIS ALONSO CAMPOS VILCHEZ",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:40",
+      "nombre": "MAURICIO ADRIAN MENDOZA SALINAS",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:40",
+      "nombre": "VALERIA ORTIZ",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 17:40",
+      "nombre": "Ashlyn Polo Rostaing",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 18:32",
+      "nombre": "ELLA PACHECO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 18:33",
+      "nombre": "AARON DENNIS PECHE",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 18:33",
+      "nombre": "DARKO AGUILAR",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 18:55",
+      "nombre": "JENNIFER SANDOVAL",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:33",
+      "nombre": "JUAN CARBAJAL PILLACA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:34",
+      "nombre": "Juanita Lucia Farje Pulache",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:36",
+      "nombre": "BRYAN ACOSTA TUESTA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:37",
+      "nombre": "Teobaldo Bravo Acedo",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:38",
+      "nombre": "CESAR TORRES",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:39",
+      "nombre": "YASHELL STEFANY RIVAS VARGAS",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:40",
+      "nombre": "MIRKO ALDAIR JIMENEZ CAMPOS",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:41",
+      "nombre": "Lucella Cevasco",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:42",
+      "nombre": "ARROYO HUANCA, KERSY THAIZ",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:44",
+      "nombre": "Luis Olascoaga",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:47",
+      "nombre": "Shyrlee Samantha Chipana Torres",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:48",
+      "nombre": "WILDER OSWALDO HUAMANI AGUADO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:48",
+      "nombre": "ANDREA CIENFUEGOS",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:48",
+      "nombre": "LEONARDO DE LAS CASAS",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:49",
+      "nombre": "Gabriel Barrenechea Pinto",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:49",
+      "nombre": "MELANIE CRUZADO VASQUEZ",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:49",
+      "nombre": "HANS HOFFMANN",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:53",
+      "nombre": "Valeria Aldave Cabrejo",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:53",
+      "nombre": "MANUEL CHRISTIAN CARBAJAL CENO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:53",
+      "nombre": "Fabio Aquise Costa",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:54",
+      "nombre": "Francisco Daniel Vera Echevarria",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:54",
+      "nombre": "ALEJANDRO RODRIGUEZ",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 20:54",
+      "nombre": "Tiago Cerna",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 21:04",
+      "nombre": "VALERY MEDINA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 21:04",
+      "nombre": "PAMELA TEJADA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 21:04",
+      "nombre": "Vitto Landaveri",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 21:05",
+      "nombre": "GIANPIERE ALCALDE",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 21:05",
+      "nombre": "Junior Alhuay torres",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 21:05",
+      "nombre": "Gonzalo Daniel Ponce Flores",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 21:06",
+      "nombre": "DANNA ROSADO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-04 21:06",
+      "nombre": "Melanie Elizabeth Libón Arista",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-05 00:37",
+      "nombre": "Yasmine Araceli Cordero Villarreal",
+      "email": "Sin email",
+      "puesto": "Asistente de Marketing",
+      "empresa": "lati2viajeros",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-05 04:17",
+      "nombre": "Nahomy Cachique",
+      "email": "Sin email",
+      "puesto": "Asistente de Marketing",
+      "empresa": "lati2viajeros",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-05 12:59",
+      "nombre": "Mateo Escudero",
+      "email": "Sin email",
+      "puesto": "Asistente de Marketing",
+      "empresa": "lati2viajeros",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-05 14:48",
+      "nombre": "Fiorella Yamileth  Sánchez Arana ",
+      "email": "Sin email",
+      "puesto": "Asistente de Marketing",
+      "empresa": "lati2viajeros",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-05 18:57",
+      "nombre": "Victor Hugo Linares Alvarado",
+      "email": "Sin email",
+      "puesto": "Asistente de Marketing",
+      "empresa": "lati2viajeros",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-05 19:34",
+      "nombre": "Paola Oviaga Toscano",
+      "email": "Sin email",
+      "puesto": "Asistente de Marketing",
+      "empresa": "lati2viajeros",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-09 02:48",
+      "nombre": "Dayana Garcia diaz",
+      "email": "Sin email",
+      "puesto": "Asistente de Marketing",
+      "empresa": "lati2viajeros",
+      "modalidad": "Remoto",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W19"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 12:57",
+      "nombre": "Ana Paula Tafur Torres",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 12:58",
+      "nombre": "Kamira Choques Del Rosario",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 12:58",
+      "nombre": "GESSER CALDERON",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 12:58",
+      "nombre": "GEORGE PORLLES CUZCANO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 12:59",
+      "nombre": "MARISA ROJAS",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 13:07",
+      "nombre": "Jose Gilabert",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 13:08",
+      "nombre": "Victor L. Sagastegui S.",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 13:08",
+      "nombre": "GREMY DARLYN GUTIERREZ PORRAS",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 13:08",
+      "nombre": "MICAELA ANDREA BERROSPI ALIAGA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 13:13",
+      "nombre": "JESUS CASUSOL",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 13:14",
+      "nombre": "Orlando Cajamarca",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 15:41",
+      "nombre": "Camila Emilia Rojas Príncipe",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 16:30",
+      "nombre": "RICHARD ALBERTO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 16:30",
+      "nombre": "Rain Ortiz Silvestre",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 16:31",
+      "nombre": "Camila Rojas",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 16:32",
+      "nombre": "Carlos Padilla Valqui",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 16:33",
+      "nombre": "RICARDO CHAVARRÍA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 16:33",
+      "nombre": "Yanely Cuadros R.",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 16:41",
+      "nombre": "FIORELA CUBAS",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 16:41",
+      "nombre": "ARNOLD KEVIN VILLANUEVA VALERIO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 16:42",
+      "nombre": "L U I S   P I S C O Y A",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 16:42",
+      "nombre": "GABRIELA HUARCAYA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 16:44",
+      "nombre": "YumalH.",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 16:44",
+      "nombre": "GIANFRANCO JARET",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 16:44",
+      "nombre": "April nicole alina Herrán Flores",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-12 16:45",
+      "nombre": "DIEGO ALONSO OYARCE CUMPA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-17 20:39",
+      "nombre": "Kelvin Cardoza Bruno",
+      "email": "Sin email",
+      "puesto": "Desarrollador Junior — Visión Computacional e IA",
+      "empresa": "MirA.I.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W20"
+    },
+    {
+      "fecha_postulacion": "2026-05-18 23:01",
+      "nombre": "Anthony Castañeda Villanueva",
+      "email": "Sin email",
+      "puesto": "Desarrollador Junior — Visión Computacional e IA",
+      "empresa": "MirA.I.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-19 17:21",
+      "nombre": "Marleny del Carmen Villena Terán",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Descartado",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-19 17:33",
+      "nombre": "Marleny del Carmen Villena Terán",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-19 20:35",
+      "nombre": "David Martin De Michelli Caque Argomedo",
+      "email": "Sin email",
+      "puesto": "Desarrollador Junior — Visión Computacional e IA",
+      "empresa": "MirA.I.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-21 21:51",
+      "nombre": "Nick Cayetano",
+      "email": "Sin email",
+      "puesto": "Desarrollador Junior — Visión Computacional e IA",
+      "empresa": "MirA.I.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-22 18:42",
+      "nombre": "ALISSON QUISPE CRUCES",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-22 18:42",
+      "nombre": "Renzo Hipolito Medina",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-22 18:43",
+      "nombre": "SKARLEY FERNANDA CALLE ANTO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-22 18:43",
+      "nombre": "MAURICIO BENEDICT BARRIENTOS GIRALDO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-22 18:54",
+      "nombre": "Juanita Lucia Farje Pulache",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-22 18:55",
+      "nombre": "ORLANDO ASCUE GAMARRA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-22 18:55",
+      "nombre": "ALBERTO MEZA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-22 19:02",
+      "nombre": "Esteban Sebastian Cartagena Bolivar",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-22 19:07",
+      "nombre": "KEVIN FABRIZIO ATALAYA TANANTA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-22 19:08",
+      "nombre": "DIEGO CORREA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-22 19:08",
+      "nombre": "WILDER OSWALDO HUAMANI AGUADO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-22 19:10",
+      "nombre": "Ariana Chavez Carmona",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-22 19:16",
+      "nombre": "MATTIAS ALTAMIRANO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-22 19:21",
+      "nombre": "ANDRÉ SEBASTIÁN ALVAREZ FUENTES",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W21"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 14:32",
+      "nombre": "Robert J Buleje",
+      "email": "Sin email",
+      "puesto": "Desarrollador Junior — Visión Computacional e IA",
+      "empresa": "MirA.I.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:09",
+      "nombre": "Cindy Azucena Barranzuela Cisneros",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:09",
+      "nombre": "NEHEMIAS ESPINOZA CURI",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:10",
+      "nombre": "JORGE ALEJANDRO MORALES PACHECO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:10",
+      "nombre": "GIANCARLO CORTELEZZI",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:11",
+      "nombre": "Sergio Méndez",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:12",
+      "nombre": "EDUARDO HAROLD MARTIN CHOLAN",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:12",
+      "nombre": "GESSER CALDERON",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:13",
+      "nombre": "Milagros Villegas",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:17",
+      "nombre": "KENNETH LIONEL FUERTES ACOSTA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:17",
+      "nombre": "GABRIEL RAMOS HUAYNATE",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:18",
+      "nombre": "Terry Adrian Cordova Samplini",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:21",
+      "nombre": "ENZO BADINHO VELAZCO PERALTA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:21",
+      "nombre": "ARNOLD KEVIN VILLANUEVA VALERIO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:21",
+      "nombre": "Angel Cabezas Durand",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:26",
+      "nombre": "HEYDI PAMELA VARGAS FERNANDEZ",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:27",
+      "nombre": "AVIGAIL",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:27",
+      "nombre": "BRYAN HEYSEN",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:27",
+      "nombre": "Andres Tomas Rojas Crisostomo",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:31",
+      "nombre": "LUIS ALONSO CAMPOS VILCHEZ",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:33",
+      "nombre": "MELANY XIOMARA H. SAMILLAN",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:36",
+      "nombre": "Renzo Matienzo",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:36",
+      "nombre": "XIMENA PEBE",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:39",
+      "nombre": "YASHELL STEFANY RIVAS VARGAS",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:40",
+      "nombre": "ANDERSON REGALADO SUASNABAR",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:44",
+      "nombre": "Solange Portocarrero",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:44",
+      "nombre": "ADRIANA FIORELLA CASO MATOS",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:44",
+      "nombre": "BELLA PACHECO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:45",
+      "nombre": "Andrea Puente",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-25 23:48",
+      "nombre": "nycolearaujo25@hotmail.com",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-26 21:59",
+      "nombre": "SHEYLA MARYORIT PASTRANA TORRES",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-26 21:59",
+      "nombre": "EDWIN ALEJANDRO ALVA AQUINO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-26 22:00",
+      "nombre": "GRECIA ANGULO",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-26 22:01",
+      "nombre": "JOSEMARIA RAMOS",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-27 01:50",
+      "nombre": "PIERO CLEMENTE",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-27 01:53",
+      "nombre": "Maria Fernanda Miranda Pineda",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-27 01:54",
+      "nombre": "Gianfranco Baca Principe",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-27 02:00",
+      "nombre": "GIULIANA GABRIELA PANDURO ALVAREZ",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-27 02:03",
+      "nombre": "Adrian Galicia Arriaga",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-27 02:10",
+      "nombre": "Gonzalo Escriba",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-27 02:10",
+      "nombre": "LUIS A. PAREDES",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-27 05:34",
+      "nombre": "Giancarlo Ramirez Reyes",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "Laboral.AI",
+      "modalidad": "Hibrido",
+      "region": "Barranco, Lima",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-27 16:21",
+      "nombre": "NADIA SILVANA ELIZABETH JACINTO GARCIA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-27 16:42",
+      "nombre": "Francisco Espinoza",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-27 16:48",
+      "nombre": "AARON DENNIS PECHE",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-27 16:54",
+      "nombre": "MARIANA TAPIA BONILLA",
+      "email": "Sin email",
+      "puesto": "Creador(a) de Contenido Audiovisual ",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-28 19:42",
+      "nombre": "Geraldine Lucero Rojas Guzmán",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-05-30 16:45",
+      "nombre": "Cindy Cisneros",
+      "email": "Sin email",
+      "puesto": "Practicante Comercial y Marketing Digital",
+      "empresa": "SACSMYPE LEGAL",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W22"
+    },
+    {
+      "fecha_postulacion": "2026-06-01 16:55",
+      "nombre": "EDGARD JIMENEZ MORALES",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-01 16:56",
+      "nombre": "LUIS MENDOZA VALENZUELA",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-01 17:19",
+      "nombre": "Mauricio Barrientos",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-01 17:24",
+      "nombre": "Sandra Cecilia Oviedo Denegri",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-01 17:36",
+      "nombre": "Wilder Jesus Ramirez Huamaccto",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-01 19:11",
+      "nombre": "MAURICIO BENEDICT BARRIENTOS GIRALDO",
+      "email": "Sin email",
+      "puesto": "Ejecutivo Comercial Junior (Outbound)",
+      "empresa": "LaboralAI",
+      "modalidad": "Hibrido",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-03 01:01",
+      "nombre": "LUIS SEBASTIAN MELGAREJO TERRY",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-03 14:15",
+      "nombre": "Luis Verastegui",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Descartado",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-03 14:18",
+      "nombre": "Elizabeth Gonzales Torre",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-03 14:22",
+      "nombre": "ANDREA MILAGROS ARÉVALO TAFUR",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-03 14:27",
+      "nombre": "Tracy Milagros Mora Chatter",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Descartado",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-03 14:42",
+      "nombre": "Andrés Alonso Sotelo Sánchez",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-03 14:45",
+      "nombre": "Francisco José Reyes Tapia",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-03 14:48",
+      "nombre": "Manuel Saldaña Fuertes",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Descartado",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-04 00:16",
+      "nombre": "Aracelly Chuan Julcamoro",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-04 00:17",
+      "nombre": "SAYURI MARYORI HUAMAN VASQUEZ",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-04 00:18",
+      "nombre": "YAZMIN ESTEFANY CAPARO ESPINOZA",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-04 02:47",
+      "nombre": "JHOSEP FERNANDO RAMOS OSCCO",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Descartado",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-04 17:32",
+      "nombre": "Shantal Abigai Otiniano Barrera",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-04 17:34",
+      "nombre": "BRYAN GUIA",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-04 17:41",
+      "nombre": "Oriana Lisbeth Murillo Gómez",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-04 17:43",
+      "nombre": "PATRICK FLORES",
+      "email": "psteven.flores19@gmail.com",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-04 17:43",
+      "nombre": "Josmell Peña",
+      "email": "audiovisual.josmell@gmail.com",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-04 17:50",
+      "nombre": "Gabriel Humberto Fiestas Chester",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-04 17:57",
+      "nombre": "JOEL SAYAN HUAROTE",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-05 21:27",
+      "nombre": "CARMEN KARINA PEREZ GARCIA",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W23"
+    },
+    {
+      "fecha_postulacion": "2026-06-08 18:26",
+      "nombre": "IRENE GARCIA SULLCA",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W24"
+    },
+    {
+      "fecha_postulacion": "2026-06-08 18:29",
+      "nombre": "JOSE CARLOS GRANDE ROJAS",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W24"
+    },
+    {
+      "fecha_postulacion": "2026-06-08 22:58",
+      "nombre": "MATEO ARROYO",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W24"
+    },
+    {
+      "fecha_postulacion": "2026-06-08 23:18",
+      "nombre": "CESAR AUGUSTO",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W24"
+    },
+    {
+      "fecha_postulacion": "2026-06-08 23:20",
+      "nombre": "Bruno Sebastián Castillo Huamani",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W24"
+    },
+    {
+      "fecha_postulacion": "2026-06-08 23:23",
+      "nombre": "L. ENRIQUE ROJAS",
+      "email": "Sin email",
+      "puesto": "Asesor Comercial | Impulso León",
+      "empresa": "Impulso Leon",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W24"
+    },
+    {
+      "fecha_postulacion": "2026-06-10 17:53",
+      "nombre": "Jimmy Albert Anchiraico Flores",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W24"
+    },
+    {
+      "fecha_postulacion": "2026-06-10 18:24",
+      "nombre": "Luiggi Antonio Moran Nuñez",
+      "email": "moranluiggi10@gmail.com",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W24"
+    },
+    {
+      "fecha_postulacion": "2026-06-10 18:24",
+      "nombre": "Luiggi Antonio Moran Nuñez",
+      "email": "moranluiggi10@gmail.com",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W24"
+    },
+    {
+      "fecha_postulacion": "2026-06-10 20:24",
+      "nombre": "Rafael García Castillejo",
+      "email": "Sin email",
+      "puesto": "test",
+      "empresa": "Rafael Alonso Garcia Castillejo",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W24"
+    },
+    {
+      "fecha_postulacion": "2026-06-10 20:24",
+      "nombre": "Rafael García Castillejo",
+      "email": "Sin email",
+      "puesto": "test",
+      "empresa": "Rafael Alonso Garcia Castillejo",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W24"
+    },
+    {
+      "fecha_postulacion": "2026-06-10 20:27",
+      "nombre": "Rafael García Castillejo",
+      "email": "Sin email",
+      "puesto": "test",
+      "empresa": "Rafael Alonso Garcia Castillejo",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W24"
+    },
+    {
+      "fecha_postulacion": "2026-06-10 20:42",
+      "nombre": "Luis Javier Pérez Romero",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W24"
+    },
+    {
+      "fecha_postulacion": "2026-06-11 04:43",
+      "nombre": "JOAQUIN DIEGO CERVANTES ÑAUPARI",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W24"
+    },
+    {
+      "fecha_postulacion": "2026-06-15 02:02",
+      "nombre": "YONE CERON CALLUCHI",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W25"
+    },
+    {
+      "fecha_postulacion": "2026-06-15 02:05",
+      "nombre": "LEANDRO ALBEHIRO ÑAHUIS ATANACIO",
+      "email": "Sin email",
+      "puesto": "Asistente de Ventas - INTEX",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W25"
+    },
+    {
+      "fecha_postulacion": "2026-06-16 10:46",
+      "nombre": "Franklin Anderson Baltazar llique",
+      "email": "Sin email",
+      "puesto": "Desarrollador Junior — Visión Computacional e IA",
+      "empresa": "MirA.I.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W25"
+    },
+    {
+      "fecha_postulacion": "2026-06-17 16:40",
+      "nombre": "Gonzalo Escriba",
+      "email": "Sin email",
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W25"
+    },
+    {
+      "fecha_postulacion": "2026-06-17 17:40",
+      "nombre": "MIGUEL ALFONSO MEDINA RAMÓN",
+      "email": "Sin email",
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W25"
+    },
+    {
+      "fecha_postulacion": "2026-06-18 17:45",
+      "nombre": "Devean Gemoya Saint Leonard, MD",
+      "email": "Sin email",
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W25"
+    },
+    {
+      "fecha_postulacion": "2026-06-23 00:32",
+      "nombre": "Piero Fabricio Perleche Zegarra",
+      "email": "Sin email",
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W26"
+    },
+    {
+      "fecha_postulacion": "2026-07-07 00:44",
+      "nombre": "CHETAN KUMAR SAINI",
+      "email": "Sin email",
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "En Revision",
+      "semana_label": "2026-W28"
+    },
+    {
+      "fecha_postulacion": "2026-07-07 00:47",
+      "nombre": "Bryan Oores",
+      "email": "Sin email",
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W28"
+    },
+    {
+      "fecha_postulacion": "2026-07-07 01:18",
+      "nombre": "MARYLIN MAZA RAMOS",
+      "email": "Sin email",
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W28"
+    },
+    {
+      "fecha_postulacion": "2026-07-07 20:38",
+      "nombre": "LEONARDO REYES",
+      "email": "Sin email",
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W28"
+    },
+    {
+      "fecha_postulacion": "2026-07-09 17:07",
+      "nombre": "SEBASTIAN ALONSO, BERNAL HERRERA",
+      "email": "Sin email",
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W28"
+    },
+    {
+      "fecha_postulacion": "2026-07-10 16:35",
+      "nombre": "IRVING LENNARD MORÁN FALCÓN",
+      "email": "Sin email",
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W28"
+    },
+    {
+      "fecha_postulacion": "2026-07-10 22:59",
+      "nombre": "Jesus Cordero Cueva",
+      "email": "Sin email",
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W28"
+    },
+    {
+      "fecha_postulacion": "2026-07-10 23:01",
+      "nombre": "Nicole Stephany Mundo Chávez",
+      "email": "nicolestephany@gmail.com",
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W28"
+    },
+    {
+      "fecha_postulacion": "2026-07-10 23:02",
+      "nombre": "Nicole Stephany Mundo Chávez",
+      "email": "nicole5stephnao@gmail.com",
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Seleccionado",
+      "semana_label": "2026-W28"
+    },
+    {
+      "fecha_postulacion": "2026-07-10 23:04",
+      "nombre": "Giannina Barrios Francia",
+      "email": "Sin email",
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W28"
+    },
+    {
+      "fecha_postulacion": "2026-07-10 23:05",
+      "nombre": "Jossue Nayid Guevara Quispe",
+      "email": "Sin email",
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W28"
+    },
+    {
+      "fecha_postulacion": "2026-07-10 23:08",
+      "nombre": "Sue Chaterine Barturén Castilla",
+      "email": "Sin email",
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W28"
+    },
+    {
+      "fecha_postulacion": "2026-07-10 23:10",
+      "nombre": "Oscar Ocaña Vera",
+      "email": "Sin email",
+      "puesto": "Full Stack de Contenido Digital Intex + Media Ads",
+      "empresa": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Enviado",
+      "semana_label": "2026-W28"
+    },
+    {
+      "fecha_postulacion": "2026-07-15 22:04",
+      "nombre": "Pedro Sebastian Alfieri Arteaga Guerra",
+      "email": "Sin email",
+      "puesto": "Auxiliar Creativo",
+      "empresa": "Bamboo Balance",
+      "modalidad": "Presencial",
+      "region": "",
+      "estado": "Descartado",
+      "semana_label": "2026-W29"
+    },
+    {
+      "fecha_postulacion": "2026-08-11 12:46",
+      "nombre": "Bryan Taipe",
+      "email": "Sin email",
+      "puesto": "Programa Trainee Banca de Corporaciones y Empresas",
+      "empresa": "Sin especificar",
+      "modalidad": "Híbrido",
+      "region": "Lima",
+      "estado": "Postulado",
+      "semana_label": "2026-W33"
+    }
+  ],
+  "agregados": {
+    "por_estado": [
+      {
+        "valor": "Enviado",
+        "count": 209
+      },
+      {
+        "valor": "Sin Estado Registrado",
+        "count": 152
+      },
+      {
+        "valor": "En Revision",
+        "count": 64
+      },
+      {
+        "valor": "Seleccionado",
+        "count": 25
+      },
+      {
+        "valor": "Descartado",
+        "count": 12
+      },
+      {
+        "valor": "Retirado",
+        "count": 4
+      },
+      {
+        "valor": "Entrevista",
+        "count": 1
+      },
+      {
+        "valor": "Postulado",
+        "count": 1
+      }
+    ],
+    "por_semana": [
+      {
+        "semana_label": "2025-W46",
+        "postulaciones": 1
+      },
+      {
+        "semana_label": "2025-W48",
+        "postulaciones": 4
+      },
+      {
+        "semana_label": "2025-W49",
+        "postulaciones": 18
+      },
+      {
+        "semana_label": "2025-W50",
+        "postulaciones": 22
+      },
+      {
+        "semana_label": "2025-W51",
+        "postulaciones": 19
+      },
+      {
+        "semana_label": "2025-W52",
+        "postulaciones": 4
+      },
+      {
+        "semana_label": "2026-W01",
+        "postulaciones": 5
+      },
+      {
+        "semana_label": "2026-W02",
+        "postulaciones": 8
+      },
+      {
+        "semana_label": "2026-W03",
+        "postulaciones": 8
+      },
+      {
+        "semana_label": "2026-W04",
+        "postulaciones": 3
+      },
+      {
+        "semana_label": "2026-W05",
+        "postulaciones": 15
+      },
+      {
+        "semana_label": "2026-W06",
+        "postulaciones": 1
+      },
+      {
+        "semana_label": "2026-W07",
+        "postulaciones": 14
+      },
+      {
+        "semana_label": "2026-W08",
+        "postulaciones": 20
+      },
+      {
+        "semana_label": "2026-W09",
+        "postulaciones": 35
+      },
+      {
+        "semana_label": "2026-W10",
+        "postulaciones": 10
+      },
+      {
+        "semana_label": "2026-W11",
+        "postulaciones": 3
+      },
+      {
+        "semana_label": "2026-W12",
+        "postulaciones": 12
+      },
+      {
+        "semana_label": "2026-W13",
+        "postulaciones": 15
+      },
+      {
+        "semana_label": "2026-W14",
+        "postulaciones": 5
+      },
+      {
+        "semana_label": "2026-W15",
+        "postulaciones": 3
+      },
+      {
+        "semana_label": "2026-W16",
+        "postulaciones": 5
+      },
+      {
+        "semana_label": "2026-W17",
+        "postulaciones": 6
+      },
+      {
+        "semana_label": "2026-W18",
+        "postulaciones": 5
+      },
+      {
+        "semana_label": "2026-W19",
+        "postulaciones": 70
+      },
+      {
+        "semana_label": "2026-W20",
+        "postulaciones": 27
+      },
+      {
+        "semana_label": "2026-W21",
+        "postulaciones": 19
+      },
+      {
+        "semana_label": "2026-W22",
+        "postulaciones": 48
+      },
+      {
+        "semana_label": "2026-W23",
+        "postulaciones": 26
+      },
+      {
+        "semana_label": "2026-W24",
+        "postulaciones": 14
+      },
+      {
+        "semana_label": "2026-W25",
+        "postulaciones": 6
+      },
+      {
+        "semana_label": "2026-W26",
+        "postulaciones": 1
+      },
+      {
+        "semana_label": "2026-W28",
+        "postulaciones": 13
+      },
+      {
+        "semana_label": "2026-W29",
+        "postulaciones": 1
+      },
+      {
+        "semana_label": "2026-W33",
+        "postulaciones": 1
+      },
+      {
+        "semana_label": "<NA>-W<NA>",
+        "postulaciones": 1
+      }
+    ],
+    "top_puestos": [
+      {
+        "valor": "Creador(a) de Contenido Audiovisual ",
+        "count": 151
+      },
+      {
+        "valor": "Ejecutivo Comercial Junior (Outbound)",
+        "count": 37
+      },
+      {
+        "valor": "Practicante Comercial y Marketing Digital",
+        "count": 29
+      },
+      {
+        "valor": "Practicante de Marketing y Contenido Orgánico | Full Time",
+        "count": 28
+      },
+      {
+        "valor": "Asesor Comercial | Impulso León",
+        "count": 21
+      },
+      {
+        "valor": "Asistente de Ventas - INTEX",
+        "count": 21
+      },
+      {
+        "valor": "Asistente comercial",
+        "count": 19
+      },
+      {
+        "valor": "Full Stack de Contenido Digital Intex + Media Ads",
+        "count": 17
+      },
+      {
+        "valor": "Diseñador(a) industrial",
+        "count": 17
+      },
+      {
+        "valor": "Practicante de Growth & Experimentos de Producto | Full Time",
+        "count": 13
+      }
+    ],
+    "top_empresas": [
+      {
+        "valor": "INTEX MAQUINARIAS E INSUMOS TEXTILES  S.A.C.",
+        "count": 189
+      },
+      {
+        "valor": "FirmEasy Legal",
+        "count": 50
+      },
+      {
+        "valor": "SACSMYPE LEGAL",
+        "count": 29
+      },
+      {
+        "valor": "Laboral.AI",
+        "count": 24
+      },
+      {
+        "valor": "Impulso Leon",
+        "count": 21
+      },
+      {
+        "valor": "LaboralAI",
+        "count": 19
+      },
+      {
+        "valor": "Laboral",
+        "count": 19
+      },
+      {
+        "valor": "Elef Rosales",
+        "count": 19
+      },
+      {
+        "valor": "Nova Maquinarias",
+        "count": 14
+      },
+      {
+        "valor": "Estate Business",
+        "count": 11
+      }
+    ],
+    "por_modalidad": [
+      {
+        "valor": "Presencial",
+        "count": 314
+      },
+      {
+        "valor": "Hibrido",
+        "count": 101
+      },
+      {
+        "valor": "Remoto",
+        "count": 47
+      },
+      {
+        "valor": "Sin Especificar",
+        "count": 5
+      },
+      {
+        "valor": "Híbrido",
+        "count": 1
+      }
+    ],
+    "por_region": [
+      {
+        "valor": "",
+        "count": 350
+      },
+      {
+        "valor": "Sin especificar",
+        "count": 75
+      },
+      {
+        "valor": "Barranco, Lima",
+        "count": 18
+      },
+      {
+        "valor": "Lima, Lima",
+        "count": 17
+      },
+      {
+        "valor": "Miraflores, Lima",
+        "count": 3
+      },
+      {
+        "valor": "Ate, Lima",
+        "count": 2
+      },
+      {
+        "valor": "Independencia, Áncash",
+        "count": 2
+      },
+      {
+        "valor": "Lima",
+        "count": 1
+      }
+    ]
+  }
+}
