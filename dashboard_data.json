@@ -1,65 +1,65 @@
 {
   "meta": {
-    "fecha_generacion": "2026-09-23T01:24:23.511030",
-    "total_ofertas": 1478,
-    "total_postulaciones": 473
+    "fecha_generacion": "2026-09-23T01:32:34.385720",
+    "total_ofertas": 1651,
+    "total_postulaciones": 476
   },
   "kpis": {
-    "total_ofertas": 1478,
-    "ofertas_abiertas": 377,
-    "ofertas_cerradas": 1101,
-    "ofertas_internas": 59,
-    "ofertas_externas": 1419,
-    "total_postulaciones": 473,
-    "ofertas_con_herramientas": 675
+    "total_ofertas": 1651,
+    "ofertas_abiertas": 408,
+    "ofertas_cerradas": 1243,
+    "ofertas_internas": 62,
+    "ofertas_externas": 1589,
+    "total_postulaciones": 476,
+    "ofertas_con_herramientas": 783
   },
   "mercado": {
     "por_modalidad": [
       {
         "valor": "Presencial",
-        "count": 1283
+        "count": 1421
       },
       {
         "valor": "Híbrido",
-        "count": 109
+        "count": 127
       },
       {
         "valor": "Remoto",
-        "count": 86
+        "count": 103
       }
     ],
     "por_area": [
       {
         "valor": "Administración y Finanzas",
-        "count": 429
+        "count": 489
       },
       {
         "valor": "Marketing y Comunicación",
-        "count": 388
+        "count": 411
       },
       {
         "valor": "Comercial y Ventas",
-        "count": 314
+        "count": 360
       },
       {
         "valor": "Recursos Humanos",
-        "count": 105
+        "count": 126
       },
       {
         "valor": "Tecnología y Sistemas",
-        "count": 100
+        "count": 114
       },
       {
         "valor": "Mantenimiento y Producción",
-        "count": 61
+        "count": 66
       },
       {
         "valor": "Otros",
-        "count": 29
+        "count": 30
       },
       {
         "valor": "Logística y Transporte",
-        "count": 20
+        "count": 23
       },
       {
         "valor": "Minería y Energía",
@@ -72,96 +72,96 @@
     ],
     "por_region": [
       {
+        "valor": "Marketing, Publicidad Y Comunicación",
+        "count": 124
+      },
+      {
         "valor": "Marketing",
         "count": 123
       },
       {
-        "valor": "Marketing, Publicidad Y Comunicación",
-        "count": 121
+        "valor": "Comercial, Ventas Y Desarrollo De Negocios",
+        "count": 116
       },
       {
         "valor": "Data & Analytics",
         "count": 115
       },
       {
+        "valor": "Administración, Contabilidad Y Finanzas",
+        "count": 103
+      },
+      {
+        "valor": "Tecnología, Sistemas Y Telecomunicaciones",
+        "count": 91
+      },
+      {
         "valor": "Comercial",
         "count": 83
-      },
-      {
-        "valor": "Comercial, Ventas Y Desarrollo De Negocios",
-        "count": 83
-      },
-      {
-        "valor": "Administración, Contabilidad Y Finanzas",
-        "count": 68
       },
       {
         "valor": "Contabilidad",
         "count": 62
       },
       {
+        "valor": "Recursos Humanos Y Capacitación",
+        "count": 56
+      },
+      {
         "valor": "Administración",
         "count": 55
-      },
-      {
-        "valor": "Tecnología, Sistemas Y Telecomunicaciones",
-        "count": 50
-      },
-      {
-        "valor": "Finanzas",
-        "count": 24
       }
     ],
     "por_tipo": [
       {
         "valor": "Externa",
-        "count": 1419
+        "count": 1589
       },
       {
         "valor": "Interna",
-        "count": 59
+        "count": 62
       }
     ],
     "herramientas_top": [
       {
         "valor": "Excel",
-        "count": 436
+        "count": 500
       },
       {
         "valor": "Office",
-        "count": 144
+        "count": 168
       },
       {
         "valor": "Power BI",
-        "count": 141
+        "count": 165
       },
       {
         "valor": "SAP",
-        "count": 60
+        "count": 66
       },
       {
         "valor": "Canva",
-        "count": 59
+        "count": 64
       },
       {
         "valor": "Word",
-        "count": 55
-      },
-      {
-        "valor": "Photoshop",
-        "count": 52
+        "count": 64
       },
       {
         "valor": "SQL",
-        "count": 48
+        "count": 58
+      },
+      {
+        "valor": "Photoshop",
+        "count": 55
       },
       {
         "valor": "PowerPoint",
-        "count": 47
+        "count": 54
       },
       {
         "valor": "Illustrator",
-        "count": 43
+        "count": 45
       }
     ],
     "ofertas_por_mes": [
@@ -207,7 +207,7 @@
       },
       {
         "mes": "2026-09",
-        "count": 106
+        "count": 279
       }
     ]
   },
@@ -255,7 +255,7 @@
       },
       {
         "mes": "2026-09",
-        "count": 3
+        "count": 6
       }
     ],
     "top_puestos_postulados": [
@@ -296,14 +296,14 @@
         "count": 17
       },
       {
-        "valor": "Operario de Investigación y Desarrollo (I + D)",
+        "valor": "Practicante de Growth & Experimentos de Producto | Full Time",
         "count": 13
       }
     ],
     "por_estado": [
       {
         "valor": "Enviado",
-        "count": 209
+        "count": 211
       },
       {
         "valor": "Sin Dato",
@@ -323,7 +323,7 @@
       },
       {
         "valor": "Postulado",
-        "count": 5
+        "count": 6
       },
       {
         "valor": "Retirado",
@@ -1162,7 +1162,7 @@
         "area": "Comercial y Ventas",
         "modalidad": "Híbrido",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-07-03",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -4356,7 +4356,7 @@
         "region": "Lima",
         "estado": "CLOSED",
         "fecha_creacion": "2026-07-20",
-        "n_herramientas": 1,
+        "n_herramientas": 2,
         "tipo_oferta": "Externa"
       },
       {
@@ -10320,7 +10320,7 @@
         "region": "Lima",
         "estado": "CLOSED",
         "fecha_creacion": "2026-07-31",
-        "n_herramientas": 3,
+        "n_herramientas": 4,
         "tipo_oferta": "Externa"
       },
       {
@@ -11950,7 +11950,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-02",
         "n_herramientas": 3,
         "tipo_oferta": "Externa"
@@ -13006,7 +13006,7 @@
         "area": "Comercial y Ventas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-10",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13018,7 +13018,7 @@
         "area": "Comercial y Ventas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-10",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -13030,7 +13030,7 @@
         "area": "Comercial y Ventas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-10",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -13042,7 +13042,7 @@
         "area": "Recursos Humanos",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-10",
         "n_herramientas": 2,
         "tipo_oferta": "Externa"
@@ -13054,7 +13054,7 @@
         "area": "Recursos Humanos",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-10",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -13066,7 +13066,7 @@
         "area": "Tecnología y Sistemas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-10",
         "n_herramientas": 4,
         "tipo_oferta": "Externa"
@@ -13078,7 +13078,7 @@
         "area": "Tecnología y Sistemas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-11",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13090,7 +13090,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-11",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13102,7 +13102,7 @@
         "area": "Comercial y Ventas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-11",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13114,7 +13114,7 @@
         "area": "Mantenimiento y Producción",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-11",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13126,7 +13126,7 @@
         "area": "Comercial y Ventas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-11",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13138,7 +13138,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-11",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -13150,7 +13150,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-11",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -13162,7 +13162,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Remoto",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-11",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -13174,7 +13174,7 @@
         "area": "Recursos Humanos",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-11",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -13186,7 +13186,7 @@
         "area": "Comercial y Ventas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-11",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13198,7 +13198,7 @@
         "area": "Comercial y Ventas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13210,7 +13210,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13222,7 +13222,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13234,7 +13234,7 @@
         "area": "Salud",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13246,7 +13246,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13258,7 +13258,7 @@
         "area": "Comercial y Ventas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13270,7 +13270,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13282,7 +13282,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13294,7 +13294,7 @@
         "area": "Comercial y Ventas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13306,7 +13306,7 @@
         "area": "Recursos Humanos",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13318,7 +13318,7 @@
         "area": "Logística y Transporte",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13330,7 +13330,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13342,7 +13342,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13354,7 +13354,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Híbrido",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13366,7 +13366,7 @@
         "area": "Comercial y Ventas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13378,7 +13378,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13390,7 +13390,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13402,7 +13402,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13414,7 +13414,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13426,7 +13426,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-13",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13438,7 +13438,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-17",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -13450,7 +13450,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Callao",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-17",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13462,7 +13462,7 @@
         "area": "Comercial y Ventas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-17",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13474,7 +13474,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-17",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13486,7 +13486,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-17",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13498,7 +13498,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-17",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13510,7 +13510,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-17",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13522,7 +13522,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-17",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13534,7 +13534,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Remoto",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-17",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -13546,7 +13546,7 @@
         "area": "Recursos Humanos",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-19",
         "n_herramientas": 4,
         "tipo_oferta": "Externa"
@@ -13558,7 +13558,7 @@
         "area": "Recursos Humanos",
         "modalidad": "Presencial",
         "region": "Lambayeque",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-19",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13570,7 +13570,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-19",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13582,7 +13582,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Callao",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-19",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13594,7 +13594,7 @@
         "area": "Comercial y Ventas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-19",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -13606,7 +13606,7 @@
         "area": "Logística y Transporte",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-19",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13618,7 +13618,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-19",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13630,7 +13630,7 @@
         "area": "Logística y Transporte",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-19",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13642,7 +13642,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-19",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -13654,7 +13654,7 @@
         "area": "Comercial y Ventas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-19",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13678,7 +13678,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Arequipa",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-19",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13690,7 +13690,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-20",
         "n_herramientas": 2,
         "tipo_oferta": "Externa"
@@ -13702,7 +13702,7 @@
         "area": "Mantenimiento y Producción",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-20",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13714,7 +13714,7 @@
         "area": "Recursos Humanos",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-20",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -13726,7 +13726,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Híbrido",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-20",
         "n_herramientas": 2,
         "tipo_oferta": "Externa"
@@ -13738,7 +13738,7 @@
         "area": "Recursos Humanos",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-20",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -13750,7 +13750,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-20",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13762,7 +13762,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-20",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13774,7 +13774,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "La Libertad",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-20",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -13786,7 +13786,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lambayeque",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-20",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -13798,7 +13798,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-20",
         "n_herramientas": 3,
         "tipo_oferta": "Externa"
@@ -13810,7 +13810,7 @@
         "area": "Comercial y Ventas",
         "modalidad": "Presencial",
         "region": "Loreto",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-20",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13822,7 +13822,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-21",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -13834,7 +13834,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-21",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13846,7 +13846,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-21",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13858,7 +13858,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-21",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13870,7 +13870,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-21",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -13882,7 +13882,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-21",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13894,7 +13894,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13906,7 +13906,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13918,7 +13918,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Remoto",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13930,7 +13930,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13942,7 +13942,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 2,
         "tipo_oferta": "Externa"
@@ -13954,7 +13954,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13966,7 +13966,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13978,7 +13978,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Ica",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -13990,7 +13990,7 @@
         "area": "Comercial y Ventas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14002,7 +14002,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Arequipa",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14014,7 +14014,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Ica",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14026,7 +14026,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "La Libertad",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14038,7 +14038,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "La Libertad",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14050,7 +14050,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "La Libertad",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14062,7 +14062,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "La Libertad",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -14074,7 +14074,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "La Libertad",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14086,7 +14086,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "La Libertad",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14098,7 +14098,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "La Libertad",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14110,7 +14110,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "La Libertad",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14122,7 +14122,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14134,7 +14134,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14146,7 +14146,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14158,7 +14158,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14170,7 +14170,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 2,
         "tipo_oferta": "Externa"
@@ -14182,7 +14182,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -14194,7 +14194,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14206,7 +14206,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14218,7 +14218,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -14230,7 +14230,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14242,7 +14242,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14254,7 +14254,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 3,
         "tipo_oferta": "Externa"
@@ -14266,7 +14266,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 3,
         "tipo_oferta": "Externa"
@@ -14278,7 +14278,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14290,7 +14290,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Callao",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14302,7 +14302,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14314,7 +14314,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14326,7 +14326,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14338,7 +14338,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14350,7 +14350,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14362,7 +14362,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14374,7 +14374,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -14386,7 +14386,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14398,7 +14398,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14410,7 +14410,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -14422,7 +14422,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14434,7 +14434,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Callao",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14446,7 +14446,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 2,
         "tipo_oferta": "Externa"
@@ -14458,7 +14458,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14470,7 +14470,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14482,7 +14482,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14494,7 +14494,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14506,7 +14506,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14518,7 +14518,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14530,7 +14530,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -14542,7 +14542,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 5,
         "tipo_oferta": "Externa"
@@ -14554,7 +14554,7 @@
         "area": "Marketing y Comunicación",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14566,7 +14566,7 @@
         "area": "Recursos Humanos",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 2,
         "tipo_oferta": "Externa"
@@ -14578,7 +14578,7 @@
         "area": "Tecnología y Sistemas",
         "modalidad": "Remoto",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 2,
         "tipo_oferta": "Externa"
@@ -14590,7 +14590,7 @@
         "area": "Recursos Humanos",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14602,7 +14602,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 4,
         "tipo_oferta": "Externa"
@@ -14614,7 +14614,7 @@
         "area": "Mantenimiento y Producción",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-24",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -14650,7 +14650,7 @@
         "area": "Administración y Finanzas",
         "modalidad": "Híbrido",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-25",
         "n_herramientas": 1,
         "tipo_oferta": "Externa"
@@ -15286,7 +15286,7 @@
         "area": "Comercial y Ventas",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-25",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -16222,7 +16222,7 @@
         "area": "Minería y Energía",
         "modalidad": "Presencial",
         "region": "Lima",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-28",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -16234,7 +16234,7 @@
         "area": "Minería y Energía",
         "modalidad": "Presencial",
         "region": "Arequipa",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-28",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -16282,7 +16282,7 @@
         "area": "Comercial y Ventas",
         "modalidad": "Presencial",
         "region": "Arequipa",
-        "estado": "OPEN",
+        "estado": "CLOSED",
         "fecha_creacion": "2026-08-28",
         "n_herramientas": 0,
         "tipo_oferta": "Externa"
@@ -17560,6 +17560,2046 @@
         "tipo_oferta": "Externa"
       },
       {
+        "id": "6a9cb9fdd5f4675be97ebf6c",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Programación y Control de Despachos (Trujillo)",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9cbbe3d5f4675be97ebf91",
+        "empresa": "Empresa no disponible",
+        "puesto": "Service Desk -ENGLISH B2-C1 - TRUJILLO",
+        "area": "Tecnología y Sistemas",
+        "modalidad": "Híbrido",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9cbd28d5f4675be97ebfb4",
+        "empresa": "Empresa no disponible",
+        "puesto": "Technical Support L1 English speakers - TRUJILLO",
+        "area": "Tecnología y Sistemas",
+        "modalidad": "Híbrido",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 3,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9cbf5ed5f4675be97ec02a",
+        "empresa": "Empresa no disponible",
+        "puesto": "PROGRAMADOR(A) COBOL",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Remoto",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9cc08bd5f4675be97ec057",
+        "empresa": "Empresa no disponible",
+        "puesto": "Desarrollador Full Stack",
+        "area": "Tecnología y Sistemas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 5,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9ce90afeb9acc09a078ff7",
+        "empresa": "Empresa no disponible",
+        "puesto": "Vendedor Part Time Mall Plaza Trujillo, PER",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9ce97bfeb9acc09a07901d",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Administración",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9ce9fbfeb9acc09a079047",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional - Administrativo",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Híbrido",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9ceacafeb9acc09a079071",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Procesos Operacionales",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9ceb3ffeb9acc09a07909a",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Administrativo",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9cec33feb9acc09a0790bc",
+        "empresa": "Empresa no disponible",
+        "puesto": "Analista de Administración",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9cece8feb9acc09a0790e8",
+        "empresa": "Empresa no disponible",
+        "puesto": "Administradora y cajera  Sede Trujillo",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9cedc4feb9acc09a079113",
+        "empresa": "Empresa no disponible",
+        "puesto": "Analista de servicios de apoyo al aprendizaje e investigación",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9cee60feb9acc09a079140",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Comercial - Agencia de Carga Maritima",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9ceef8feb9acc09a079161",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Comercial (ventas) - S/ 700 más comisiones",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9ceff1feb9acc09a07918f",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Administración Comercial — San Isidro",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dc03e07c6db0e20c43ef9",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional Comercial",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dc25807c6db0e20c43f41",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Logística",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dc48007c6db0e20c43f75",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante contable (Modalidad Remota)",
+        "area": "Administración y Finanzas",
+        "modalidad": "Remoto",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dc5d707c6db0e20c43fa3",
+        "empresa": "Empresa no disponible",
+        "puesto": "Importante empresa del sector",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dc6a007c6db0e20c43fc4",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Pre Profesional de Gerencia de Área Unidades Legales",
+        "area": "Administración y Finanzas",
+        "modalidad": "Híbrido",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 5,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dc77b07c6db0e20c43ff0",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Remuneraciones y Soporte Operativo",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dc87707c6db0e20c4401c",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Reclamos, Indecopi y Atención al Cliente",
+        "area": "Comercial y Ventas",
+        "modalidad": "Híbrido",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dc93807c6db0e20c4404e",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Investigación y Desarrollo",
+        "area": "Logística y Transporte",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dc9e807c6db0e20c44079",
+        "empresa": "Empresa no disponible",
+        "puesto": "practicante de diseño gráfico",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Híbrido",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dcd3407c6db0e20c4432e",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Planilla/ Cercado de Lima",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dcdc507c6db0e20c44359",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Compras (Arequipa)",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dce6f07c6db0e20c44389",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional BI",
+        "area": "Tecnología y Sistemas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 6,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dcf1b07c6db0e20c443b4",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Técnico Mecánico - Practicante planta Arequipa",
+        "area": "Recursos Humanos",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dd03807c6db0e20c443e9",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Laboratorio Microbiológico",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dd0f607c6db0e20c4441a",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Contable - Minería",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dd27807c6db0e20c4443e",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante legal - Trujillo",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dd3ec07c6db0e20c44462",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Bienestar Social",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dd49d07c6db0e20c4448e",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de reclutamiento y selección",
+        "area": "Comercial y Ventas",
+        "modalidad": "Híbrido",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dd5a507c6db0e20c444af",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Selección ,Arequipa,Egresado - Reclutamiento y Selección",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dd67107c6db0e20c444db",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Recursos Humanos para importante empresa del rubro minero",
+        "area": "Recursos Humanos",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9dd84a07c6db0e20c4450a",
+        "empresa": "Empresa no disponible",
+        "puesto": "Pasante de Reclutamiento con o sin experiencia / Part Time",
+        "area": "Recursos Humanos",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-06",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e35290555a21e36e49ae5",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Administración y Recursos Humanos - Remoto, Solo Lima",
+        "area": "Administración y Finanzas",
+        "modalidad": "Remoto",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e365c0555a21e36e49b22",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional Audiovisual / Edición y Redes / El Porvenir, Trujillo - Vivir en zonas aledañas",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 3,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e36b60555a21e36e49b4b",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Administrativo o Logístico",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e375f0555a21e36e49b76",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Pre Profesional Administrativo",
+        "area": "Administración y Finanzas",
+        "modalidad": "Híbrido",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e37b40555a21e36e49b99",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante administrativo contable",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e38410555a21e36e49bf0",
+        "empresa": "Empresa no disponible",
+        "puesto": "Via Foods Ingredientes SAC",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e388b0555a21e36e49c0e",
+        "empresa": "Empresa no disponible",
+        "puesto": "practicante administrativo/a",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e38f60555a21e36e49c2d",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional Administrativo",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e396b0555a21e36e49c4c",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Administrativo",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e3a2d0555a21e36e49c7b",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante - Concesionaria de alimentos",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e3ab50555a21e36e49ca7",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Contabilidad / Asistente Administrativo Contable Laboral",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e3b300555a21e36e49cd3",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional Comercial",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 3,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e3ba70555a21e36e49cfd",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Comercial - Ventas",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e3c320555a21e36e49d29",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante comercial",
+        "area": "Comercial y Ventas",
+        "modalidad": "Híbrido",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e3cb60555a21e36e49d53",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Pre Profesional Comercial / Miraflores",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 3,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e3d1a0555a21e36e49d7d",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Pre Profesional de Marketing- Área Comercial",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e3d9c0555a21e36e49da7",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Sistemas",
+        "area": "Tecnología y Sistemas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e3df90555a21e36e49dc5",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Servicios Generales (Ingeniería de Sistemas y/o Informática)",
+        "area": "Recursos Humanos",
+        "modalidad": "Híbrido",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e3e740555a21e36e49def",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Sistemas - Desarrollo de Software y Tecnología",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 4,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e3ed30555a21e36e49e10",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Soporte Técnico & Analisis de datos (Sistemas)",
+        "area": "Recursos Humanos",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 4,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e3f1a0555a21e36e49e39",
+        "empresa": "Empresa no disponible",
+        "puesto": "practicante",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e3faa0555a21e36e49e70",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Producción",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Puno",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e40130555a21e36e49e99",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e40920555a21e36e49ec3",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Mantenimiento",
+        "area": "Mantenimiento y Producción",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e40db0555a21e36e49eed",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Compras",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Callao",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e41340555a21e36e49f0e",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Categoría",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e41860555a21e36e49f39",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Contabilidad",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e41d00555a21e36e49f63",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de contabilidad",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lambayeque",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e42970555a21e36e49f8e",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Contabilidad",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 4,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e42f40555a21e36e49fb8",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Proyectos",
+        "area": "Mantenimiento y Producción",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e43640555a21e36e49fe1",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante contable",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e43c00555a21e36e4a001",
+        "empresa": "Empresa no disponible",
+        "puesto": "PRACTICANTE DE RRHH",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e44210555a21e36e4a020",
+        "empresa": "Empresa no disponible",
+        "puesto": "PRACTICANTE DE VENTAS",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e44e40555a21e36e4a04b",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante SIG",
+        "area": "Mantenimiento y Producción",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e453c0555a21e36e4a074",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Contabilidad",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e45940555a21e36e4a098",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Digitalización",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e45f40555a21e36e4a0bb",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Contable",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e46da0555a21e36e4a0e7",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Compras",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e47460555a21e36e4a106",
+        "empresa": "Empresa no disponible",
+        "puesto": "PRACTICANTE OR",
+        "area": "Logística y Transporte",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e47ac0555a21e36e4a131",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Tesorería",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e481b0555a21e36e4a150",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Contabilidad",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e48b10555a21e36e4a17a",
+        "empresa": "Empresa no disponible",
+        "puesto": "Asistente Administrativo",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e494e0555a21e36e4a1a5",
+        "empresa": "Empresa no disponible",
+        "puesto": "Asistente Administrativo",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Callao",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 3,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e49bb0555a21e36e4a1c3",
+        "empresa": "Empresa no disponible",
+        "puesto": "Supervisor(a) de Atracción y Selección (Masivo)",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e4a200555a21e36e4a1e4",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de PCO - Lima",
+        "area": "Comercial y Ventas",
+        "modalidad": "Híbrido",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e4a6f0555a21e36e4a20f",
+        "empresa": "Empresa no disponible",
+        "puesto": "Auxiliar administrativo recursos humanos / capacitación",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e4ac30555a21e36e4a239",
+        "empresa": "Empresa no disponible",
+        "puesto": "Estudiantes de 6to a 8vo ciclo Ing industrial o sistemas para Auxiliar de data RRHH",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e4b750555a21e36e4a264",
+        "empresa": "Empresa no disponible",
+        "puesto": "Elixir Backend Engineer - Remote - Latin America",
+        "area": "Recursos Humanos",
+        "modalidad": "Remoto",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 3,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e4c050555a21e36e4a28e",
+        "empresa": "Empresa no disponible",
+        "puesto": "Translation Localization Engineer",
+        "area": "Comercial y Ventas",
+        "modalidad": "Remoto",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 4,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e4c610555a21e36e4a2b8",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Recursos Humanos",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e4cb80555a21e36e4a2e2",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Recursos Humanos",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e4d0c0555a21e36e4a30c",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante profesional de Recursos Humanos",
+        "area": "Recursos Humanos",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e4d6b0555a21e36e4a32a",
+        "empresa": "Empresa no disponible",
+        "puesto": "PRACTICANTE DE RECURSOS HUMANOS",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9e4dcf0555a21e36e4a354",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Recursos Humanos",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-07",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f72723e07cfddd82d274b",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Recursos Humanos",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f73033e07cfddd82d276c",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante profesional de Recursos Humanos",
+        "area": "Recursos Humanos",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f73763e07cfddd82d278d",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de People Analytics (Recursos Humanos)",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 3,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f73d23e07cfddd82d27b6",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Recursos Humanos - Trek Rental",
+        "area": "Recursos Humanos",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f74ac3e07cfddd82d27e9",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional De Venta De Repuestos - Divemotor",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f75453e07cfddd82d2816",
+        "empresa": "Empresa no disponible",
+        "puesto": "Trainee Program | Practicante Profesional de Ventas",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f75ca3e07cfddd82d2842",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Ventas KCP",
+        "area": "Comercial y Ventas",
+        "modalidad": "Híbrido",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f76323e07cfddd82d2862",
+        "empresa": "Empresa no disponible",
+        "puesto": "Genera Desde el Primer Día / Ventas en Campo Claro Arequipa/ Con o sin experiencia/1500 mensual",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f76923e07cfddd82d2881",
+        "empresa": "Empresa no disponible",
+        "puesto": "Promotor de ventas/Arequipa- BBVA/Creditos por convenio",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f76e73e07cfddd82d28aa",
+        "empresa": "Empresa no disponible",
+        "puesto": "Funcionarios/as de Negocios – Sector Financiero - Arequipa",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f77473e07cfddd82d28d1",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Soluciones Field OPS B2B",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 3,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f77d03e07cfddd82d28fe",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Automatización y Administración de Servicios TI",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Callao",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f78373e07cfddd82d291d",
+        "empresa": "Empresa no disponible",
+        "puesto": "Especialista de Procesos Junior",
+        "area": "Tecnología y Sistemas",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f78db3e07cfddd82d293d",
+        "empresa": "Empresa no disponible",
+        "puesto": "Analista de Proceso y Eficiencia",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f795b3e07cfddd82d2967",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Ciberseguridad y Seguridad de la Información",
+        "area": "Tecnología y Sistemas",
+        "modalidad": "Remoto",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f79fc3e07cfddd82d2989",
+        "empresa": "Empresa no disponible",
+        "puesto": "Automation Specialist",
+        "area": "Comercial y Ventas",
+        "modalidad": "Remoto",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 3,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f7a5e3e07cfddd82d29a7",
+        "empresa": "Empresa no disponible",
+        "puesto": "Pivot Java Developer (Junior)",
+        "area": "Tecnología y Sistemas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f7ad63e07cfddd82d29c6",
+        "empresa": "Empresa no disponible",
+        "puesto": "Desarrollador Junior de .NET",
+        "area": "Administración y Finanzas",
+        "modalidad": "Híbrido",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f7b413e07cfddd82d29f2",
+        "empresa": "Empresa no disponible",
+        "puesto": "Desarrollador Web. Sede:Zárate, SJL.",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 4,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f7bb03e07cfddd82d2a11",
+        "empresa": "Empresa no disponible",
+        "puesto": "Analista .Net Seguros - Junior",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f7ff43e07cfddd82d2a67",
+        "empresa": "Empresa no disponible",
+        "puesto": "Especialista en Producto y Desarrollo de Software",
+        "area": "Recursos Humanos",
+        "modalidad": "Híbrido",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f81143e07cfddd82d2a8c",
+        "empresa": "Empresa no disponible",
+        "puesto": "Full Stack Developer (Java + TypeScript + React Native) - Remote - Latin America",
+        "area": "Tecnología y Sistemas",
+        "modalidad": "Remoto",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 3,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f81f13e07cfddd82d2ad8",
+        "empresa": "Empresa no disponible",
+        "puesto": "Software Engineer (Angular + SEO/Marketing) - Remote - Latin America",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Remoto",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 3,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f82883e07cfddd82d2b09",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional RRHH",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 4,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f82f43e07cfddd82d2b34",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Recursos Humanos (Reclutamiento)",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 3,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f847a3e07cfddd82d2bb2",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Recursos Humanos",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f84f93e07cfddd82d2bdf",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de recursos humanos",
+        "area": "Recursos Humanos",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f858c3e07cfddd82d2c06",
+        "empresa": "Empresa no disponible",
+        "puesto": "Analista de Reclutamiento Masivo/Trujillo",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f861e3e07cfddd82d2c39",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Contabilidad",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f86d53e07cfddd82d2c5d",
+        "empresa": "Empresa no disponible",
+        "puesto": "Admisionista Ambulatoria/Emergencia Tiempo Parcial (Turno Mañana y Tarde) (PCD)",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f89053e07cfddd82d2cb7",
+        "empresa": "Empresa no disponible",
+        "puesto": "Jefe de Gestión Humana Trujillo / Suplencia por Maternidad",
+        "area": "Recursos Humanos",
+        "modalidad": "Remoto",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f89853e07cfddd82d2ce3",
+        "empresa": "Empresa no disponible",
+        "puesto": "Asistente de Capacitación",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f89f93e07cfddd82d2d0e",
+        "empresa": "Empresa no disponible",
+        "puesto": "Trabaja desde casa  / Turno PM/ Agente de atención al cliente / Sueldo Fijo y Bonos",
+        "area": "Comercial y Ventas",
+        "modalidad": "Remoto",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f8a733e07cfddd82d2d31",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Contable",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f8afb3e07cfddd82d2d56",
+        "empresa": "Empresa no disponible",
+        "puesto": "Asistente administrativo de planta",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f8b793e07cfddd82d2d78",
+        "empresa": "Empresa no disponible",
+        "puesto": "Auxiliar administrativo - Minería",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f8c8d3e07cfddd82d2da9",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Negocios Tarapoto",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "San Martín",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f904d3e07cfddd82d2e14",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante pasteleria - Pasteleria",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f90c43e07cfddd82d2e3e",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Psicología",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f91573e07cfddd82d2e61",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Contabilidad",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f92233e07cfddd82d2e92",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Recursos Humanos",
+        "area": "Recursos Humanos",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f92bd3e07cfddd82d2ebf",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Preprofesional de Mantenimiento",
+        "area": "Mantenimiento y Producción",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f935b3e07cfddd82d2ee4",
+        "empresa": "Empresa no disponible",
+        "puesto": "Convocatoria de Practicantes Preprofesionales - Trujillo",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f93d33e07cfddd82d2f0f",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de diseño gráfico - Trujillo",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 3,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f94573e07cfddd82d2f35",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Infraestructura Trujillo - Practicante Profesional de Infraestructura Trujillo",
+        "area": "Recursos Humanos",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f95483e07cfddd82d2f68",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Recursos Humanos",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f95d53e07cfddd82d2f90",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Atracción de Talento",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f990a3e07cfddd82d2fc1",
+        "empresa": "Empresa no disponible",
+        "puesto": "Ejecutivo(a) Comercial B2B / Campus Arequipa",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f997b3e07cfddd82d2fee",
+        "empresa": "Empresa no disponible",
+        "puesto": "Ejecutivo Comercial Arequipa",
+        "area": "Comercial y Ventas",
+        "modalidad": "Remoto",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f99d33e07cfddd82d301b",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Marketing",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9f9a433e07cfddd82d3048",
+        "empresa": "Empresa no disponible",
+        "puesto": "Asistente de Sistemas y TPI",
+        "area": "Tecnología y Sistemas",
+        "modalidad": "Presencial",
+        "region": "Callao",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fa6ff5337b712c765d93f",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional en Área de Post Venta / Linea de carrera + Beneficios Completos",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9faa545337b712c765d9a1",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Bienestar Social",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fac0f5337b712c765d9ec",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de Soporte Service Desk",
+        "area": "Recursos Humanos",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fad0b5337b712c765da1b",
+        "empresa": "Empresa no disponible",
+        "puesto": "Soporte TI / Técnico de Soporte Informático – Nivel 1",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fad775337b712c765da4b",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Operaciones y Mantenimiento Lima",
+        "area": "Recursos Humanos",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 3,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fae6d5337b712c765da7b",
+        "empresa": "Empresa no disponible",
+        "puesto": "On-Site Technical Support Junior",
+        "area": "Tecnología y Sistemas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9faf595337b712c765da9d",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante pre profesional Pre Sales (Tecnología de la información)",
+        "area": "Comercial y Ventas",
+        "modalidad": "Híbrido",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fb1305337b712c765dace",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional de análisis de datos y automatización",
+        "area": "Recursos Humanos",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 3,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fb2bc5337b712c765dafe",
+        "empresa": "Empresa no disponible",
+        "puesto": "Instalador de Telecomunicaciones / Claro",
+        "area": "Recursos Humanos",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fb4145337b712c765db24",
+        "empresa": "Empresa no disponible",
+        "puesto": "Trabajo full remoto /Recepcionista de llamadas ATC Claro/$2500",
+        "area": "Comercial y Ventas",
+        "modalidad": "Remoto",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fb5725337b712c765db55",
+        "empresa": "Empresa no disponible",
+        "puesto": "Promotor/a de tecnología",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fb6a45337b712c765db7a",
+        "empresa": "Empresa no disponible",
+        "puesto": "Técnico operativo",
+        "area": "Tecnología y Sistemas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fb7065337b712c765db9a",
+        "empresa": "Empresa no disponible",
+        "puesto": "Especialista de Servicios Cloud - Trujillo",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fb7575337b712c765dbc7",
+        "empresa": "Empresa no disponible",
+        "puesto": "Asistente de preanalítica",
+        "area": "Logística y Transporte",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fb8b45337b712c765dbf6",
+        "empresa": "Empresa no disponible",
+        "puesto": "Responsable de Recursos Humanos - Zona Sur",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fb9a95337b712c765dc25",
+        "empresa": "Empresa no disponible",
+        "puesto": "SOFTWARE ENGINEER JUNIOR JAVA",
+        "area": "Recursos Humanos",
+        "modalidad": "Híbrido",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 2,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fbab35337b712c765dc55",
+        "empresa": "Empresa no disponible",
+        "puesto": "Programador Junior",
+        "area": "Tecnología y Sistemas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 4,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fbb2e5337b712c765dc80",
+        "empresa": "Empresa no disponible",
+        "puesto": "Analista programador",
+        "area": "Recursos Humanos",
+        "modalidad": "Híbrido",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 3,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fbb845337b712c765dca2",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Pre Profesional de Outsourcing",
+        "area": "Recursos Humanos",
+        "modalidad": "Remoto",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 3,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fbbf45337b712c765dcd0",
+        "empresa": "Empresa no disponible",
+        "puesto": "Robotics Engineer Jobs in Arequipa",
+        "area": "Tecnología y Sistemas",
+        "modalidad": "Remoto",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fbd945337b712c765dd34",
+        "empresa": "Empresa no disponible",
+        "puesto": "iOS Developer",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Remoto",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fbe225337b712c765dd56",
+        "empresa": "Empresa no disponible",
+        "puesto": "Automation Engineer - SaaS StartUp",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Remoto",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 3,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fbf1f5337b712c765dd8c",
+        "empresa": "Empresa no disponible",
+        "puesto": "Operario(a) de Limpieza",
+        "area": "Mantenimiento y Producción",
+        "modalidad": "Presencial",
+        "region": "La Libertad",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fbf6f5337b712c765ddb6",
+        "empresa": "Empresa no disponible",
+        "puesto": "Asistente de Capacitación y Desarrollo Humano",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6a9fbfce5337b712c765ddd8",
+        "empresa": "Empresa no disponible",
+        "puesto": "Asistente de Atracción del talento.",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Arequipa",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6aa08f982216574ab33efb1d",
+        "empresa": "Empresa no disponible",
+        "puesto": "Programa de Practicas - Trainee",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6aa14c9161859a53c105a072",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante Profesional Recursos Humanos",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-09",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
+        "id": "6aa14d2c61859a53c105a0b9",
+        "empresa": "Empresa no disponible",
+        "puesto": "Practicante de Recursos Humanos – Administración / Ingeniería Industrial",
+        "area": "Administración y Finanzas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-09",
+        "n_herramientas": 1,
+        "tipo_oferta": "Externa"
+      },
+      {
         "id": "6912191b74d1880032cff34f",
         "empresa": "Laboralin",
         "puesto": "Practicante Comercial Ecommerce",
@@ -18265,6 +20305,42 @@
         "estado": "CLOSED",
         "fecha_creacion": "2026-08-12",
         "n_herramientas": 4,
+        "tipo_oferta": "Interna"
+      },
+      {
+        "id": "6a9f6da41f639aac7b711dc4",
+        "empresa": "Kallpa Greenz Leaders",
+        "puesto": "Ayudante para armado de invernaderos",
+        "area": "Otros",
+        "modalidad": "Presencial",
+        "region": "Moquegua",
+        "estado": "CLOSED",
+        "fecha_creacion": "2026-09-08",
+        "n_herramientas": 0,
+        "tipo_oferta": "Interna"
+      },
+      {
+        "id": "6aa60c512ff5a95b44432997",
+        "empresa": "Kallpa Greenz Leaders",
+        "puesto": "Vendedor de campo B2B",
+        "area": "Comercial y Ventas",
+        "modalidad": "Presencial",
+        "region": "Lima",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-13",
+        "n_herramientas": 1,
+        "tipo_oferta": "Interna"
+      },
+      {
+        "id": "6aa6e69d213163744ba184f3",
+        "empresa": "XRAI Labs",
+        "puesto": "Content Creator & Community Manager – Marketing Digital",
+        "area": "Marketing y Comunicación",
+        "modalidad": "Híbrido",
+        "region": "Huánuco",
+        "estado": "OPEN",
+        "fecha_creacion": "2026-09-13",
+        "n_herramientas": 0,
         "tipo_oferta": "Interna"
       }
     ],
@@ -19760,6 +21836,36 @@
         "tipo_oferta": "Interna"
       },
       {
+        "fecha_postulacion": "2026-02-25 21:33",
+        "nombre": "DANIEL ASAF AVILES BOBADILLA",
+        "estado": "Sin Dato",
+        "puesto": "Operario de Investigación y Desarrollo (I + D)",
+        "area": "Tecnología y Sistemas",
+        "modalidad": "presencial",
+        "region": "Lima",
+        "tipo_oferta": "Interna"
+      },
+      {
+        "fecha_postulacion": "2026-02-25 21:34",
+        "nombre": "DIEGO RAÚL CHÁVEZ MARRESE",
+        "estado": "Sin Dato",
+        "puesto": "Operario de Investigación y Desarrollo (I + D)",
+        "area": "Tecnología y Sistemas",
+        "modalidad": "presencial",
+        "region": "Lima",
+        "tipo_oferta": "Interna"
+      },
+      {
+        "fecha_postulacion": "2026-02-25 21:34",
+        "nombre": "FLAVIA SOFIA DIAZ FOLLEGATTI",
+        "estado": "Sin Dato",
+        "puesto": "Operario de Investigación y Desarrollo (I + D)",
+        "area": "Tecnología y Sistemas",
+        "modalidad": "presencial",
+        "region": "Lima",
+        "tipo_oferta": "Interna"
+      },
+      {
         "fecha_postulacion": "2026-02-25 21:34",
         "nombre": "GIANNI FRANCESCO VACCARO ORTIZ",
         "estado": "En Revision",
@@ -19770,8 +21876,8 @@
         "tipo_oferta": "Interna"
       },
       {
-        "fecha_postulacion": "2026-02-25 21:33",
-        "nombre": "DANIEL ASAF AVILES BOBADILLA",
+        "fecha_postulacion": "2026-02-25 21:34",
+        "nombre": "JULIO ENRIQUE VARONA HURTADO",
         "estado": "Sin Dato",
         "puesto": "Operario de Investigación y Desarrollo (I + D)",
         "area": "Tecnología y Sistemas",
@@ -19810,38 +21916,8 @@
         "tipo_oferta": "Interna"
       },
       {
-        "fecha_postulacion": "2026-02-25 21:34",
-        "nombre": "JULIO ENRIQUE VARONA HURTADO",
-        "estado": "Sin Dato",
-        "puesto": "Operario de Investigación y Desarrollo (I + D)",
-        "area": "Tecnología y Sistemas",
-        "modalidad": "presencial",
-        "region": "Lima",
-        "tipo_oferta": "Interna"
-      },
-      {
         "fecha_postulacion": "2026-02-25 21:35",
         "nombre": "YARILENKA GERALDINE BENITES MOZO",
-        "estado": "Sin Dato",
-        "puesto": "Operario de Investigación y Desarrollo (I + D)",
-        "area": "Tecnología y Sistemas",
-        "modalidad": "presencial",
-        "region": "Lima",
-        "tipo_oferta": "Interna"
-      },
-      {
-        "fecha_postulacion": "2026-02-25 21:34",
-        "nombre": "DIEGO RAÚL CHÁVEZ MARRESE",
-        "estado": "Sin Dato",
-        "puesto": "Operario de Investigación y Desarrollo (I + D)",
-        "area": "Tecnología y Sistemas",
-        "modalidad": "presencial",
-        "region": "Lima",
-        "tipo_oferta": "Interna"
-      },
-      {
-        "fecha_postulacion": "2026-02-25 21:34",
-        "nombre": "FLAVIA SOFIA DIAZ FOLLEGATTI",
         "estado": "Sin Dato",
         "puesto": "Operario de Investigación y Desarrollo (I + D)",
         "area": "Tecnología y Sistemas",
@@ -22998,6 +25074,36 @@
         "modalidad": "presencial",
         "region": "Arequipa",
         "tipo_oferta": "Externa"
+      },
+      {
+        "fecha_postulacion": "2026-09-08 22:31",
+        "nombre": "Sdenka Lazo",
+        "estado": "Postulado",
+        "puesto": "Analista de Seguridad de la Información y Ciberseguridad",
+        "area": "Administración y Finanzas",
+        "modalidad": "presencial",
+        "region": "Lima",
+        "tipo_oferta": "Externa"
+      },
+      {
+        "fecha_postulacion": "2026-09-20 02:52",
+        "nombre": "Diana Estefania Rodriguez Brito",
+        "estado": "Enviado",
+        "puesto": "Vendedor de campo B2B",
+        "area": "Comercial y Ventas",
+        "modalidad": "presencial",
+        "region": "Lima",
+        "tipo_oferta": "Interna"
+      },
+      {
+        "fecha_postulacion": "2026-09-20 02:53",
+        "nombre": "Jorge Luis Valenzuela",
+        "estado": "Enviado",
+        "puesto": "Vendedor de campo B2B",
+        "area": "Comercial y Ventas",
+        "modalidad": "presencial",
+        "region": "Lima",
+        "tipo_oferta": "Interna"
       }
     ]
   }
