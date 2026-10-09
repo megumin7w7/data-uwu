@@ -1,0 +1,2418 @@
+{
+  "meta": {
+    "fecha_generacion": "2026-10-09T02:18:17.611153",
+    "total_skills": 76,
+    "total_cursos": 9,
+    "nota": "Score = gap_pos × (1 − cobertura) × log(1 + demanda). Mide urgencia de crear curso: alta demanda, baja oferta de talento, sin curso existente."
+  },
+  "agregados": {
+    "kpis": {
+      "total_skills_evaluadas": 76,
+      "skills_con_gap": 27,
+      "skills_sobreofertadas": 49,
+      "skills_sin_curso": 69,
+      "cursos_activos": 9,
+      "practicantes_con_cv": 1432,
+      "practicantes_con_curso": 109,
+      "inscripciones_totales": 173
+    },
+    "brecha_por_tipo": {
+      "hard": {
+        "skills": 44,
+        "gap_promedio": 0.0073,
+        "con_gap": 17,
+        "con_curso": 2
+      },
+      "soft": {
+        "skills": 24,
+        "gap_promedio": -0.0633,
+        "con_gap": 10,
+        "con_curso": 5
+      },
+      "idioma": {
+        "skills": 8,
+        "gap_promedio": -0.1652,
+        "con_gap": 0,
+        "con_curso": 0
+      }
+    },
+    "areas_ofertas": [
+      {
+        "valor": "Administración y Finanzas",
+        "count": 492
+      },
+      {
+        "valor": "Marketing y Comunicación",
+        "count": 414
+      },
+      {
+        "valor": "Comercial y Ventas",
+        "count": 365
+      },
+      {
+        "valor": "Recursos Humanos",
+        "count": 126
+      },
+      {
+        "valor": "Tecnología y Sistemas",
+        "count": 114
+      },
+      {
+        "valor": "Mantenimiento y Producción",
+        "count": 66
+      },
+      {
+        "valor": "Otros",
+        "count": 30
+      },
+      {
+        "valor": "Logística y Transporte",
+        "count": 23
+      },
+      {
+        "valor": "Minería y Energía",
+        "count": 20
+      },
+      {
+        "valor": "Salud",
+        "count": 8
+      },
+      {
+        "valor": "Educación",
+        "count": 3
+      },
+      {
+        "valor": "Legal",
+        "count": 1
+      }
+    ],
+    "heatmap_areas": {
+      "Administración y Finanzas": [
+        {
+          "valor": "Excel",
+          "count": 381
+        },
+        {
+          "valor": "Office",
+          "count": 120
+        },
+        {
+          "valor": "Power BI",
+          "count": 103
+        },
+        {
+          "valor": "Organización",
+          "count": 93
+        },
+        {
+          "valor": "Inglés",
+          "count": 90
+        },
+        {
+          "valor": "Comunicación efectiva",
+          "count": 88
+        },
+        {
+          "valor": "Analítica digital",
+          "count": 80
+        },
+        {
+          "valor": "Proactividad",
+          "count": 53
+        }
+      ],
+      "Marketing y Comunicación": [
+        {
+          "valor": "Comunicación efectiva",
+          "count": 263
+        },
+        {
+          "valor": "Excel",
+          "count": 158
+        },
+        {
+          "valor": "Photoshop",
+          "count": 105
+        },
+        {
+          "valor": "Canva",
+          "count": 99
+        },
+        {
+          "valor": "Office",
+          "count": 87
+        },
+        {
+          "valor": "Illustrator",
+          "count": 87
+        },
+        {
+          "valor": "Proactividad",
+          "count": 83
+        },
+        {
+          "valor": "Inglés",
+          "count": 79
+        }
+      ],
+      "Comercial y Ventas": [
+        {
+          "valor": "Excel",
+          "count": 221
+        },
+        {
+          "valor": "Comunicación efectiva",
+          "count": 110
+        },
+        {
+          "valor": "Office",
+          "count": 82
+        },
+        {
+          "valor": "Orientación al cliente",
+          "count": 80
+        },
+        {
+          "valor": "Power BI",
+          "count": 73
+        },
+        {
+          "valor": "Inglés",
+          "count": 63
+        },
+        {
+          "valor": "Negociación",
+          "count": 60
+        },
+        {
+          "valor": "Organización",
+          "count": 54
+        }
+      ],
+      "Recursos Humanos": [
+        {
+          "valor": "Excel",
+          "count": 95
+        },
+        {
+          "valor": "Power BI",
+          "count": 38
+        },
+        {
+          "valor": "SQL",
+          "count": 30
+        },
+        {
+          "valor": "Inglés",
+          "count": 27
+        },
+        {
+          "valor": "Proactividad",
+          "count": 24
+        },
+        {
+          "valor": "Organización",
+          "count": 22
+        },
+        {
+          "valor": "Office",
+          "count": 18
+        },
+        {
+          "valor": "Analítica digital",
+          "count": 17
+        }
+      ],
+      "Tecnología y Sistemas": [
+        {
+          "valor": "Excel",
+          "count": 54
+        },
+        {
+          "valor": "Inglés",
+          "count": 36
+        },
+        {
+          "valor": "SQL",
+          "count": 29
+        },
+        {
+          "valor": "Trabajo en equipo",
+          "count": 24
+        },
+        {
+          "valor": "Power BI",
+          "count": 23
+        },
+        {
+          "valor": "Proactividad",
+          "count": 20
+        },
+        {
+          "valor": "Python",
+          "count": 18
+        },
+        {
+          "valor": "Comunicación efectiva",
+          "count": 17
+        }
+      ],
+      "Mantenimiento y Producción": [
+        {
+          "valor": "Excel",
+          "count": 35
+        },
+        {
+          "valor": "Comunicación efectiva",
+          "count": 16
+        },
+        {
+          "valor": "AutoCAD",
+          "count": 16
+        },
+        {
+          "valor": "Power BI",
+          "count": 14
+        },
+        {
+          "valor": "Inglés",
+          "count": 14
+        },
+        {
+          "valor": "Python",
+          "count": 8
+        },
+        {
+          "valor": "Organización",
+          "count": 8
+        },
+        {
+          "valor": "Office",
+          "count": 8
+        }
+      ],
+      "Otros": [
+        {
+          "valor": "Excel",
+          "count": 8
+        },
+        {
+          "valor": "Power BI",
+          "count": 7
+        },
+        {
+          "valor": "Office",
+          "count": 6
+        },
+        {
+          "valor": "Organización",
+          "count": 6
+        },
+        {
+          "valor": "Inglés",
+          "count": 6
+        },
+        {
+          "valor": "Responsabilidad",
+          "count": 6
+        },
+        {
+          "valor": "Comunicación efectiva",
+          "count": 4
+        },
+        {
+          "valor": "Orientación a resultados",
+          "count": 4
+        }
+      ],
+      "Logística y Transporte": [
+        {
+          "valor": "Excel",
+          "count": 18
+        },
+        {
+          "valor": "SAP",
+          "count": 5
+        },
+        {
+          "valor": "Trabajo en equipo",
+          "count": 4
+        },
+        {
+          "valor": "Proactividad",
+          "count": 4
+        },
+        {
+          "valor": "Orientación al cliente",
+          "count": 4
+        },
+        {
+          "valor": "Inglés",
+          "count": 4
+        },
+        {
+          "valor": "Power BI",
+          "count": 3
+        },
+        {
+          "valor": "Comunicación efectiva",
+          "count": 2
+        }
+      ]
+    },
+    "cursos_cobertura": [
+      {
+        "titulo": "LinkedIn Boost - Potencia tu Marca Personal",
+        "tipo": "Webinar",
+        "nivel": "Básico",
+        "keywords": [
+          "LinkedIn",
+          "Marca Personal",
+          "Marketing",
+          "Creación de Contenidos"
+        ],
+        "skills_cubiertas": []
+      },
+      {
+        "titulo": "Flujos end to end",
+        "tipo": "Webinar",
+        "nivel": "Básico",
+        "keywords": [
+          "Innovación",
+          "Resolución de Problemas"
+        ],
+        "skills_cubiertas": [
+          "Desarrollo ágil",
+          "Resolución de problemas",
+          "Innovación"
+        ]
+      },
+      {
+        "titulo": "Negocia y Convence",
+        "tipo": "Webinar",
+        "nivel": "Básico",
+        "keywords": [
+          "Ventas",
+          "Gestión Comercial",
+          "Negociación"
+        ],
+        "skills_cubiertas": [
+          "Comunicación efectiva",
+          "Negociación"
+        ]
+      },
+      {
+        "titulo": "Productividad en equipo con Google Workspace",
+        "tipo": "Webinar",
+        "nivel": "Básico",
+        "keywords": [
+          "Tecnología",
+          "Workspace",
+          "Cloud"
+        ],
+        "skills_cubiertas": [
+          "Office"
+        ]
+      },
+      {
+        "titulo": "Ikigai",
+        "tipo": "Webinar",
+        "nivel": "Básico",
+        "keywords": [
+          "Motivación",
+          "Propósito",
+          "Desarrollo Personal"
+        ],
+        "skills_cubiertas": []
+      },
+      {
+        "titulo": "Mentores: Mentalidad de Líder",
+        "tipo": "Taller",
+        "nivel": "Básico",
+        "keywords": [
+          "liderazgo",
+          "habilidades blandas",
+          "empleabilidad",
+          "crecimiento profesional"
+        ],
+        "skills_cubiertas": [
+          "Liderazgo"
+        ]
+      },
+      {
+        "titulo": "Mentores: La muerte de las MARCAS",
+        "tipo": "Webinar",
+        "nivel": "Básico",
+        "keywords": [
+          "Marketing",
+          "Creación de Contentido",
+          "Branding"
+        ],
+        "skills_cubiertas": []
+      },
+      {
+        "titulo": "Diseña tu CV con IA",
+        "tipo": "Taller",
+        "nivel": "Básico",
+        "keywords": [
+          "recursos humanos",
+          "CV"
+        ],
+        "skills_cubiertas": []
+      },
+      {
+        "titulo": "AI Applicator Sprint",
+        "tipo": "Bootcamps",
+        "nivel": "Básico",
+        "keywords": [
+          "IA",
+          "Tecnología",
+          "Prompting",
+          "Content creation with AI"
+        ],
+        "skills_cubiertas": []
+      }
+    ],
+    "top_brechas": [
+      {
+        "skill": "Excel",
+        "tipo": "hard",
+        "demanda": 984,
+        "oferta": 618,
+        "n_ofertas": 502,
+        "demanda_norm": 1.0,
+        "oferta_norm": 0.5282051282051282,
+        "gap": 0.4717948717948718,
+        "gap_pos": 0.4717948717948718,
+        "cobertura": 0,
+        "score": 3.2519129794247803
+      },
+      {
+        "skill": "Analítica digital",
+        "tipo": "hard",
+        "demanda": 142,
+        "oferta": 15,
+        "n_ofertas": 71,
+        "demanda_norm": 0.1443089430894309,
+        "oferta_norm": 0.01282051282051282,
+        "gap": 0.13148843026891807,
+        "gap_pos": 0.13148843026891807,
+        "cobertura": 0,
+        "score": 0.6525566501014043
+      },
+      {
+        "skill": "Proactividad",
+        "tipo": "soft",
+        "demanda": 249,
+        "oferta": 177,
+        "n_ofertas": 127,
+        "demanda_norm": 0.2530487804878049,
+        "oferta_norm": 0.15128205128205127,
+        "gap": 0.10176672920575361,
+        "gap_pos": 0.10176672920575361,
+        "cobertura": 0,
+        "score": 0.561901018048239
+      },
+      {
+        "skill": "Organización",
+        "tipo": "soft",
+        "demanda": 272,
+        "oferta": 211,
+        "n_ofertas": 141,
+        "demanda_norm": 0.2764227642276423,
+        "oferta_norm": 0.18034188034188034,
+        "gap": 0.09608088388576194,
+        "gap_pos": 0.09608088388576194,
+        "cobertura": 0,
+        "score": 0.5389630082136228
+      },
+      {
+        "skill": "Atención al detalle",
+        "tipo": "soft",
+        "demanda": 110,
+        "oferta": 14,
+        "n_ofertas": 56,
+        "demanda_norm": 0.11178861788617886,
+        "oferta_norm": 0.011965811965811967,
+        "gap": 0.0998228059203669,
+        "gap_pos": 0.0998228059203669,
+        "cobertura": 0,
+        "score": 0.47011851926170756
+      },
+      {
+        "skill": "SAP",
+        "tipo": "hard",
+        "demanda": 112,
+        "oferta": 60,
+        "n_ofertas": 67,
+        "demanda_norm": 0.11382113821138211,
+        "oferta_norm": 0.05128205128205128,
+        "gap": 0.06253908692933083,
+        "gap_pos": 0.06253908692933083,
+        "cobertura": 0,
+        "score": 0.29564651774311074
+      },
+      {
+        "skill": "Redacción",
+        "tipo": "soft",
+        "demanda": 84,
+        "oferta": 33,
+        "n_ofertas": 44,
+        "demanda_norm": 0.08536585365853659,
+        "oferta_norm": 0.028205128205128206,
+        "gap": 0.05716072545340839,
+        "gap_pos": 0.05716072545340839,
+        "cobertura": 0,
+        "score": 0.2539451687574828
+      },
+      {
+        "skill": "Tablas dinámicas",
+        "tipo": "hard",
+        "demanda": 48,
+        "oferta": 1,
+        "n_ofertas": 25,
+        "demanda_norm": 0.04878048780487805,
+        "oferta_norm": 0.0008547008547008547,
+        "gap": 0.0479257869501772,
+        "gap_pos": 0.0479257869501772,
+        "cobertura": 0,
+        "score": 0.186518550455625
+      },
+      {
+        "skill": "CapCut",
+        "tipo": "hard",
+        "demanda": 76,
+        "oferta": 42,
+        "n_ofertas": 39,
+        "demanda_norm": 0.07723577235772358,
+        "oferta_norm": 0.035897435897435895,
+        "gap": 0.041338336460287686,
+        "gap_pos": 0.041338336460287686,
+        "cobertura": 0,
+        "score": 0.1795656900466095
+      },
+      {
+        "skill": "CRM",
+        "tipo": "hard",
+        "demanda": 49,
+        "oferta": 15,
+        "n_ofertas": 29,
+        "demanda_norm": 0.049796747967479675,
+        "oferta_norm": 0.01282051282051282,
+        "gap": 0.03697623514696685,
+        "gap_pos": 0.03697623514696685,
+        "cobertura": 0,
+        "score": 0.14465188254905512
+      },
+      {
+        "skill": "Meta Ads",
+        "tipo": "hard",
+        "demanda": 53,
+        "oferta": 27,
+        "n_ofertas": 29,
+        "demanda_norm": 0.05386178861788618,
+        "oferta_norm": 0.023076923076923078,
+        "gap": 0.030784865540963102,
+        "gap_pos": 0.030784865540963102,
+        "cobertura": 0,
+        "score": 0.12280033751852809
+      },
+      {
+        "skill": "Photoshop",
+        "tipo": "hard",
+        "demanda": 107,
+        "oferta": 99,
+        "n_ofertas": 55,
+        "demanda_norm": 0.10873983739837398,
+        "oferta_norm": 0.08461538461538462,
+        "gap": 0.02412445278298936,
+        "gap_pos": 0.02412445278298936,
+        "cobertura": 0,
+        "score": 0.11295385371251827
+      },
+      {
+        "skill": "Google Ads",
+        "tipo": "hard",
+        "demanda": 37,
+        "oferta": 15,
+        "n_ofertas": 19,
+        "demanda_norm": 0.037601626016260166,
+        "oferta_norm": 0.01282051282051282,
+        "gap": 0.024781113195747346,
+        "gap_pos": 0.024781113195747346,
+        "cobertura": 0,
+        "score": 0.09014343438346345
+      },
+      {
+        "skill": "Illustrator",
+        "tipo": "hard",
+        "demanda": 87,
+        "oferta": 88,
+        "n_ofertas": 45,
+        "demanda_norm": 0.08841463414634146,
+        "oferta_norm": 0.07521367521367521,
+        "gap": 0.013200958932666249,
+        "gap_pos": 0.013200958932666249,
+        "cobertura": 0,
+        "score": 0.05910513941564153
+      },
+      {
+        "skill": "Azure",
+        "tipo": "hard",
+        "demanda": 28,
+        "oferta": 17,
+        "n_ofertas": 14,
+        "demanda_norm": 0.028455284552845527,
+        "oferta_norm": 0.01452991452991453,
+        "gap": 0.013925370022930997,
+        "gap_pos": 0.013925370022930997,
+        "cobertura": 0,
+        "score": 0.0468908404092342
+      },
+      {
+        "skill": "Power Query",
+        "tipo": "hard",
+        "demanda": 17,
+        "oferta": 5,
+        "n_ofertas": 10,
+        "demanda_norm": 0.017276422764227643,
+        "oferta_norm": 0.004273504273504274,
+        "gap": 0.013002918490723369,
+        "gap_pos": 0.013002918490723369,
+        "cobertura": 0,
+        "score": 0.03758326837581265
+      },
+      {
+        "skill": "Orientación al cliente",
+        "tipo": "soft",
+        "demanda": 151,
+        "oferta": 172,
+        "n_ofertas": 83,
+        "demanda_norm": 0.15345528455284552,
+        "oferta_norm": 0.147008547008547,
+        "gap": 0.006446737544298503,
+        "gap_pos": 0.006446737544298503,
+        "cobertura": 0,
+        "score": 0.03238763917180961
+      },
+      {
+        "skill": "Jira",
+        "tipo": "hard",
+        "demanda": 18,
+        "oferta": 11,
+        "n_ofertas": 9,
+        "demanda_norm": 0.018292682926829267,
+        "oferta_norm": 0.009401709401709401,
+        "gap": 0.008890973525119866,
+        "gap_pos": 0.008890973525119866,
+        "cobertura": 0,
+        "score": 0.026178929010099786
+      },
+      {
+        "skill": "AWS",
+        "tipo": "hard",
+        "demanda": 24,
+        "oferta": 25,
+        "n_ofertas": 12,
+        "demanda_norm": 0.024390243902439025,
+        "oferta_norm": 0.021367521367521368,
+        "gap": 0.0030227225349176573,
+        "gap_pos": 0.0030227225349176573,
+        "cobertura": 0,
+        "score": 0.009729768492930772
+      },
+      {
+        "skill": "Storytelling",
+        "tipo": "soft",
+        "demanda": 6,
+        "oferta": 2,
+        "n_ofertas": 4,
+        "demanda_norm": 0.006097560975609756,
+        "oferta_norm": 0.0017094017094017094,
+        "gap": 0.004388159266208047,
+        "gap_pos": 0.004388159266208047,
+        "cobertura": 0,
+        "score": 0.008538963651785355
+      },
+      {
+        "skill": "Pensamiento analítico",
+        "tipo": "soft",
+        "demanda": 59,
+        "oferta": 68,
+        "n_ofertas": 31,
+        "demanda_norm": 0.059959349593495935,
+        "oferta_norm": 0.05811965811965812,
+        "gap": 0.0018396914738378137,
+        "gap_pos": 0.0018396914738378137,
+        "cobertura": 0,
+        "score": 0.007532330782074214
+      },
+      {
+        "skill": "Slack",
+        "tipo": "hard",
+        "demanda": 6,
+        "oferta": 4,
+        "n_ofertas": 3,
+        "demanda_norm": 0.006097560975609756,
+        "oferta_norm": 0.003418803418803419,
+        "gap": 0.0026787575568063375,
+        "gap_pos": 0.0026787575568063375,
+        "cobertura": 0,
+        "score": 0.005212621516648067
+      },
+      {
+        "skill": "A/B testing",
+        "tipo": "hard",
+        "demanda": 2,
+        "oferta": 1,
+        "n_ofertas": 1,
+        "demanda_norm": 0.0020325203252032522,
+        "oferta_norm": 0.0008547008547008547,
+        "gap": 0.0011778194705023975,
+        "gap_pos": 0.0011778194705023975,
+        "cobertura": 0,
+        "score": 0.0012939669441265
+      },
+      {
+        "skill": "Empatía",
+        "tipo": "soft",
+        "demanda": 18,
+        "oferta": 80,
+        "n_ofertas": 9,
+        "demanda_norm": 0.018292682926829267,
+        "oferta_norm": 0.06837606837606838,
+        "gap": -0.05008338544923911,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "JavaScript",
+        "tipo": "hard",
+        "demanda": 32,
+        "oferta": 105,
+        "n_ofertas": 16,
+        "demanda_norm": 0.032520325203252036,
+        "oferta_norm": 0.08974358974358974,
+        "gap": -0.05722326454033771,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "Orientación a resultados",
+        "tipo": "soft",
+        "demanda": 95,
+        "oferta": 194,
+        "n_ofertas": 48,
+        "demanda_norm": 0.09654471544715447,
+        "oferta_norm": 0.1658119658119658,
+        "gap": -0.06926725036481134,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "Chino",
+        "tipo": "idioma",
+        "demanda": 0,
+        "oferta": 26,
+        "n_ofertas": 0,
+        "demanda_norm": 0.0,
+        "oferta_norm": 0.022222222222222223,
+        "gap": -0.022222222222222223,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "Notion",
+        "tipo": "hard",
+        "demanda": 7,
+        "oferta": 25,
+        "n_ofertas": 4,
+        "demanda_norm": 0.007113821138211382,
+        "oferta_norm": 0.021367521367521368,
+        "gap": -0.014253700229309985,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "Innovación",
+        "tipo": "soft",
+        "demanda": 27,
+        "oferta": 20,
+        "n_ofertas": 14,
+        "demanda_norm": 0.027439024390243903,
+        "oferta_norm": 0.017094017094017096,
+        "gap": 0.010345007296226807,
+        "gap_pos": 0.010345007296226807,
+        "cobertura": 1,
+        "score": 0.0
+      },
+      {
+        "skill": "Java",
+        "tipo": "hard",
+        "demanda": 27,
+        "oferta": 100,
+        "n_ofertas": 14,
+        "demanda_norm": 0.027439024390243903,
+        "oferta_norm": 0.08547008547008547,
+        "gap": -0.05803106107984157,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      }
+    ],
+    "top_sobreoferta": [
+      {
+        "skill": "Empatía",
+        "tipo": "soft",
+        "demanda": 18,
+        "oferta": 80,
+        "n_ofertas": 9,
+        "demanda_norm": 0.018292682926829267,
+        "oferta_norm": 0.06837606837606838,
+        "gap": -0.05008338544923911,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "JavaScript",
+        "tipo": "hard",
+        "demanda": 32,
+        "oferta": 105,
+        "n_ofertas": 16,
+        "demanda_norm": 0.032520325203252036,
+        "oferta_norm": 0.08974358974358974,
+        "gap": -0.05722326454033771,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "Orientación a resultados",
+        "tipo": "soft",
+        "demanda": 95,
+        "oferta": 194,
+        "n_ofertas": 48,
+        "demanda_norm": 0.09654471544715447,
+        "oferta_norm": 0.1658119658119658,
+        "gap": -0.06926725036481134,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "Chino",
+        "tipo": "idioma",
+        "demanda": 0,
+        "oferta": 26,
+        "n_ofertas": 0,
+        "demanda_norm": 0.0,
+        "oferta_norm": 0.022222222222222223,
+        "gap": -0.022222222222222223,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "Notion",
+        "tipo": "hard",
+        "demanda": 7,
+        "oferta": 25,
+        "n_ofertas": 4,
+        "demanda_norm": 0.007113821138211382,
+        "oferta_norm": 0.021367521367521368,
+        "gap": -0.014253700229309985,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "Java",
+        "tipo": "hard",
+        "demanda": 27,
+        "oferta": 100,
+        "n_ofertas": 14,
+        "demanda_norm": 0.027439024390243903,
+        "oferta_norm": 0.08547008547008547,
+        "gap": -0.05803106107984157,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "Español",
+        "tipo": "idioma",
+        "demanda": 0,
+        "oferta": 566,
+        "n_ofertas": 0,
+        "demanda_norm": 0.0,
+        "oferta_norm": 0.48376068376068376,
+        "gap": -0.48376068376068376,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "Resiliencia",
+        "tipo": "soft",
+        "demanda": 14,
+        "oferta": 38,
+        "n_ofertas": 7,
+        "demanda_norm": 0.014227642276422764,
+        "oferta_norm": 0.03247863247863248,
+        "gap": -0.018250990202209716,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "SolidWorks",
+        "tipo": "hard",
+        "demanda": 9,
+        "oferta": 12,
+        "n_ofertas": 5,
+        "demanda_norm": 0.009146341463414634,
+        "oferta_norm": 0.010256410256410256,
+        "gap": -0.0011100687929956228,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "Calidad del trabajo",
+        "tipo": "soft",
+        "demanda": 0,
+        "oferta": 212,
+        "n_ofertas": 0,
+        "demanda_norm": 0.0,
+        "oferta_norm": 0.1811965811965812,
+        "gap": -0.1811965811965812,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "Docker",
+        "tipo": "hard",
+        "demanda": 2,
+        "oferta": 28,
+        "n_ofertas": 1,
+        "demanda_norm": 0.0020325203252032522,
+        "oferta_norm": 0.023931623931623933,
+        "gap": -0.02189910360642068,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "Spring Boot",
+        "tipo": "hard",
+        "demanda": 4,
+        "oferta": 29,
+        "n_ofertas": 2,
+        "demanda_norm": 0.0040650406504065045,
+        "oferta_norm": 0.024786324786324785,
+        "gap": -0.02072128413591828,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "Creatividad",
+        "tipo": "soft",
+        "demanda": 73,
+        "oferta": 96,
+        "n_ofertas": 37,
+        "demanda_norm": 0.0741869918699187,
+        "oferta_norm": 0.08205128205128205,
+        "gap": -0.007864290181363351,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "Canva",
+        "tipo": "hard",
+        "demanda": 120,
+        "oferta": 167,
+        "n_ofertas": 64,
+        "demanda_norm": 0.12195121951219512,
+        "oferta_norm": 0.14273504273504273,
+        "gap": -0.02078382322284761,
+        "gap_pos": 0.0,
+        "cobertura": 0,
+        "score": 0.0
+      },
+      {
+        "skill": "Liderazgo",
+        "tipo": "soft",
+        "demanda": 32,
+        "oferta": 315,
+        "n_ofertas": 16,
+        "demanda_norm": 0.032520325203252036,
+        "oferta_norm": 0.2692307692307692,
+        "gap": -0.23671044402751718,
+        "gap_pos": 0.0,
+        "cobertura": 1,
+        "score": 0.0
+      }
+    ],
+    "scatter": [
+      {
+        "skill": "Excel",
+        "tipo": "hard",
+        "demanda": 984,
+        "oferta": 618,
+        "gap": 0.4717948717948718,
+        "score": 3.2519129794247803,
+        "cobertura": 0
+      },
+      {
+        "skill": "Analítica digital",
+        "tipo": "hard",
+        "demanda": 142,
+        "oferta": 15,
+        "gap": 0.13148843026891807,
+        "score": 0.6525566501014043,
+        "cobertura": 0
+      },
+      {
+        "skill": "Proactividad",
+        "tipo": "soft",
+        "demanda": 249,
+        "oferta": 177,
+        "gap": 0.10176672920575361,
+        "score": 0.561901018048239,
+        "cobertura": 0
+      },
+      {
+        "skill": "Organización",
+        "tipo": "soft",
+        "demanda": 272,
+        "oferta": 211,
+        "gap": 0.09608088388576194,
+        "score": 0.5389630082136228,
+        "cobertura": 0
+      },
+      {
+        "skill": "Atención al detalle",
+        "tipo": "soft",
+        "demanda": 110,
+        "oferta": 14,
+        "gap": 0.0998228059203669,
+        "score": 0.47011851926170756,
+        "cobertura": 0
+      },
+      {
+        "skill": "SAP",
+        "tipo": "hard",
+        "demanda": 112,
+        "oferta": 60,
+        "gap": 0.06253908692933083,
+        "score": 0.29564651774311074,
+        "cobertura": 0
+      },
+      {
+        "skill": "Redacción",
+        "tipo": "soft",
+        "demanda": 84,
+        "oferta": 33,
+        "gap": 0.05716072545340839,
+        "score": 0.2539451687574828,
+        "cobertura": 0
+      },
+      {
+        "skill": "Tablas dinámicas",
+        "tipo": "hard",
+        "demanda": 48,
+        "oferta": 1,
+        "gap": 0.0479257869501772,
+        "score": 0.186518550455625,
+        "cobertura": 0
+      },
+      {
+        "skill": "CapCut",
+        "tipo": "hard",
+        "demanda": 76,
+        "oferta": 42,
+        "gap": 0.041338336460287686,
+        "score": 0.1795656900466095,
+        "cobertura": 0
+      },
+      {
+        "skill": "CRM",
+        "tipo": "hard",
+        "demanda": 49,
+        "oferta": 15,
+        "gap": 0.03697623514696685,
+        "score": 0.14465188254905512,
+        "cobertura": 0
+      },
+      {
+        "skill": "Meta Ads",
+        "tipo": "hard",
+        "demanda": 53,
+        "oferta": 27,
+        "gap": 0.030784865540963102,
+        "score": 0.12280033751852809,
+        "cobertura": 0
+      },
+      {
+        "skill": "Photoshop",
+        "tipo": "hard",
+        "demanda": 107,
+        "oferta": 99,
+        "gap": 0.02412445278298936,
+        "score": 0.11295385371251827,
+        "cobertura": 0
+      },
+      {
+        "skill": "Google Ads",
+        "tipo": "hard",
+        "demanda": 37,
+        "oferta": 15,
+        "gap": 0.024781113195747346,
+        "score": 0.09014343438346345,
+        "cobertura": 0
+      },
+      {
+        "skill": "Illustrator",
+        "tipo": "hard",
+        "demanda": 87,
+        "oferta": 88,
+        "gap": 0.013200958932666249,
+        "score": 0.05910513941564153,
+        "cobertura": 0
+      },
+      {
+        "skill": "Azure",
+        "tipo": "hard",
+        "demanda": 28,
+        "oferta": 17,
+        "gap": 0.013925370022930997,
+        "score": 0.0468908404092342,
+        "cobertura": 0
+      },
+      {
+        "skill": "Power Query",
+        "tipo": "hard",
+        "demanda": 17,
+        "oferta": 5,
+        "gap": 0.013002918490723369,
+        "score": 0.03758326837581265,
+        "cobertura": 0
+      },
+      {
+        "skill": "Orientación al cliente",
+        "tipo": "soft",
+        "demanda": 151,
+        "oferta": 172,
+        "gap": 0.006446737544298503,
+        "score": 0.03238763917180961,
+        "cobertura": 0
+      },
+      {
+        "skill": "Jira",
+        "tipo": "hard",
+        "demanda": 18,
+        "oferta": 11,
+        "gap": 0.008890973525119866,
+        "score": 0.026178929010099786,
+        "cobertura": 0
+      },
+      {
+        "skill": "AWS",
+        "tipo": "hard",
+        "demanda": 24,
+        "oferta": 25,
+        "gap": 0.0030227225349176573,
+        "score": 0.009729768492930772,
+        "cobertura": 0
+      },
+      {
+        "skill": "Storytelling",
+        "tipo": "soft",
+        "demanda": 6,
+        "oferta": 2,
+        "gap": 0.004388159266208047,
+        "score": 0.008538963651785355,
+        "cobertura": 0
+      },
+      {
+        "skill": "Pensamiento analítico",
+        "tipo": "soft",
+        "demanda": 59,
+        "oferta": 68,
+        "gap": 0.0018396914738378137,
+        "score": 0.007532330782074214,
+        "cobertura": 0
+      },
+      {
+        "skill": "Slack",
+        "tipo": "hard",
+        "demanda": 6,
+        "oferta": 4,
+        "gap": 0.0026787575568063375,
+        "score": 0.005212621516648067,
+        "cobertura": 0
+      },
+      {
+        "skill": "A/B testing",
+        "tipo": "hard",
+        "demanda": 2,
+        "oferta": 1,
+        "gap": 0.0011778194705023975,
+        "score": 0.0012939669441265,
+        "cobertura": 0
+      },
+      {
+        "skill": "Empatía",
+        "tipo": "soft",
+        "demanda": 18,
+        "oferta": 80,
+        "gap": -0.05008338544923911,
+        "score": 0.0,
+        "cobertura": 0
+      },
+      {
+        "skill": "JavaScript",
+        "tipo": "hard",
+        "demanda": 32,
+        "oferta": 105,
+        "gap": -0.05722326454033771,
+        "score": 0.0,
+        "cobertura": 0
+      },
+      {
+        "skill": "Orientación a resultados",
+        "tipo": "soft",
+        "demanda": 95,
+        "oferta": 194,
+        "gap": -0.06926725036481134,
+        "score": 0.0,
+        "cobertura": 0
+      },
+      {
+        "skill": "Chino",
+        "tipo": "idioma",
+        "demanda": 0,
+        "oferta": 26,
+        "gap": -0.022222222222222223,
+        "score": 0.0,
+        "cobertura": 0
+      },
+      {
+        "skill": "Notion",
+        "tipo": "hard",
+        "demanda": 7,
+        "oferta": 25,
+        "gap": -0.014253700229309985,
+        "score": 0.0,
+        "cobertura": 0
+      },
+      {
+        "skill": "Innovación",
+        "tipo": "soft",
+        "demanda": 27,
+        "oferta": 20,
+        "gap": 0.010345007296226807,
+        "score": 0.0,
+        "cobertura": 1
+      },
+      {
+        "skill": "Java",
+        "tipo": "hard",
+        "demanda": 27,
+        "oferta": 100,
+        "gap": -0.05803106107984157,
+        "score": 0.0,
+        "cobertura": 0
+      },
+      {
+        "skill": "Español",
+        "tipo": "idioma",
+        "demanda": 0,
+        "oferta": 566,
+        "gap": -0.48376068376068376,
+        "score": 0.0,
+        "cobertura": 0
+      },
+      {
+        "skill": "Resiliencia",
+        "tipo": "soft",
+        "demanda": 14,
+        "oferta": 38,
+        "gap": -0.018250990202209716,
+        "score": 0.0,
+        "cobertura": 0
+      },
+      {
+        "skill": "Office",
+        "tipo": "hard",
+        "demanda": 350,
+        "oferta": 94,
+        "gap": 0.2753491765686888,
+        "score": 0.0,
+        "cobertura": 1
+      },
+      {
+        "skill": "SolidWorks",
+        "tipo": "hard",
+        "demanda": 9,
+        "oferta": 12,
+        "gap": -0.0011100687929956228,
+        "score": 0.0,
+        "cobertura": 0
+      },
+      {
+        "skill": "Calidad del trabajo",
+        "tipo": "soft",
+        "demanda": 0,
+        "oferta": 212,
+        "gap": -0.1811965811965812,
+        "score": 0.0,
+        "cobertura": 0
+      },
+      {
+        "skill": "Comunicación efectiva",
+        "tipo": "soft",
+        "demanda": 524,
+        "oferta": 504,
+        "gap": 0.1017510944340212,
+        "score": 0.0,
+        "cobertura": 1
+      },
+      {
+        "skill": "Docker",
+        "tipo": "hard",
+        "demanda": 2,
+        "oferta": 28,
+        "gap": -0.02189910360642068,
+        "score": 0.0,
+        "cobertura": 0
+      },
+      {
+        "skill": "Spring Boot",
+        "tipo": "hard",
+        "demanda": 4,
+        "oferta": 29,
+        "gap": -0.02072128413591828,
+        "score": 0.0,
+        "cobertura": 0
+      },
+      {
+        "skill": "Creatividad",
+        "tipo": "soft",
+        "demanda": 73,
+        "oferta": 96,
+        "gap": -0.007864290181363351,
+        "score": 0.0,
+        "cobertura": 0
+      },
+      {
+        "skill": "Canva",
+        "tipo": "hard",
+        "demanda": 120,
+        "oferta": 167,
+        "gap": -0.02078382322284761,
+        "score": 0.0,
+        "cobertura": 0
+      }
+    ]
+  },
+  "brechas_completas": [
+    {
+      "skill": "Excel",
+      "tipo": "hard",
+      "demanda": 984,
+      "oferta": 618,
+      "n_ofertas": 502,
+      "demanda_norm": 1.0,
+      "oferta_norm": 0.5282051282051282,
+      "gap": 0.4717948717948718,
+      "gap_pos": 0.4717948717948718,
+      "cobertura": 0,
+      "score": 3.2519129794247803
+    },
+    {
+      "skill": "Analítica digital",
+      "tipo": "hard",
+      "demanda": 142,
+      "oferta": 15,
+      "n_ofertas": 71,
+      "demanda_norm": 0.1443089430894309,
+      "oferta_norm": 0.01282051282051282,
+      "gap": 0.13148843026891807,
+      "gap_pos": 0.13148843026891807,
+      "cobertura": 0,
+      "score": 0.6525566501014043
+    },
+    {
+      "skill": "Proactividad",
+      "tipo": "soft",
+      "demanda": 249,
+      "oferta": 177,
+      "n_ofertas": 127,
+      "demanda_norm": 0.2530487804878049,
+      "oferta_norm": 0.15128205128205127,
+      "gap": 0.10176672920575361,
+      "gap_pos": 0.10176672920575361,
+      "cobertura": 0,
+      "score": 0.561901018048239
+    },
+    {
+      "skill": "Organización",
+      "tipo": "soft",
+      "demanda": 272,
+      "oferta": 211,
+      "n_ofertas": 141,
+      "demanda_norm": 0.2764227642276423,
+      "oferta_norm": 0.18034188034188034,
+      "gap": 0.09608088388576194,
+      "gap_pos": 0.09608088388576194,
+      "cobertura": 0,
+      "score": 0.5389630082136228
+    },
+    {
+      "skill": "Atención al detalle",
+      "tipo": "soft",
+      "demanda": 110,
+      "oferta": 14,
+      "n_ofertas": 56,
+      "demanda_norm": 0.11178861788617886,
+      "oferta_norm": 0.011965811965811967,
+      "gap": 0.0998228059203669,
+      "gap_pos": 0.0998228059203669,
+      "cobertura": 0,
+      "score": 0.47011851926170756
+    },
+    {
+      "skill": "SAP",
+      "tipo": "hard",
+      "demanda": 112,
+      "oferta": 60,
+      "n_ofertas": 67,
+      "demanda_norm": 0.11382113821138211,
+      "oferta_norm": 0.05128205128205128,
+      "gap": 0.06253908692933083,
+      "gap_pos": 0.06253908692933083,
+      "cobertura": 0,
+      "score": 0.29564651774311074
+    },
+    {
+      "skill": "Redacción",
+      "tipo": "soft",
+      "demanda": 84,
+      "oferta": 33,
+      "n_ofertas": 44,
+      "demanda_norm": 0.08536585365853659,
+      "oferta_norm": 0.028205128205128206,
+      "gap": 0.05716072545340839,
+      "gap_pos": 0.05716072545340839,
+      "cobertura": 0,
+      "score": 0.2539451687574828
+    },
+    {
+      "skill": "Tablas dinámicas",
+      "tipo": "hard",
+      "demanda": 48,
+      "oferta": 1,
+      "n_ofertas": 25,
+      "demanda_norm": 0.04878048780487805,
+      "oferta_norm": 0.0008547008547008547,
+      "gap": 0.0479257869501772,
+      "gap_pos": 0.0479257869501772,
+      "cobertura": 0,
+      "score": 0.186518550455625
+    },
+    {
+      "skill": "CapCut",
+      "tipo": "hard",
+      "demanda": 76,
+      "oferta": 42,
+      "n_ofertas": 39,
+      "demanda_norm": 0.07723577235772358,
+      "oferta_norm": 0.035897435897435895,
+      "gap": 0.041338336460287686,
+      "gap_pos": 0.041338336460287686,
+      "cobertura": 0,
+      "score": 0.1795656900466095
+    },
+    {
+      "skill": "CRM",
+      "tipo": "hard",
+      "demanda": 49,
+      "oferta": 15,
+      "n_ofertas": 29,
+      "demanda_norm": 0.049796747967479675,
+      "oferta_norm": 0.01282051282051282,
+      "gap": 0.03697623514696685,
+      "gap_pos": 0.03697623514696685,
+      "cobertura": 0,
+      "score": 0.14465188254905512
+    },
+    {
+      "skill": "Meta Ads",
+      "tipo": "hard",
+      "demanda": 53,
+      "oferta": 27,
+      "n_ofertas": 29,
+      "demanda_norm": 0.05386178861788618,
+      "oferta_norm": 0.023076923076923078,
+      "gap": 0.030784865540963102,
+      "gap_pos": 0.030784865540963102,
+      "cobertura": 0,
+      "score": 0.12280033751852809
+    },
+    {
+      "skill": "Photoshop",
+      "tipo": "hard",
+      "demanda": 107,
+      "oferta": 99,
+      "n_ofertas": 55,
+      "demanda_norm": 0.10873983739837398,
+      "oferta_norm": 0.08461538461538462,
+      "gap": 0.02412445278298936,
+      "gap_pos": 0.02412445278298936,
+      "cobertura": 0,
+      "score": 0.11295385371251827
+    },
+    {
+      "skill": "Google Ads",
+      "tipo": "hard",
+      "demanda": 37,
+      "oferta": 15,
+      "n_ofertas": 19,
+      "demanda_norm": 0.037601626016260166,
+      "oferta_norm": 0.01282051282051282,
+      "gap": 0.024781113195747346,
+      "gap_pos": 0.024781113195747346,
+      "cobertura": 0,
+      "score": 0.09014343438346345
+    },
+    {
+      "skill": "Illustrator",
+      "tipo": "hard",
+      "demanda": 87,
+      "oferta": 88,
+      "n_ofertas": 45,
+      "demanda_norm": 0.08841463414634146,
+      "oferta_norm": 0.07521367521367521,
+      "gap": 0.013200958932666249,
+      "gap_pos": 0.013200958932666249,
+      "cobertura": 0,
+      "score": 0.05910513941564153
+    },
+    {
+      "skill": "Azure",
+      "tipo": "hard",
+      "demanda": 28,
+      "oferta": 17,
+      "n_ofertas": 14,
+      "demanda_norm": 0.028455284552845527,
+      "oferta_norm": 0.01452991452991453,
+      "gap": 0.013925370022930997,
+      "gap_pos": 0.013925370022930997,
+      "cobertura": 0,
+      "score": 0.0468908404092342
+    },
+    {
+      "skill": "Power Query",
+      "tipo": "hard",
+      "demanda": 17,
+      "oferta": 5,
+      "n_ofertas": 10,
+      "demanda_norm": 0.017276422764227643,
+      "oferta_norm": 0.004273504273504274,
+      "gap": 0.013002918490723369,
+      "gap_pos": 0.013002918490723369,
+      "cobertura": 0,
+      "score": 0.03758326837581265
+    },
+    {
+      "skill": "Orientación al cliente",
+      "tipo": "soft",
+      "demanda": 151,
+      "oferta": 172,
+      "n_ofertas": 83,
+      "demanda_norm": 0.15345528455284552,
+      "oferta_norm": 0.147008547008547,
+      "gap": 0.006446737544298503,
+      "gap_pos": 0.006446737544298503,
+      "cobertura": 0,
+      "score": 0.03238763917180961
+    },
+    {
+      "skill": "Jira",
+      "tipo": "hard",
+      "demanda": 18,
+      "oferta": 11,
+      "n_ofertas": 9,
+      "demanda_norm": 0.018292682926829267,
+      "oferta_norm": 0.009401709401709401,
+      "gap": 0.008890973525119866,
+      "gap_pos": 0.008890973525119866,
+      "cobertura": 0,
+      "score": 0.026178929010099786
+    },
+    {
+      "skill": "AWS",
+      "tipo": "hard",
+      "demanda": 24,
+      "oferta": 25,
+      "n_ofertas": 12,
+      "demanda_norm": 0.024390243902439025,
+      "oferta_norm": 0.021367521367521368,
+      "gap": 0.0030227225349176573,
+      "gap_pos": 0.0030227225349176573,
+      "cobertura": 0,
+      "score": 0.009729768492930772
+    },
+    {
+      "skill": "Storytelling",
+      "tipo": "soft",
+      "demanda": 6,
+      "oferta": 2,
+      "n_ofertas": 4,
+      "demanda_norm": 0.006097560975609756,
+      "oferta_norm": 0.0017094017094017094,
+      "gap": 0.004388159266208047,
+      "gap_pos": 0.004388159266208047,
+      "cobertura": 0,
+      "score": 0.008538963651785355
+    },
+    {
+      "skill": "Pensamiento analítico",
+      "tipo": "soft",
+      "demanda": 59,
+      "oferta": 68,
+      "n_ofertas": 31,
+      "demanda_norm": 0.059959349593495935,
+      "oferta_norm": 0.05811965811965812,
+      "gap": 0.0018396914738378137,
+      "gap_pos": 0.0018396914738378137,
+      "cobertura": 0,
+      "score": 0.007532330782074214
+    },
+    {
+      "skill": "Slack",
+      "tipo": "hard",
+      "demanda": 6,
+      "oferta": 4,
+      "n_ofertas": 3,
+      "demanda_norm": 0.006097560975609756,
+      "oferta_norm": 0.003418803418803419,
+      "gap": 0.0026787575568063375,
+      "gap_pos": 0.0026787575568063375,
+      "cobertura": 0,
+      "score": 0.005212621516648067
+    },
+    {
+      "skill": "A/B testing",
+      "tipo": "hard",
+      "demanda": 2,
+      "oferta": 1,
+      "n_ofertas": 1,
+      "demanda_norm": 0.0020325203252032522,
+      "oferta_norm": 0.0008547008547008547,
+      "gap": 0.0011778194705023975,
+      "gap_pos": 0.0011778194705023975,
+      "cobertura": 0,
+      "score": 0.0012939669441265
+    },
+    {
+      "skill": "Empatía",
+      "tipo": "soft",
+      "demanda": 18,
+      "oferta": 80,
+      "n_ofertas": 9,
+      "demanda_norm": 0.018292682926829267,
+      "oferta_norm": 0.06837606837606838,
+      "gap": -0.05008338544923911,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "JavaScript",
+      "tipo": "hard",
+      "demanda": 32,
+      "oferta": 105,
+      "n_ofertas": 16,
+      "demanda_norm": 0.032520325203252036,
+      "oferta_norm": 0.08974358974358974,
+      "gap": -0.05722326454033771,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Orientación a resultados",
+      "tipo": "soft",
+      "demanda": 95,
+      "oferta": 194,
+      "n_ofertas": 48,
+      "demanda_norm": 0.09654471544715447,
+      "oferta_norm": 0.1658119658119658,
+      "gap": -0.06926725036481134,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Chino",
+      "tipo": "idioma",
+      "demanda": 0,
+      "oferta": 26,
+      "n_ofertas": 0,
+      "demanda_norm": 0.0,
+      "oferta_norm": 0.022222222222222223,
+      "gap": -0.022222222222222223,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Notion",
+      "tipo": "hard",
+      "demanda": 7,
+      "oferta": 25,
+      "n_ofertas": 4,
+      "demanda_norm": 0.007113821138211382,
+      "oferta_norm": 0.021367521367521368,
+      "gap": -0.014253700229309985,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Innovación",
+      "tipo": "soft",
+      "demanda": 27,
+      "oferta": 20,
+      "n_ofertas": 14,
+      "demanda_norm": 0.027439024390243903,
+      "oferta_norm": 0.017094017094017096,
+      "gap": 0.010345007296226807,
+      "gap_pos": 0.010345007296226807,
+      "cobertura": 1,
+      "score": 0.0
+    },
+    {
+      "skill": "Java",
+      "tipo": "hard",
+      "demanda": 27,
+      "oferta": 100,
+      "n_ofertas": 14,
+      "demanda_norm": 0.027439024390243903,
+      "oferta_norm": 0.08547008547008547,
+      "gap": -0.05803106107984157,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Español",
+      "tipo": "idioma",
+      "demanda": 0,
+      "oferta": 566,
+      "n_ofertas": 0,
+      "demanda_norm": 0.0,
+      "oferta_norm": 0.48376068376068376,
+      "gap": -0.48376068376068376,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Resiliencia",
+      "tipo": "soft",
+      "demanda": 14,
+      "oferta": 38,
+      "n_ofertas": 7,
+      "demanda_norm": 0.014227642276422764,
+      "oferta_norm": 0.03247863247863248,
+      "gap": -0.018250990202209716,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Office",
+      "tipo": "hard",
+      "demanda": 350,
+      "oferta": 94,
+      "n_ofertas": 179,
+      "demanda_norm": 0.3556910569105691,
+      "oferta_norm": 0.08034188034188035,
+      "gap": 0.2753491765686888,
+      "gap_pos": 0.2753491765686888,
+      "cobertura": 1,
+      "score": 0.0
+    },
+    {
+      "skill": "SolidWorks",
+      "tipo": "hard",
+      "demanda": 9,
+      "oferta": 12,
+      "n_ofertas": 5,
+      "demanda_norm": 0.009146341463414634,
+      "oferta_norm": 0.010256410256410256,
+      "gap": -0.0011100687929956228,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Calidad del trabajo",
+      "tipo": "soft",
+      "demanda": 0,
+      "oferta": 212,
+      "n_ofertas": 0,
+      "demanda_norm": 0.0,
+      "oferta_norm": 0.1811965811965812,
+      "gap": -0.1811965811965812,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Comunicación efectiva",
+      "tipo": "soft",
+      "demanda": 524,
+      "oferta": 504,
+      "n_ofertas": 267,
+      "demanda_norm": 0.532520325203252,
+      "oferta_norm": 0.4307692307692308,
+      "gap": 0.1017510944340212,
+      "gap_pos": 0.1017510944340212,
+      "cobertura": 1,
+      "score": 0.0
+    },
+    {
+      "skill": "Docker",
+      "tipo": "hard",
+      "demanda": 2,
+      "oferta": 28,
+      "n_ofertas": 1,
+      "demanda_norm": 0.0020325203252032522,
+      "oferta_norm": 0.023931623931623933,
+      "gap": -0.02189910360642068,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Spring Boot",
+      "tipo": "hard",
+      "demanda": 4,
+      "oferta": 29,
+      "n_ofertas": 2,
+      "demanda_norm": 0.0040650406504065045,
+      "oferta_norm": 0.024786324786324785,
+      "gap": -0.02072128413591828,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Creatividad",
+      "tipo": "soft",
+      "demanda": 73,
+      "oferta": 96,
+      "n_ofertas": 37,
+      "demanda_norm": 0.0741869918699187,
+      "oferta_norm": 0.08205128205128205,
+      "gap": -0.007864290181363351,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Canva",
+      "tipo": "hard",
+      "demanda": 120,
+      "oferta": 167,
+      "n_ofertas": 64,
+      "demanda_norm": 0.12195121951219512,
+      "oferta_norm": 0.14273504273504273,
+      "gap": -0.02078382322284761,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Liderazgo",
+      "tipo": "soft",
+      "demanda": 32,
+      "oferta": 315,
+      "n_ofertas": 16,
+      "demanda_norm": 0.032520325203252036,
+      "oferta_norm": 0.2692307692307692,
+      "gap": -0.23671044402751718,
+      "gap_pos": 0.0,
+      "cobertura": 1,
+      "score": 0.0
+    },
+    {
+      "skill": "Word",
+      "tipo": "hard",
+      "demanda": 128,
+      "oferta": 182,
+      "n_ofertas": 64,
+      "demanda_norm": 0.13008130081300814,
+      "oferta_norm": 0.15555555555555556,
+      "gap": -0.025474254742547414,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Git",
+      "tipo": "hard",
+      "demanda": 28,
+      "oferta": 78,
+      "n_ofertas": 14,
+      "demanda_norm": 0.028455284552845527,
+      "oferta_norm": 0.06666666666666667,
+      "gap": -0.038211382113821135,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Pensamiento crítico",
+      "tipo": "soft",
+      "demanda": 2,
+      "oferta": 46,
+      "n_ofertas": 1,
+      "demanda_norm": 0.0020325203252032522,
+      "oferta_norm": 0.039316239316239315,
+      "gap": -0.037283718991036066,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Revit",
+      "tipo": "hard",
+      "demanda": 4,
+      "oferta": 32,
+      "n_ofertas": 2,
+      "demanda_norm": 0.0040650406504065045,
+      "oferta_norm": 0.02735042735042735,
+      "gap": -0.023285386700020845,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Japonés",
+      "tipo": "idioma",
+      "demanda": 0,
+      "oferta": 11,
+      "n_ofertas": 0,
+      "demanda_norm": 0.0,
+      "oferta_norm": 0.009401709401709401,
+      "gap": -0.009401709401709401,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Salesforce",
+      "tipo": "hard",
+      "demanda": 6,
+      "oferta": 8,
+      "n_ofertas": 3,
+      "demanda_norm": 0.006097560975609756,
+      "oferta_norm": 0.006837606837606838,
+      "gap": -0.0007400458619970813,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Power BI",
+      "tipo": "hard",
+      "demanda": 302,
+      "oferta": 404,
+      "n_ofertas": 167,
+      "demanda_norm": 0.30691056910569103,
+      "oferta_norm": 0.3452991452991453,
+      "gap": -0.03838857619345426,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Python",
+      "tipo": "hard",
+      "demanda": 80,
+      "oferta": 298,
+      "n_ofertas": 44,
+      "demanda_norm": 0.08130081300813008,
+      "oferta_norm": 0.2547008547008547,
+      "gap": -0.1734000416927246,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Inglés",
+      "tipo": "idioma",
+      "demanda": 323,
+      "oferta": 1170,
+      "n_ofertas": 175,
+      "demanda_norm": 0.3282520325203252,
+      "oferta_norm": 1.0,
+      "gap": -0.6717479674796748,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Responsabilidad",
+      "tipo": "soft",
+      "demanda": 96,
+      "oferta": 150,
+      "n_ofertas": 50,
+      "demanda_norm": 0.0975609756097561,
+      "oferta_norm": 0.1282051282051282,
+      "gap": -0.030644152595372093,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Francés",
+      "tipo": "idioma",
+      "demanda": 0,
+      "oferta": 47,
+      "n_ofertas": 0,
+      "demanda_norm": 0.0,
+      "oferta_norm": 0.040170940170940174,
+      "gap": -0.040170940170940174,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "HubSpot",
+      "tipo": "hard",
+      "demanda": 5,
+      "oferta": 7,
+      "n_ofertas": 3,
+      "demanda_norm": 0.00508130081300813,
+      "oferta_norm": 0.005982905982905983,
+      "gap": -0.0009016051698978534,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Portugués",
+      "tipo": "idioma",
+      "demanda": 4,
+      "oferta": 92,
+      "n_ofertas": 2,
+      "demanda_norm": 0.0040650406504065045,
+      "oferta_norm": 0.07863247863247863,
+      "gap": -0.07456743798207213,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Ética",
+      "tipo": "soft",
+      "demanda": 0,
+      "oferta": 257,
+      "n_ofertas": 0,
+      "demanda_norm": 0.0,
+      "oferta_norm": 0.21965811965811965,
+      "gap": -0.21965811965811965,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Resolución de problemas",
+      "tipo": "soft",
+      "demanda": 39,
+      "oferta": 166,
+      "n_ofertas": 20,
+      "demanda_norm": 0.039634146341463415,
+      "oferta_norm": 0.14188034188034188,
+      "gap": -0.10224619553887845,
+      "gap_pos": 0.0,
+      "cobertura": 1,
+      "score": 0.0
+    },
+    {
+      "skill": "SEO",
+      "tipo": "hard",
+      "demanda": 5,
+      "oferta": 10,
+      "n_ofertas": 3,
+      "demanda_norm": 0.00508130081300813,
+      "oferta_norm": 0.008547008547008548,
+      "gap": -0.003465707734000418,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "PowerPoint",
+      "tipo": "hard",
+      "demanda": 109,
+      "oferta": 139,
+      "n_ofertas": 55,
+      "demanda_norm": 0.11077235772357724,
+      "oferta_norm": 0.1188034188034188,
+      "gap": -0.008031061079841556,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Italiano",
+      "tipo": "idioma",
+      "demanda": 0,
+      "oferta": 22,
+      "n_ofertas": 0,
+      "demanda_norm": 0.0,
+      "oferta_norm": 0.018803418803418803,
+      "gap": -0.018803418803418803,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Negociación",
+      "tipo": "soft",
+      "demanda": 78,
+      "oferta": 30,
+      "n_ofertas": 41,
+      "demanda_norm": 0.07926829268292683,
+      "oferta_norm": 0.02564102564102564,
+      "gap": 0.05362726704190119,
+      "gap_pos": 0.05362726704190119,
+      "cobertura": 1,
+      "score": 0.0
+    },
+    {
+      "skill": "Google Analytics",
+      "tipo": "hard",
+      "demanda": 7,
+      "oferta": 15,
+      "n_ofertas": 4,
+      "demanda_norm": 0.007113821138211382,
+      "oferta_norm": 0.01282051282051282,
+      "gap": -0.005706691682301438,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Desarrollo ágil",
+      "tipo": "hard",
+      "demanda": 32,
+      "oferta": 87,
+      "n_ofertas": 18,
+      "demanda_norm": 0.032520325203252036,
+      "oferta_norm": 0.07435897435897436,
+      "gap": -0.04183864915572232,
+      "gap_pos": 0.0,
+      "cobertura": 1,
+      "score": 0.0
+    },
+    {
+      "skill": "SQL",
+      "tipo": "hard",
+      "demanda": 116,
+      "oferta": 258,
+      "n_ofertas": 62,
+      "demanda_norm": 0.11788617886178862,
+      "oferta_norm": 0.2205128205128205,
+      "gap": -0.10262664165103189,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Trabajo en equipo",
+      "tipo": "soft",
+      "demanda": 155,
+      "oferta": 606,
+      "n_ofertas": 80,
+      "demanda_norm": 0.15752032520325204,
+      "oferta_norm": 0.517948717948718,
+      "gap": -0.36042839274546595,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Compromiso",
+      "tipo": "soft",
+      "demanda": 43,
+      "oferta": 384,
+      "n_ofertas": 22,
+      "demanda_norm": 0.04369918699186992,
+      "oferta_norm": 0.3282051282051282,
+      "gap": -0.2845059412132583,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "HTML",
+      "tipo": "hard",
+      "demanda": 14,
+      "oferta": 54,
+      "n_ofertas": 7,
+      "demanda_norm": 0.014227642276422764,
+      "oferta_norm": 0.046153846153846156,
+      "gap": -0.03192620387742339,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Tableau",
+      "tipo": "hard",
+      "demanda": 6,
+      "oferta": 8,
+      "n_ofertas": 4,
+      "demanda_norm": 0.006097560975609756,
+      "oferta_norm": 0.006837606837606838,
+      "gap": -0.0007400458619970813,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Figma",
+      "tipo": "hard",
+      "demanda": 9,
+      "oferta": 38,
+      "n_ofertas": 5,
+      "demanda_norm": 0.009146341463414634,
+      "oferta_norm": 0.03247863247863248,
+      "gap": -0.023332291015217846,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "PHP",
+      "tipo": "hard",
+      "demanda": 3,
+      "oferta": 32,
+      "n_ofertas": 2,
+      "demanda_norm": 0.003048780487804878,
+      "oferta_norm": 0.02735042735042735,
+      "gap": -0.024301646862622473,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Quechua",
+      "tipo": "idioma",
+      "demanda": 0,
+      "oferta": 1,
+      "n_ofertas": 0,
+      "demanda_norm": 0.0,
+      "oferta_norm": 0.0008547008547008547,
+      "gap": -0.0008547008547008547,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "React",
+      "tipo": "hard",
+      "demanda": 12,
+      "oferta": 46,
+      "n_ofertas": 7,
+      "demanda_norm": 0.012195121951219513,
+      "oferta_norm": 0.039316239316239315,
+      "gap": -0.027121117365019803,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Escucha activa",
+      "tipo": "soft",
+      "demanda": 2,
+      "oferta": 35,
+      "n_ofertas": 1,
+      "demanda_norm": 0.0020325203252032522,
+      "oferta_norm": 0.029914529914529916,
+      "gap": -0.027882009589326663,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "Adaptabilidad",
+      "tipo": "soft",
+      "demanda": 21,
+      "oferta": 525,
+      "n_ofertas": 12,
+      "demanda_norm": 0.021341463414634148,
+      "oferta_norm": 0.44871794871794873,
+      "gap": -0.42737648530331457,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "AutoCAD",
+      "tipo": "hard",
+      "demanda": 56,
+      "oferta": 145,
+      "n_ofertas": 29,
+      "demanda_norm": 0.056910569105691054,
+      "oferta_norm": 0.12393162393162394,
+      "gap": -0.06702105482593287,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "CSS",
+      "tipo": "hard",
+      "demanda": 18,
+      "oferta": 55,
+      "n_ofertas": 9,
+      "demanda_norm": 0.018292682926829267,
+      "oferta_norm": 0.04700854700854701,
+      "gap": -0.02871586408171774,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    },
+    {
+      "skill": "ArcGIS",
+      "tipo": "hard",
+      "demanda": 2,
+      "oferta": 31,
+      "n_ofertas": 1,
+      "demanda_norm": 0.0020325203252032522,
+      "oferta_norm": 0.026495726495726495,
+      "gap": -0.024463206170523243,
+      "gap_pos": 0.0,
+      "cobertura": 0,
+      "score": 0.0
+    }
+  ]
+}
